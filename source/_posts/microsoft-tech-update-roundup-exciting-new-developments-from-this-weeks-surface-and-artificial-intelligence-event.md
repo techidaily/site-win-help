@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Tech Update Roundup: Exciting New Developments From This Week's Surface and Artificial Intelligence Event"
-date: 2024-09-19 15:33:21
-updated: 2024-09-20 10:11:10
+date: 2024-09-16T16:35:30.460Z
+updated: 2024-09-23T16:08:27.894Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -114,6 +135,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +187,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/cripted-sign-offs-for-the-savvy-viewer-for-2024/"><u>[New] Scripted Sign-Offs for the Savvy Viewer for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-limitless-video-snipping-program/"><u>[Updated] In 2024, Limitless Video Snipping Program</u></a></li>
+<li><a href="https://win-help.techidaily.com/convertir-archivos-dts-a-formato-flac-sin-costo-con-el-mejor-convertidor-en-linea-gratuito-de-movavi/"><u>Convertir Archivos DTS a Formato FLAC Sin Costo Con El Mejor Convertidor en Línea Gratuito De Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/descargar-convertidor-de-archivos-caf-a-formato-digital-gratuito-con-movavi/"><u>Descargar Convertidor De Archivos CAF a Formato Digital Gratuito Con Movavi</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expert-tips-for-dealing-with-youtube-copyright-notifications-for-2024/"><u>Expert Tips for Dealing With YouTube Copyright Notifications for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/find-the-perfect-range-extender-to-maximize-wi-fi-coverage-best-picks-of-202/"><u>Find the Perfect Range Extender to Maximize Wi-Fi Coverage - Best Picks of 202지</u></a></li>
+<li><a href="https://win-help.techidaily.com/metodo-rapido-e-facile-imparare-ad-applicare-i-filtri-su-un-video/"><u>Metodo Rapido E Facile: Imparare Ad Applicare I Filtri Su Un Video</u></a></li>
+<li><a href="https://win-help.techidaily.com/movavi-mp4mpeg-2-h264/"><u>Movavi: 원활한 웹 검색을 사용하여 MP4/MPEG-2를 H.264로 무료 변환 기능</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-trim-cut-and-edit-avi-videos-with-ease-16-top-rated-tools-windows-mac-android/"><u>New In 2024, Trim, Cut, and Edit AVI Videos with Ease 16 Top-Rated Tools Windows, MAC, Android</u></a></li>
+<li><a href="https://win-help.techidaily.com/online-mov-to-3gpp-format-transformation-at-no-cost-videoripper/"><u>Online MOV to 3GPP Format Transformation at No Cost - Videoripper</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cket-engagement-key-seo-strategies-for-youtube-videos/"><u>Skyrocket Engagement Key SEO Strategies for YouTube Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-producing-exceptional-igtv-content-on-mobile-and-dslrs/"><u>The Ultimate Guide Producing Exceptional IGTV Content on Mobile & DSLRs</u></a></li>
+</ul></div>
+

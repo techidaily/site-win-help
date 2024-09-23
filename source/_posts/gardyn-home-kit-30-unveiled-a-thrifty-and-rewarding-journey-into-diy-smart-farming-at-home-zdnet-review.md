@@ -1,7 +1,7 @@
 ---
 title: "Gardyn Home Kit 3.0 Unveiled: A Thrifty and Rewarding Journey Into DIY Smart Farming at Home | ZDNET Review"
-date: 2024-09-17 23:33:40
-updated: 2024-09-20 12:23:53
+date: 2024-09-20T16:23:23.630Z
+updated: 2024-09-23T17:22:59.347Z
 tags:
   - office-furniture
 categories:
@@ -66,6 +66,13 @@ The setup itself isn't complicated but it is involved. You're basically assembli
 
 Pro tip: Set this thing up in the location where it'll end up. I thought I was doing that, but once I had the Gardyn standing in front of me in its full glory, I realized it wasn't going to work in our boat's upstairs common area. Instead, it would be relegated to the engine room downstairs, where it would freshen the air even as our big Caterpillar diesel churned away.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How its technology works
 
 Gardyn employs what it calls Hybriponic technology, a riff on "Hydroponic," which is the generic term for growing plants in water without the use of soil.
@@ -81,6 +88,13 @@ We're keeping our Gardyn 3.0 in the engine room. It makes for quite a contrast, 
 Greg Nichols/ZDNET
 
 The coolest feature is also the one that's easiest to miss. The built-in cameras monitor plant growth and optimize the schedule based on your garden. The system can tell how fast your plants are growing and customize the light and watering cycle to suit your specific garden. This is vastly more powerful than simple timer-based devices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## App experience 
 
@@ -102,6 +116,13 @@ One cool feature is that you can view your plants in real-time in your app throu
 
 The app's plant book allows for some great discoverability. I wasn't familiar with borage, for example, but look forward to growing the edible flower. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A quibble
 
 Overall I'm really impressed with the Gardyn Home Kit 3.0 and plan to use it onboard Lindy for years to come. But I do have some notes.
@@ -119,6 +140,13 @@ At the end of the day, I'm very impressed with the [Gardyn Home Kit 3.0](https:/
 Despite my quibbles above, this ranks as an impressive and [powerful home-growing system](https://www.zdnet.com/home-and-office/kitchen-household/best-indoor-garden/) for a wide variety of vegetables. The company's technology is first-rate, and while setup is a chore and water changes can be cumbersome, the proof is in the pudding. I'm getting garden fresh greens and veggies in the belly of our old boat. It's so cool being anchored off the Channel Islands here in Southern California with fresh greens for dinner waiting to be harvested below. 
 
 If you don't have outdoor space but want to grow a large quantity and variety of plants and herbs, this system should definitely be on your radar.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider 
 
@@ -155,11 +183,34 @@ A single growing stand that's expandable to 36 plants for a legit indoor farm.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/2024-approved-inspirational-article-leaderboard-maker/"><u>2024 Approved Inspirational Article Leaderboard Maker</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-your-wedding-countdown-experience-with-these-top-apps-androidios/"><u>2024 Approved Perfect Your Wedding Countdown Experience with These Top Apps (Android/iOS)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/break-the-blackout-blank-screen-on-twitch/"><u>Break the Blackout Blank Screen on Twitch</u></a></li>
+<li><a href="https://win-help.techidaily.com/convert-ts-files-into-mp4-format-top-11-methods-for-windows-mac-and-online-conversion/"><u>Convert TS Files Into MP4 Format: Top 11 Methods for Windows, Mac & Online Conversion</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/deciphering-screen-recorders-bandicam-or-camtasia/"><u>Deciphering Screen Recorders Bandicam or Camtasia?</u></a></li>
+<li><a href="https://win-help.techidaily.com/free-online-conversion-change-avi-files-to-mjpeg-format-with-ease/"><u>Free Online Conversion: Change AVI Files to MJPEG Format with Ease</u></a></li>
+<li><a href="https://win-help.techidaily.com/free-online-conversion-transforming-audio-interchange-file-aif-to-mpeg-1-audio-layer-iii-mp3-with-movavi/"><u>Free Online Conversion: Transforming Audio Interchange File (AIF) to MPEG-1 Audio Layer III (MP3) with Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/gratis-audiolibre-omvandelen-van-aiff-naar-wma-online-vervangen-door-movavi/"><u>Gratis Audiolibre Omvandelen Van AIFF Naar WMA: Online Vervangen Door Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/guia-completa-para-crear-y-aplicar-un-efecto-de-pantalla-verde-en-tus-videos-metodos-faciles-e-innovadores-2024/"><u>Guía Completa Para Crear Y Aplicar Un Efecto De Pantalla Verde en Tus Videos: Métodos Fáciles E Innovadores - 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-premium-mp4-channel-updater/"><u>In 2024, Premium MP4 Channel Updater</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-scoop-on-the-upcoming-google-pixel-smartwatch-anticipated-cost-and-launch-timeline-revealed/"><u>Inside Scoop on the Upcoming Google Pixel Smartwatch - Anticipated Cost & Launch Timeline Revealed</u></a></li>
+<li><a href="https://win-help.techidaily.com/melhores-10-construtores-originais-de-memoji-ranking-exclusivo/"><u>Melhores 10 Construtores Originais De Memoji: Ranking Exclusivo</u></a></li>
+<li><a href="https://win-help.techidaily.com/pc-yapilan-imovie-windows-tarafindan-uygulamaya-girisimizi-imovie-pc-kullanim-surecindeki-guncel-egilimi/"><u>PC Yapılan iMovie Windows Tarafından Uygulamaya Girişimizi | iMovie PC Kullanım Sürecindeki Güncel Eğilimi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-13-mini-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 13 mini Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-youtube-issues-when-audio-persists-but-video-stalls-in-chrome-and-firefox/"><u>Resolving YouTube Issues: When Audio Persists but Video Stalls in Chrome and Firefox</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-troubleshooting-steps-to-resolve-app-installation-issues/"><u>Simple Troubleshooting Steps to Resolve App Installation Issues</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-rpg-experience-awaits-in-the-elder-scrolls-v-skyrim-for-switch-gamers/"><u>The Ultimate RPG Experience Awaits in The Elder Scrolls V: Skyrim for Switch Gamers</u></a></li>
+<li><a href="https://win-help.techidaily.com/top-free-photo-editing-software-leading-picks-for-amateur-and-professional-photographers/"><u>Top Free Photo Editing Software: Leading Picks for Amateur and Professional Photographers</u></a></li>
+<li><a href="https://win-help.techidaily.com/tutorial-inedito-hacer-copias-de-seguridad-de-tus-videochats-en-whatsapp-en-pc-y-telefonos-inteligentes/"><u>Tutorial Inédito: Hacer Copias De Seguridad De Tus Videochats en WhatsApp en PC Y Teléfonos Inteligentes</u></a></li>
+<li><a href="https://win-help.techidaily.com/aif-m4r-movavi/"><u>무료 AIF M4R 바이트 형식 변환을 위한 모바일 가용성 있는 동기화 - Movavi</u></a></li>
+</ul></div>
+

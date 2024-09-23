@@ -1,7 +1,7 @@
 ---
 title: "A Deep Dive Into AI Advancements on Copilot+ Systems: Have the Hype and Features Won Me Over? | ZDNET"
-date: 2024-09-19 20:36:27
-updated: 2024-09-20 10:34:48
+date: 2024-09-18T16:51:46.307Z
+updated: 2024-09-23T16:10:17.167Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -115,15 +122,36 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,28 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-seamless-subtitle-management-a-mac-edition/"><u>[New] In 2024, Seamless Subtitle Management A Mac Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-react-type-and-converse-your-disco-messaging-playbook/"><u>[New] React, Type, and Converse Your Disco Messaging Playbook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unveiling-the-art-of-smoothing-zoom-screenshots/"><u>[New] Unveiling the Art of Smoothing Zoom Screenshots</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipating-the-pixel-buds-pro-2-upcoming-release-date-price-forecasts-and-rumored-tech-specs/"><u>Anticipating the Pixel Buds Pro 2: Upcoming Release Date, Price Forecasts, and Rumored Tech Specs!</u></a></li>
+<li><a href="https://win-help.techidaily.com/best-video-editing-software-of-2vects-to-replace-windows-movie-maker-your-ultimate-options-list/"><u>Best Video Editing Software of 2Vects to Replace Windows Movie Maker : Your Ultimate Options List</u></a></li>
+<li><a href="https://win-help.techidaily.com/convertir-archivos-dts-a-formato-flac-sin-costo-con-el-mejor-convertidor-en-linea-gratuito-de-movavi/"><u>Convertir Archivos DTS a Formato FLAC Sin Costo Con El Mejor Convertidor en Línea Gratuito De Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/convertire-i-file-mp3-o-wav-in-formato-flac-gratuitamente-online-con-movavi/"><u>Convertire I File MP3 O WAV in Formato FLAC Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-rotational-photography-versus-3d-scanning-for-2024/"><u>Full-Rotational Photography versus 3D Scanning for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/gratuitamente-converti-i-file-ogv-in-mp4-online-utilizzo-di-movavi-per-la-conversione-video-facile-e-veloce/"><u>Gratuitamente Converti I File OGV in MP4 Online - Utilizzo Di Movavi per La Conversione Video Facile E Veloce</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-memimagic-create-funny-images-on-the-go/"><u>In 2024, MemiMagic Create Funny Images On-the-Go</u></a></li>
+<li><a href="https://win-help.techidaily.com/metodo-rapido-e-facile-imparare-ad-applicare-i-filtri-su-un-video/"><u>Metodo Rapido E Facile: Imparare Ad Applicare I Filtri Su Un Video</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-guide-to-filming-for-virality-on-youtube/"><u>The Ultimate Guide to Filming for Virality on YouTube</u></a></li>
+<li><a href="https://win-help.techidaily.com/transformez-votre-fichier-swf-en-video-mkv-sans-frais-movavi/"><u>Transformez Votre Fichier SWF en Vidéo MKV Sans Frais - Movavi</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Empowers Staff with Team Upgrades - A Bold Move by ZDNet
-date: 2024-09-17 10:24:10
-updated: 2024-09-20 10:16:38
+date: 2024-09-18T16:08:35.386Z
+updated: 2024-09-23T17:00:16.718Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +135,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +193,30 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamless-podcast-experience-for-iphone-users/"><u>[Updated] Seamless Podcast Experience for iPhone Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-captures-of-apples-hd-display-shots-under-156-characters-for-2024/"><u>[Updated] Top Captures of Apple's HD Display Shots (Under 156 Characters) for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-huawei-p60-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Huawei P60 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/1726227083752-movaviflvmp4/"><u>利用Movavi在線服務無成本地改變FLV到MP4的電影格式</u></a></li>
+<li><a href="https://win-help.techidaily.com/f4v-to-mov-movavi/"><u>網上不需支付的 F4V to MOV 格式改變工具 - 利用 Movavi 頂尖效能</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-a24-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy A24 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cold-climates-hot-wins-beijing-highlights/"><u>Cold Climates, Hot Wins Beijing Highlights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oneplus-open-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock OnePlus Open Pattern Lock Screen</u></a></li>
+<li><a href="https://win-help.techidaily.com/free-online-conversion-transform-tod-to-mpg-with-movavis-easy-tool/"><u>Free Online Conversion: Transform TOD to MPG with Movavi's Easy Tool</u></a></li>
+<li><a href="https://win-help.techidaily.com/free-online-conversion-transforming-audio-interchange-file-aif-to-mpeg-1-audio-layer-iii-mp3-with-movavi/"><u>Free Online Conversion: Transforming Audio Interchange File (AIF) to MPEG-1 Audio Layer III (MP3) with Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-uninstall-graphics-driver-in-windows-quickly-and-easily/"><u>How To Uninstall Graphics Driver in Windows. Quickly & Easily</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/instant-impact-the-ultimate-10-principles-of-iphone-photography-design/"><u>Instant Impact The Ultimate 10 Principles of iPhone Photography Design</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-fcpx-2024-essentials-how-to-sync-audio-and-video-like-a-pro/"><u>New FCPX 2024 Essentials How to Sync Audio and Video Like a Pro</u></a></li>
+<li><a href="https://win-help.techidaily.com/top-free-photo-editing-software-leading-picks-for-amateur-and-professional-photographers/"><u>Top Free Photo Editing Software: Leading Picks for Amateur and Professional Photographers</u></a></li>
+<li><a href="https://win-help.techidaily.com/transformez-vos-videos-m4v-en-format-mkv-pour-une-meilleure-compatibilite-gratuitement-via-movavi/"><u>Transformez Vos Vidéos M4V en Format MKV Pour Une Meilleure Compatibilité, Gratuitement via Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/tutorial-inedito-hacer-copias-de-seguridad-de-tus-videochats-en-whatsapp-en-pc-y-telefonos-inteligentes/"><u>Tutorial Inédito: Hacer Copias De Seguridad De Tus Videochats en WhatsApp en PC Y Teléfonos Inteligentes</u></a></li>
+</ul></div>
+

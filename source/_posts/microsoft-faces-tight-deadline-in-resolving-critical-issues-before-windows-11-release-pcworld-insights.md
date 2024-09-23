@@ -1,7 +1,7 @@
 ---
 title: Microsoft Faces Tight Deadline in Resolving Critical Issues Before Windows 11 Release | PCWorld Insights
-date: 2024-09-19 18:42:41
-updated: 2024-09-20 10:34:20
+date: 2024-09-21T17:01:03.891Z
+updated: 2024-09-23T16:40:45.364Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +135,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +193,31 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-luminouslabs-top-10-free-and-paid-filters-compare/"><u>[New] LuminousLabs Top 10 Free & Paid Filters Compare</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-10-standout-educational-websites-for-self-paced-learning/"><u>[Updated] 10 Standout Educational Websites for Self-Paced Learning</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-cut-costs-improve-videos-learn-free-vimeo-editing/"><u>2024 Approved Cut Costs, Improve Videos Learn Free Vimeo Editing</u></a></li>
+<li><a href="https://win-help.techidaily.com/1726226049659-movavimp4gif/"><u>安価なオンラインツール: Movaviを使ったMP4ファイルからGIFへ無料で簡単に変換するコツ</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-source-for-free-hp-printer-driver-software-download/"><u>Best Source for Free HP Printer Driver Software [Download]</u></a></li>
+<li><a href="https://win-help.techidaily.com/conversion-mp4-en-flv-gratuite-sur-internet-methodes-efficaces-utilisant-movavi/"><u>Conversion MP4 en FLV Gratuite Sur Internet : Méthodes Efficaces Utilisant Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/convertire-i-file-mp3-o-wav-in-formato-flac-gratuitamente-online-con-movavi/"><u>Convertire I File MP3 O WAV in Formato FLAC Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/gratuitamente-converti-i-file-ogv-in-mp4-online-utilizzo-di-movavi-per-la-conversione-video-facile-e-veloce/"><u>Gratuitamente Converti I File OGV in MP4 Online - Utilizzo Di Movavi per La Conversione Video Facile E Veloce</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-a24-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy A24</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aging-google-trends-data-for-idea-genesis-in-videography-for-2024/"><u>Leveraging Google Trends Data for Idea Genesis in Videography for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-in-this-article-you-will-find-ten-of-the-best-and-most-trusted-video-editing-applications-that-do-support-4k-videos-including-both-free-4k-and-paid-4k-v/"><u>New In This Article, You Will Find Ten of the Best and Most Trusted Video Editing Applications that Do Support 4K Videos, Including Both Free 4K and Paid 4K Video Editing Software for You to Choose</u></a></li>
+<li><a href="https://win-help.techidaily.com/quick-and-easy-way-to-record-your-screen-movavis-step-by-step-tutorial/"><u>Quick & Easy Way to Record Your Screen - Movavi's Step-by-Step Tutorial</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/secrets-unveiled-for-documenting-real-time-sports/"><u>Secrets Unveiled for Documenting Real-Time Sports</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-benefits-of-using-the-claude-ai-over-chatgpt-an-in-depth-comparison/"><u>Top 4 Benefits of Using the Claude AI over ChatGPT: An In-Depth Comparison</u></a></li>
+<li><a href="https://win-help.techidaily.com/transformez-votre-fichier-swf-en-video-mkv-sans-frais-movavi/"><u>Transformez Votre Fichier SWF en Vidéo MKV Sans Frais - Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/tre-latta-steg-for-att-omvandla-wma-till-mp3-i-windowsmac-expertinsikt/"><u>Tre Lätta Steg För Att Omvandla WMA Till MP3 I Windows/Mac - Expertinsikt</u></a></li>
+<li><a href="https://win-help.techidaily.com/jpg-png/"><u>온라인 JPG에서 PNG로의 부드러운 자유성 변환 - 모바비</u></a></li>
+</ul></div>
+

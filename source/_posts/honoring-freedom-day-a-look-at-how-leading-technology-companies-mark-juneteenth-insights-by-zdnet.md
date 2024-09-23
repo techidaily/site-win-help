@@ -1,7 +1,7 @@
 ---
 title: "Honoring Freedom Day: A Look at How Leading Technology Companies Mark Juneteenth - Insights by ZDNET"
-date: 2024-09-17 23:10:57
-updated: 2024-09-20 11:46:16
+date: 2024-09-20T16:59:08.558Z
+updated: 2024-09-23T17:21:54.167Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -115,15 +122,36 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,30 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-maximizing-roi-setting-up-and-assessing-fb-instream-ads/"><u>[New] In 2024, Maximizing ROI Setting Up & Assessing FB Instream Ads</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-fabric-of-future-cutting-edge-vr-technology/"><u>2024 Approved The Fabric of Future Cutting-Edge VR Technology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/command-center-at-your-fingertips-powerdirector-2024-guide/"><u>Command Center at Your Fingertips PowerDirector 2024 Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-oppo-a59-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Oppo A59 5G</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-infinix-gt-10-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Infinix GT 10 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/free-conversion-tool-transform-swf-files-into-mp4-format-with-ease-movavi/"><u>Free Conversion Tool: Transform SWF Files Into MP4 Format with Ease - Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/free-online-converter-transform-mpeg-files-into-3g2-format-with-ease-movavi/"><u>Free Online Converter: Transform MPEG Files Into 3G2 Format with Ease - Movavi</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-logging-live-audio-on-the-go-a-user-friendly-manual/"><u>In 2024, Logging Live Audio On-the-Go A User-Friendly Manual</u></a></li>
+<li><a href="https://win-help.techidaily.com/master-video-editing-skills-like-jason-parnell-brookes-using-movavi-tools-for-stunning-results/"><u>Master Video Editing Skills Like Jason Parnell-Brookes Using Movavi Tools for Stunning Results</u></a></li>
+<li><a href="https://win-help.techidaily.com/movavi-media-player-a-secure-software-solution-for-multimedia-playback/"><u>Movavi Media Player: A Secure Software Solution for Multimedia Playback</u></a></li>
+<li><a href="https://win-help.techidaily.com/movavis-top-pick-seamless-wma-to-3gp-conversion-without-charge/"><u>Movavi's Top Pick: Seamless WMA to ^3GP Conversion Without Charge</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/navigating-the-social-media-labyrinth-30-marketing-secrets-for-2024/"><u>Navigating the Social Media Labyrinth 30 Marketing Secrets for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/software-alternati-al-programma-movie-maker-opzioni-e-suggerimenti/"><u>Software Alternati Al Programma Movie Maker: Opzioni E Suggerimenti</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-process-how-to-get-latest-d-link-drivers-on-windows-systems/"><u>Step-by-Step Process: How to Get Latest D-Link Drivers on Windows Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tecnicas-para-articulacion-de-colores/"><u>Técnicas Para Articulación De Colores</u></a></li>
+<li><a href="https://win-help.techidaily.com/1726227639385-avi-mp4/"><u>무료 AVI 영상을 MP4로 바꾸기: 온라인 도구를 사용한 단계별 가이드</u></a></li>
+</ul></div>
+

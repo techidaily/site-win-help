@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Discreet Update Sparks Major Backlash: Unveiling the Details"
-date: 2024-09-17 20:16:18
-updated: 2024-09-20 11:59:17
+date: 2024-09-16T16:39:29.896Z
+updated: 2024-09-23T16:17:14.226Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,6 +135,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +151,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +193,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-your-vlogs-with-epic-youtube-reactions-discover-3-pro-tips-for-2024/"><u>[New] Elevate Your Vlogs with Epic YouTube Reactions – Discover 3 Pro Tips for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-trailblazers-in-vr-eyewear-design/"><u>[New] Trailblazers in VR Eyewear Design</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-2-ways-to-increase-your-youtube-audience-fast/"><u>[Updated] In 2024, 2 Ways to Increase Your YouTube Audience Fast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessing-gpt-4-on-a-shoestring-budget/"><u>Accessing GPT-4 on a Shoestring Budget</u></a></li>
+<li><a href="https://win-help.techidaily.com/free-online-conversion-change-avi-files-to-mjpeg-format-with-ease/"><u>Free Online Conversion: Change AVI Files to MJPEG Format with Ease</u></a></li>
+<li><a href="https://win-help.techidaily.com/gratis-audiolibre-omvandelen-van-aiff-naar-wma-online-vervangen-door-movavi/"><u>Gratis Audiolibre Omvandelen Van AIFF Naar WMA: Online Vervangen Door Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/guia-completa-para-crear-y-aplicar-un-efecto-de-pantalla-verde-en-tus-videos-metodos-faciles-e-innovadores-2024/"><u>Guía Completa Para Crear Y Aplicar Un Efecto De Pantalla Verde en Tus Videos: Métodos Fáciles E Innovadores - 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y56-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y56 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-oppo-a59-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Oppo A59 5G Phone that is Locked?</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-downloading-content-from-tiktok/"><u>Step-by-Step Guide: Downloading Content From TikTok</u></a></li>
+<li><a href="https://win-help.techidaily.com/aif-m4r-movavi/"><u>무료 AIF M4R 바이트 형식 변환을 위한 모바일 가용성 있는 동기화 - Movavi</u></a></li>
+</ul></div>
+
