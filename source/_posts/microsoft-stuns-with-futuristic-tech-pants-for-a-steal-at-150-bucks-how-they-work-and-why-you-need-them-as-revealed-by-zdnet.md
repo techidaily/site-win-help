@@ -1,7 +1,7 @@
 ---
 title: Microsoft Stuns with Futuristic 'Tech Pants' For a Steal at 150 Bucks | How They Work & Why You Need Them, as Revealed by ZDNet
-date: 2024-09-21T16:09:52.912Z
-updated: 2024-09-23T17:05:30.702Z
+date: 2024-09-20T16:13:23.415Z
+updated: 2024-09-28T05:32:30.474Z
 tags:
   - microsoft
 categories:
@@ -112,12 +112,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-erase-the-obvious-techniques-for-masked-youtube-content/"><u>[New] 2024 Approved Erase the Obvious Techniques for Masked YouTube Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-googles-augmented-reality-stickers-in-spotlight-a-comparative-analysis-for-2024/"><u>[Updated] Google’s Augmented Reality Stickers in Spotlight - A Comparative Analysis for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-15-free-web-based-image-enhancers-2023/"><u>[Updated] In 2024, Top 15 Free Web-Based Image Enhancers 2023</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-instructions-for-upgrading-razer-blackwidow-gaming-controller-drivers/"><u>Easy Instructions for Upgrading Razer BlackWidow Gaming Controller Drivers</u></a></li>
+<li><a href="https://win-help.techidaily.com/enhance-your-ebook-navigation-by-adding-actions-to-each-page-discover-tips-at-flipbuildercom/"><u>Enhance Your eBook Navigation by Adding Actions to Each Page - Discover Tips at FlipBuilder.com</u></a></li>
+<li><a href="https://win-help.techidaily.com/enhance-your-flipbooks-aesthetics-tips-to-customize-text-style-and-color-on-flipbuildercom/"><u>Enhance Your Flipbook's Aesthetics: Tips to Customize Text Style and Color on FlipBuilder.com</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/final-impressions-how-to-design-a-standout-vimeo-end-screen/"><u>Final Impressions How to Design a Standout Vimeo End Screen</u></a></li>
+<li><a href="https://win-help.techidaily.com/flipimagepro-craft-stunning-3d-graphics-and-media-rich-albums-explore-at-flipbuilder/"><u>FlipImagePro - Craft Stunning 3D Graphics & Media-Rich Albums | Explore at FlipBuilder</u></a></li>
+<li><a href="https://win-help.techidaily.com/incorporating-audio-tracks-into-your-flipbook-projects/"><u>Incorporating Audio Tracks Into Your FlipBook Projects</u></a></li>
+<li><a href="https://win-help.techidaily.com/mastering-image-transformation-in-flipbuilder-tips-for-efficacious-image-rotation/"><u>Mastering Image Transformation in FlipBuilder - Tips for Efficacious Image Rotation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/melodypulse-recorder-downloads-guide/"><u>Melodypulse Recorder Downloads Guide</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
