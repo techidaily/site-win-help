@@ -1,7 +1,7 @@
 ---
 title: Microsoft Stuns with Futuristic 'Tech Pants' For a Steal at 150 Bucks | How They Work & Why You Need Them, as Revealed by ZDNet
-date: 2024-09-20T16:13:23.415Z
-updated: 2024-09-28T05:32:30.474Z
+date: 2024-09-28T22:37:13.863Z
+updated: 2024-10-02T23:38:42.516Z
 tags:
   - microsoft
 categories:
@@ -114,29 +114,26 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-erase-the-obvious-techniques-for-masked-youtube-content/"><u>[New] 2024 Approved Erase the Obvious Techniques for Masked YouTube Content</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-googles-augmented-reality-stickers-in-spotlight-a-comparative-analysis-for-2024/"><u>[Updated] Google’s Augmented Reality Stickers in Spotlight - A Comparative Analysis for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-15-free-web-based-image-enhancers-2023/"><u>[Updated] In 2024, Top 15 Free Web-Based Image Enhancers 2023</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-instructions-for-upgrading-razer-blackwidow-gaming-controller-drivers/"><u>Easy Instructions for Upgrading Razer BlackWidow Gaming Controller Drivers</u></a></li>
-<li><a href="https://win-help.techidaily.com/enhance-your-ebook-navigation-by-adding-actions-to-each-page-discover-tips-at-flipbuildercom/"><u>Enhance Your eBook Navigation by Adding Actions to Each Page - Discover Tips at FlipBuilder.com</u></a></li>
-<li><a href="https://win-help.techidaily.com/enhance-your-flipbooks-aesthetics-tips-to-customize-text-style-and-color-on-flipbuildercom/"><u>Enhance Your Flipbook's Aesthetics: Tips to Customize Text Style and Color on FlipBuilder.com</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/final-impressions-how-to-design-a-standout-vimeo-end-screen/"><u>Final Impressions How to Design a Standout Vimeo End Screen</u></a></li>
-<li><a href="https://win-help.techidaily.com/flipimagepro-craft-stunning-3d-graphics-and-media-rich-albums-explore-at-flipbuilder/"><u>FlipImagePro - Craft Stunning 3D Graphics & Media-Rich Albums | Explore at FlipBuilder</u></a></li>
-<li><a href="https://win-help.techidaily.com/incorporating-audio-tracks-into-your-flipbook-projects/"><u>Incorporating Audio Tracks Into Your FlipBook Projects</u></a></li>
-<li><a href="https://win-help.techidaily.com/mastering-image-transformation-in-flipbuilder-tips-for-efficacious-image-rotation/"><u>Mastering Image Transformation in FlipBuilder - Tips for Efficacious Image Rotation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/melodypulse-recorder-downloads-guide/"><u>Melodypulse Recorder Downloads Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-drive-more-traffic-effective-strategies-for-youtube-outros/"><u>[New] Drive More Traffic Effective Strategies for YouTube Outros</u></a></li>
+<li><a href="https://win-help.techidaily.com/1-access-your-flipbuilder-ebooks-anywhere-compatible-with-ios-ipados-and-android-devices/"><u>1. Access Your FlipBuilder eBooks Anywhere: Compatible with iOS, iPadOS & Android Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-inside-the-score-understanding-aspect-ratios-for-video-success/"><u>2024 Approved Inside The Score Understanding ASPECT RATIOS for Video Success</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bluescreen-of-death-in-windows-solved-by-dxgkrnlsys-fix/"><u>BlueScreen of Death in Windows Solved by dxgkrnl.sys Fix</u></a></li>
+<li><a href="https://win-help.techidaily.com/building-and-managing-your-own-expertise-index-using-flipword-by-flipbuilder/"><u>Building and Managing Your Own Expertise Index Using FlipWord by FlipBuilder</u></a></li>
+<li><a href="https://win-help.techidaily.com/convert-ts-files-into-mp4-format-top-11-methods-for-windows-mac-and-online-conversion/"><u>Convert TS Files Into MP4 Format: Top 11 Methods for Windows, Mac & Online Conversion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-virtuoso-microphone-fixes-how-to-restore-audio-functionality/"><u>Corsair Virtuoso Microphone Fixes: How to Restore Audio Functionality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-best-free-video-calls-featuring-screen-sharing-roundup/"><u>In 2024, Best Free Video Calls Featuring Screen Sharing Roundup</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18 Phone without Any Data Loss</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-streamlined-playback-import-tunes-into-inshot/"><u>In 2024, Streamlined Playback Import Tunes Into InShot</u></a></li>
+<li><a href="https://win-help.techidaily.com/melhores-10-construtores-originais-de-memoji-ranking-exclusivo/"><u>Melhores 10 Construtores Originais De Memoji: Ranking Exclusivo</u></a></li>
+<li><a href="https://win-help.techidaily.com/pc-yapilan-imovie-windows-tarafindan-uygulamaya-girisimizi-imovie-pc-kullanim-surecindeki-guncel-egilimi/"><u>PC Yapılan iMovie Windows Tarafından Uygulamaya Girişimizi | iMovie PC Kullanım Sürecindeki Güncel Eğilimi</u></a></li>
+<li><a href="https://win-help.techidaily.com/quick-and-easy-way-to-record-your-screen-movavis-step-by-step-tutorial/"><u>Quick & Easy Way to Record Your Screen - Movavi's Step-by-Step Tutorial</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unlock-cross-platform-content-sharing-convert-and-upload-with-these-tools/"><u>Unlock Cross-Platform Content Sharing Convert and Upload with These Tools</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
