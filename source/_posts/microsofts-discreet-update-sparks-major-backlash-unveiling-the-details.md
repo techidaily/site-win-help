@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Discreet Update Sparks Major Backlash: Unveiling the Details"
-date: 2024-09-28T09:20:58.427Z
-updated: 2024-10-02T19:47:33.045Z
+date: 2024-10-04T16:28:04.933Z
+updated: 2024-10-08T17:40:17.070Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,21 +142,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,16 +208,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-from-doodles-to-dollars-the-graphic-artists-guide/"><u>[Updated] In 2024, From Doodles to Dollars The Graphic Artist's Guide</u></a></li>
-<li><a href="https://win-help.techidaily.com/easy-methods-for-capturing-and-sharing-android-gaming-sessions/"><u>Easy Methods for Capturing and Sharing Android Gaming Sessions</u></a></li>
-<li><a href="https://win-help.techidaily.com/effective-methods-to-retrieve-applications-without-using-apples-or-google-play-stores/"><u>Effective Methods to Retrieve Applications Without Using Apple's or Google Play Stores</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/freezing-fun-at-the-beijing-olympics-2022/"><u>Freezing Fun at the Beijing Olympics 2022</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-reno-10-proplus-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo Reno 10 Pro+ 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-adobe-premiere-rush-vs-the-competition-top-4-alternatives-for-2024/"><u>New Adobe Premiere Rush Vs. The Competition Top 4 Alternatives for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/simple-guide-mastering-screenshot-captures-on-os-x-mountain-lion/"><u>Simple Guide: Mastering Screenshot Captures on OS X Mountain Lion</u></a></li>
-<li><a href="https://win-answers.techidaily.com/sony-walkman/"><u>Sony Walkman動画再生不能のトラブルシューティングガイド</u></a></li>
-<li><a href="https://win-help.techidaily.com/step-by-step-tutorial-connecting-and-gaming-with-your-pc-on-an-android-device/"><u>Step-by-Step Tutorial: Connecting and Gaming with Your PC on an Android Device</u></a></li>
-<li><a href="https://win-help.techidaily.com/ultimate-guide-how-to-command-your-computer-from-an-ios-device/"><u>Ultimate Guide: How to Command Your Computer From an iOS Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-pro-youtube-shorts-guide/"><u>[Updated] 2024 Approved From Novice to Pro YouTube Shorts Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-simplifying-the-art-of-mac-screen-recording-a-keyboard-gurus-insight/"><u>[Updated] 2024 Approved Simplifying the Art of Mac Screen Recording A Keyboard Guru's Insight</u></a></li>
+<li><a href="https://win-help.techidaily.com/download-high-quality-video-content-from-ku6-convert-to-various-formats-like-mp4-avi-and-wmv-with-ease/"><u>Download High-Quality Video Content From Ku6: Convert to Various Formats Like MP4, AVI, and WMV with Ease</u></a></li>
+<li><a href="https://win-help.techidaily.com/download-your-favorite-songs-from-youtube-as-mp3-or-flac-files-with-easy-steps/"><u>Download Your Favorite Songs From YouTube as MP3 or FLAC Files with Easy Steps!</u></a></li>
+<li><a href="https://win-help.techidaily.com/downloading-and-converting-boundhub-content-with-ease-mp4-mov-avi-support-included/"><u>Downloading and Converting BoundHub Content with Ease - MP4, MOV, AVI Support Included</u></a></li>
+<li><a href="https://win-help.techidaily.com/easy-methods-for-downloading-and-recording-videos-from-ifeng-as-mp4-avi-flv-mov-more/"><u>Easy Methods for Downloading and Recording Videos From Ifeng as MP4, AVI, FLV, MOV, More!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/free-software-showdown-for-premium-audio-capture-tools-for-2024/"><u>Free Software Showdown for Premium Audio Capture Tools for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hybrid-gpu-success-windows-10-tamed-by-nvidia-and-intel-switches/"><u>Hybrid GPU Success: Windows 10 Tamed by Nvidia and Intel Switches</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto G34 5G | Dr.fone</u></a></li>
 </ul></div>
 

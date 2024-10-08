@@ -1,7 +1,7 @@
 ---
 title: "Gardyn Home Kit 3.0 Unveiled: A Thrifty and Rewarding Journey Into DIY Smart Farming at Home | ZDNET Review"
-date: 2024-09-25T22:55:38.421Z
-updated: 2024-10-03T07:26:01.136Z
+date: 2024-10-06T17:41:55.126Z
+updated: 2024-10-08T17:40:22.018Z
 tags:
   - office-furniture
 categories:
@@ -66,6 +66,13 @@ The setup itself isn't complicated but it is involved. You're basically assembli
 
 Pro tip: Set this thing up in the location where it'll end up. I thought I was doing that, but once I had the Gardyn standing in front of me in its full glory, I realized it wasn't going to work in our boat's upstairs common area. Instead, it would be relegated to the engine room downstairs, where it would freshen the air even as our big Caterpillar diesel churned away.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How its technology works
 
 Gardyn employs what it calls Hybriponic technology, a riff on "Hydroponic," which is the generic term for growing plants in water without the use of soil.
@@ -83,16 +90,10 @@ Greg Nichols/ZDNET
 The coolest feature is also the one that's easiest to miss. The built-in cameras monitor plant growth and optimize the schedule based on your garden. The system can tell how fast your plants are growing and customize the light and watering cycle to suit your specific garden. This is vastly more powerful than simple timer-based devices.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## App experience 
@@ -115,13 +116,6 @@ One cool feature is that you can view your plants in real-time in your app throu
 
 The app's plant book allows for some great discoverability. I wasn't familiar with borage, for example, but look forward to growing the edible flower. 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A quibble
 
 Overall I'm really impressed with the Gardyn Home Kit 3.0 and plan to use it onboard Lindy for years to come. But I do have some notes.
@@ -133,10 +127,10 @@ Lining up the tower as it's lifted back onto the base after cleaning has consist
 [Gardyn Home Kit 3.0 $695 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJS4YMNQ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccbc986cb-8e15-439f-9af8-b09f6df18aed%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line 
@@ -148,10 +142,10 @@ Despite my quibbles above, this ranks as an impressive and [powerful home-growin
 If you don't have outdoor space but want to grow a large quantity and variety of plants and herbs, this system should definitely be on your radar.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider 
@@ -198,22 +192,20 @@ A single growing stand that's expandable to 36 plants for a legit indoor farm.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-the-art-of-audio-mastery-with-iphones-voice-recording/"><u>[New] The Art of Audio Mastery with iPhone's Voice Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-instagram-tutorial-upload-and-share-video/"><u>[Updated] In 2024, Instagram Tutorial Upload and Share Video</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-laptop-and-web-navigating-live-video-communication-in-whatsapp/"><u>[Updated] Laptop & Web Navigating Live Video Communication in WhatsApp</u></a></li>
-<li><a href="https://win-help.techidaily.com/1726226049659-movavimp4gif/"><u>安価なオンラインツール: Movaviを使ったMP4ファイルからGIFへ無料で簡単に変換するコツ</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/boost-your-farming-skills-with-stardews-top-7-mods-for-2024/"><u>Boost Your Farming Skills with Stardew's Top 7 Mods for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/conversion-mp4-en-flv-gratuite-sur-internet-methodes-efficaces-utilisant-movavi/"><u>Conversion MP4 en FLV Gratuite Sur Internet : Méthodes Efficaces Utilisant Movavi</u></a></li>
-<li><a href="https://win-help.techidaily.com/easy-methods-for-capturing-and-sharing-android-gaming-sessions/"><u>Easy Methods for Capturing and Sharing Android Gaming Sessions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-methods-to-diminish-desktop-window-managers-power-use/"><u>Effective Methods to Diminish Desktop Window Manager's Power Use</u></a></li>
-<li><a href="https://win-help.techidaily.com/excellent-methods-for-moving-songs-from-ipad-to-pc-effortlessly/"><u>Excellent Methods for Moving Songs From iPad to PC Effortlessly</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/expert-guide-to-essential-93-spanish-terms-for-adventurers/"><u>Expert Guide to Essential 93 Spanish Terms for Adventurers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-realme-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Realme ?</u></a></li>
-<li><a href="https://win-help.techidaily.com/iphone-x-custom-ringtones-available-at-no-cost-download-now/"><u>IPhone X Custom Ringtones Available at No Cost - Download Now!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/online-orf-file-format-transformation-met-gratuithe-serviceen-van-movavi-opslaan-vervangen-en-herbruiken/"><u>Online ORF File Format Transformation Met Gratuithe Serviceen Van Movavi - Opslaan, Vervangen En Herbruiken</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-lowdown-on-instagrams-video-time-frame-for-2024/"><u>The Lowdown on Instagram's Video Time Frame for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/top-5-tools-for-efficient-management-of-android-data-without-using-samsung-kies/"><u>Top 5 Tools for Efficient Management of Android Data Without Using Samsung Kies</u></a></li>
-<li><a href="https://win-help.techidaily.com/tre-latta-steg-for-att-omvandla-wma-till-mp3-i-windowsmac-expertinsikt/"><u>Tre Lätta Steg För Att Omvandla WMA Till MP3 I Windows/Mac - Expertinsikt</u></a></li>
-<li><a href="https://win-help.techidaily.com/jpg-png/"><u>온라인 JPG에서 PNG로의 부드러운 자유성 변환 - 모바비</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-comparing-reels-and-stories-whats-your-preference-for-2024/"><u>[Updated] Comparing Reels & Stories What's Your Preference for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-mp3s-from-instagram-the-easy-methodology-for-2024/"><u>[Updated] Crafting Mp3s From Instagram The Easy Methodology for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-discovering-video-content-on-fb-a-comprehensive-guide/"><u>[Updated] Discovering Video Content on FB A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-your-pcs-performance-troubleshooting-a-sluggish-windows-11-experience/"><u>Boosting Your PC's Performance: Troubleshooting a Sluggish Windows 11 Experience</u></a></li>
+<li><a href="https://win-help.techidaily.com/discover-excellent-alternatives-to-4k-video-downloader-optimized-for-both-mac-and-pc/"><u>Discover Excellent Alternatives to 4K Video Downloader – Optimized for Both Mac and PC</u></a></li>
+<li><a href="https://win-help.techidaily.com/discover-the-premier-file-sharing-platforms-with-no-cost-compatible-with-both-mac-os-and-windows/"><u>Discover the Premier File-Sharing Platforms with No Cost, Compatible with Both Mac OS and Windows!</u></a></li>
+<li><a href="https://win-help.techidaily.com/download-high-quality-video-content-from-ku6-convert-to-various-formats-like-mp4-avi-and-wmv-with-ease/"><u>Download High-Quality Video Content From Ku6: Convert to Various Formats Like MP4, AVI, and WMV with Ease</u></a></li>
+<li><a href="https://win-help.techidaily.com/download-your-favorite-songs-from-youtube-as-mp3-or-flac-files-with-easy-steps/"><u>Download Your Favorite Songs From YouTube as MP3 or FLAC Files with Easy Steps!</u></a></li>
+<li><a href="https://win-help.techidaily.com/downloading-and-converting-boundhub-content-with-ease-mp4-mov-avi-support-included/"><u>Downloading and Converting BoundHub Content with Ease - MP4, MOV, AVI Support Included</u></a></li>
+<li><a href="https://win-help.techidaily.com/easy-methods-for-downloading-and-recording-videos-from-ifeng-as-mp4-avi-flv-mov-more/"><u>Easy Methods for Downloading and Recording Videos From Ifeng as MP4, AVI, FLV, MOV, More!</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/free-movie-previews-downloads-from-movieclips-watch-top-trailers/"><u>Free Movie Previews Downloads From MovieClips - Watch Top Trailers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/image-guardian-safeguard-your-jpegs/"><u>Image Guardian: Safeguard Your JPEGs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-most-efficient-ergonomic-keyboards/"><u>Ultimate Guide to the Most Efficient Ergonomic Keyboards</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/vsdm-video-capture-overview-thorough-scrutiny/"><u>VSDM Video Capture Overview Thorough Scrutiny</u></a></li>
 </ul></div>
 

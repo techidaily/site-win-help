@@ -1,7 +1,7 @@
 ---
 title: "Honoring Freedom Day: A Look at How Leading Technology Companies Mark Juneteenth - Insights by ZDNET"
-date: 2024-09-29T04:21:14.628Z
-updated: 2024-10-03T09:41:48.291Z
+date: 2024-10-06T17:26:50.169Z
+updated: 2024-10-08T17:51:42.239Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unlock-creativity-the-best-collection-of-free-slide-show-patterns/"><u>[New] Unlock Creativity The Best Collection of Free Slide Show Patterns</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship/"><u>[Updated] Financial Insights for Vids How Much Do YouTubers Earn Per Sponsorship?</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-champions-tech-the-ultimate-gaming-toolkit/"><u>2024 Approved Champion's Tech The Ultimate Gaming Toolkit</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/live-streaming-pro-manycam-ultimate-virtual-camera-and-live-video-tools/"><u>Live Streaming Pro - ManyCam: Ultimate Virtual Camera and Live Video Tools</u></a></li>
-<li><a href="https://win-help.techidaily.com/master-bing-chat-with-dark-mode-activation-steps-unveiled-zdnet/"><u>Master Bing Chat with Dark Mode: Activation Steps Unveiled - ZDNet</u></a></li>
-<li><a href="https://win-help.techidaily.com/microsoft-empowers-staff-with-team-upgrades-a-bold-move-by-zdnet/"><u>Microsoft Empowers Staff with Team Upgrades - A Bold Move by ZDNet</u></a></li>
-<li><a href="https://win-help.techidaily.com/microsofts-discreet-update-sparks-major-backlash-unveiling-the-details/"><u>Microsoft's Discreet Update Sparks Major Backlash: Unveiling the Details</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/navigating-self-representation-on-facebook-live-calls/"><u>Navigating Self-Representation on Facebook Live Calls</u></a></li>
-<li><a href="https://win-help.techidaily.com/newly-released-features-of-copilot-in-microsoft-365-unveiling-the-latest-artificial-intelligence-capabilities/"><u>Newly Released Features of Copilot in Microsoft 365 - Unveiling the Latest Artificial Intelligence Capabilities</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-honor-play-7t-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Honor Play 7T</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-spark-20-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/top-alternatives-to-9anime-discover-20-amazing-sites-for-streaming-anime-anytime/"><u>Top Alternatives to 9Anime: Discover 20 Amazing Sites for Streaming Anime Anytime</u></a></li>
-<li><a href="https://win-help.techidaily.com/top-picks-for-the-ultimate-tech-showdown-featuring-apple-and-dell-among-others-zdnet-review/"><u>Top Picks for the Ultimate Tech Showdown - Featuring Apple & Dell Among Others | ZDNet Review</u></a></li>
-<li><a href="https://win-help.techidaily.com/troubleshooting-windows-search-errors-a-comprehensive-guide/"><u>Troubleshooting Windows Search Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-device-guide-for-google-meet-access/"><u>[New] 2024 Approved Device Guide for Google Meet Access</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-filmmakers-ally-unlocking-youtube-studio-editor-secrets/"><u>[New] 2024 Approved The Filmmaker's Ally Unlocking YouTube Studio Editor Secrets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-harness-your-screen-with-screencastify-recorder/"><u>[Updated] 2024 Approved Harness Your Screen with Screencastify Recorder</u></a></li>
+<li><a href="https://win-help.techidaily.com/comprehensive-guide-and-visual-aid-mastering-crossplay-between-pc-and-android-systems-for-gaming-enthusiasts/"><u>Comprehensive Guide & Visual Aid: Mastering Crossplay Between PC and Android Systems for Gaming Enthusiasts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-g2-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo G2 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-tools-for-effortless-recording-of-desktop-screens-on-windows-10/"><u>In 2024, Top Tools for Effortless Recording of Desktop Screens on Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/in-depth-testing-results-for-the-chargetech-27000mah-battery-pack-a-large-capacity-solution-unveiled/"><u>In-Depth Testing Results for the ChargeTech 27000mAh Battery Pack: A Large Capacity Solution Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-next-gen-macbook-pro-m3-releasing-dates-cost-breakdowns-and-cutting-edge-tech-specs-unveiled/"><u>Inside the Next-Gen MacBook Pro (M3): Releasing Dates, Cost Breakdowns & Cutting-Edge Tech Specs Unveiled</u></a></li>
+<li><a href="https://win-help.techidaily.com/insights-into-windows-media-video-wmv-format-and-its-usage/"><u>Insights Into Windows Media Video (WMV) Format and Its Usage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pros-and-cons-of-vsdc-the-ultimate-guide/"><u>Pros & Cons of VSDC The Ultimate Guide</u></a></li>
+<li><a href="https://win-help.techidaily.com/quick-steps-for-building-an-online-signature-thats-crystal-clear-latest-techniques-2022/"><u>Quick Steps for Building an Online Signature That's Crystal Clear - Latest Techniques, 2022</u></a></li>
+<li><a href="https://win-help.techidaily.com/seamless-m4a-to-wma-file-conversion-techniques-for-optimal-audio-quality/"><u>Seamless M4A to WMA File Conversion Techniques for Optimal Audio Quality</u></a></li>
+<li><a href="https://win-help.techidaily.com/simple-and-effective-methods-mastering-free-music-downloads-on-raaga/"><u>Simple & Effective Methods: Mastering Free Music Downloads on Raaga</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-destination-charger-benefits-get-your-tesla-charged-at-no-cost/"><u>Understanding Destination Charger Benefits: Get Your Tesla Charged at No Cost</u></a></li>
 </ul></div>
 

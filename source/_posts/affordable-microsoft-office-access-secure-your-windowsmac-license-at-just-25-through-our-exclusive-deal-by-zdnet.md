@@ -1,7 +1,7 @@
 ---
 title: Affordable Microsoft Office Access! Secure Your Windows/Mac License at Just $25 Through Our Exclusive Deal by ZDNet.
-date: 2024-09-26T20:37:08.322Z
-updated: 2024-10-03T08:10:33.510Z
+date: 2024-10-03T18:12:36.596Z
+updated: 2024-10-08T16:49:27.634Z
 tags:
   - microsoft
 categories:
@@ -53,19 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -75,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -97,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -153,10 +147,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-uninterrupted-video-with-proper-obs-settings/"><u>[New] Uninterrupted Video with Proper OBS Settings</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-11-best-beginnerwaterproofvlogging-camera-for-kids-easy-to-use/"><u>[Updated] 2024 Approved 11 Best Beginner/Waterproof/Vlogging Camera for Kids (Easy-to-Use)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unveiling-the-top-6-favorite-short-form-video-download-tools/"><u>[Updated] 2024 Approved Unveiling the Top 6 Favorite Short-Form Video Download Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unlock-the-power-of-online-interaction-essential-tips-for-successful-zoom-chats/"><u>[Updated] In 2024, Unlock the Power of Online Interaction Essential Tips for Successful Zoom Chats</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/back-4-blood-resolved-troubleshooting-guide-for-fixing-voice-chat-issues/"><u>Back 4 Blood: Resolved - Troubleshooting Guide for Fixing Voice Chat Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/car-charge-denied-by-device/"><u>Car Charge Denied by Device</u></a></li>
-<li><a href="https://win-help.techidaily.com/free-conversion-tool-transform-swf-files-into-mp4-format-with-ease-movavi/"><u>Free Conversion Tool: Transform SWF Files Into MP4 Format with Ease - Movavi</u></a></li>
-<li><a href="https://win-help.techidaily.com/free-online-converter-transform-mpeg-files-into-3g2-format-with-ease-movavi/"><u>Free Online Converter: Transform MPEG Files Into 3G2 Format with Ease - Movavi</u></a></li>
-<li><a href="https://win-help.techidaily.com/gratuito-conversor-online-de-dpx-para-tiff-moviavi/"><u>Gratuito Conversor Online De DPX Para TIFF - MoviAVI</u></a></li>
-<li><a href="https://win-help.techidaily.com/guide-complet-convertissez-facilement-mp4-vers-wma-sans-frais-sur-la-plateforme-de-conversion-movavi/"><u>Guide Complet : Convertissez Facilement MP4 Vers WMA Sans Frais Sur La Plateforme De Conversion Movavi</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-s23-tactical-edition-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy S23 Tactical Edition Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-the-mobile-frontier-of-animation-storage-and-viewing-iphone/"><u>Mastering the Mobile Frontier of Animation Storage & Viewing (iPhone)</u></a></li>
-<li><a href="https://win-help.techidaily.com/movavi-media-player-a-secure-software-solution-for-multimedia-playback/"><u>Movavi Media Player: A Secure Software Solution for Multimedia Playback</u></a></li>
-<li><a href="https://win-help.techidaily.com/movavi-mp4mpeg-2-h264/"><u>Movavi: 원활한 웹 검색을 사용하여 MP4/MPEG-2를 H.264로 무료 변환 기능</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>New In 2024, Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
-<li><a href="https://win-help.techidaily.com/online-gratuito-per-la-conversione-di-mp3-in-formato-m4b-audiobook-utilizzo-di-movavi/"><u>Online Gratuito per La Conversione Di MP3 in Formato M4B Audiobook - Utilizzo Di Movavi</u></a></li>
-<li><a href="https://win-help.techidaily.com/1726227639385-avi-mp4/"><u>무료 AVI 영상을 MP4로 바꾸기: 온라인 도구를 사용한 단계별 가이드</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-key-practices-for-amassing-picture-resources/"><u>[Updated] In 2024, Key Practices for Amassing Picture Resources</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-shuttered-creations-sudden-delete-incidents/"><u>[Updated] In 2024, Shuttered Creations Sudden Delete Incidents</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professional-gopro-footage-in-3-simple-steps/"><u>[Updated] Professional Gopro Footage in 3 Simple Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-the-scoring-of-toolwizs-photography-software/"><u>2024 Approved Inside the Scoring of Toolwiz's Photography Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/achieving-maximum-comfort-in-vr-landscape-for-2024/"><u>Achieving Maximum Comfort in VR Landscape for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/easy-guide-how-to-successfully-download-videos-from-any-site-step-by-step-instructions/"><u>Easy Guide: How To Successfully Download Videos From Any Site – Step-by-Step Instructions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-lenovo-yoga-embrace-the-power-of-updated-win10-drivers/"><u>Enhance Lenovo Yoga - Embrace the Power of Updated Win10 Drivers</u></a></li>
+<li><a href="https://win-help.techidaily.com/get-answers-to-common-queries-on-mirilli-products-and-services/"><u>Get Answers to Common Queries on Mirilli Products and Services!</u></a></li>
+<li><a href="https://win-help.techidaily.com/guide-to-selecting-the-best-webcams-for-gaming-and-live-streaming-how-to-tips-and-reviews/"><u>Guide to Selecting the Best Webcams for Gaming and Live Streaming: How-To Tips & Reviews</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-8-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 8 Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-12plus-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme 12+ 5G</u></a></li>
+<li><a href="https://win-help.techidaily.com/seamless-video-capture-from-now-tv-streaming-service-for-both-windows-and-macos/"><u>Seamless Video Capture From Now TV Streaming Service for Both Windows & macOS</u></a></li>
+<li><a href="https://win-help.techidaily.com/step-by-step-guide-downloading-usa-today-news-videos-from-pc-or-mac/"><u>Step-by-Step Guide: Downloading 'USA Today' News Videos From PC or Mac</u></a></li>
+<li><a href="https://win-help.techidaily.com/step-by-step-guide-downloading-videos-from-vkonto-apps-on-pc-or-mac/"><u>Step-by-Step Guide: Downloading Videos From VKonto Apps on PC or MAC</u></a></li>
+<li><a href="https://win-help.techidaily.com/the-ultimate-guide-to-top-5-highest-ranked-video-downloading-tools-for-macos-and-windows-users/"><u>The Ultimate Guide to Top 5 Highest-Ranked Video Downloading Tools for macOS & Windows Users</u></a></li>
+<li><a href="https://win-help.techidaily.com/top-spotify-visualizer-plugins-essential-picks/"><u>Top Spotify Visualizer Plugins: Essential Picks</u></a></li>
+<li><a href="https://win-help.techidaily.com/top-ranking-mp3-converter-software-compared-allavsoft-vs-others/"><u>Top-Ranking MP3 Converter Software Compared: Allavsoft vs Others</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ymtc-files-lawsuit-against-micron-in-us-claims-unauthorized-use-of-11-chinese-owned-memory-patents/"><u>YMTC Files Lawsuit Against Micron in U.S.: Claims Unauthorized Use of 11 Chinese-Owned Memory Patents</u></a></li>
 </ul></div>
 

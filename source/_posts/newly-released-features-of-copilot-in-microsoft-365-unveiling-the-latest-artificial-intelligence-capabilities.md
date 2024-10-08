@@ -1,7 +1,7 @@
 ---
 title: Newly Released Features of Copilot in Microsoft 365 - Unveiling the Latest Artificial Intelligence Capabilities
-date: 2024-10-02T07:28:41.205Z
-updated: 2024-10-03T04:32:41.431Z
+date: 2024-10-06T16:04:53.156Z
+updated: 2024-10-08T16:45:53.421Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,28 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,21 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-becoming-a-video-marketing-vanguard-on-facebook-with-these-20-methods/"><u>[New] Becoming a Video Marketing Vanguard on Facebook with These 20 Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fast-forward-to-forgotten-reddit-threads/"><u>[New] Fast Forward to Forgotten Reddit Threads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pictolaugh-design-humor-graphics/"><u>[New] PictoLaugh Design Humor Graphics</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-labyrinth-luminaries-top-10-roguelike-highlights/"><u>[Updated] In 2024, Labyrinth Luminaries Top 10 Roguelike Highlights</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-understanding-and-utilizing-adobes-storage-plus-insights-into-alternate-vaulting-services/"><u>[Updated] Understanding and Utilizing Adobe's Storage, Plus Insights Into Alternate Vaulting Services</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-the-essential-list-6-diverse-websites-for-youtube-visuals/"><u>2024 Approved The Essential List 6 Diverse Websites for YouTube Visuals</u></a></li>
-<li><a href="https://win-help.techidaily.com/1726226049659-movavimp4gif/"><u>安価なオンラインツール: Movaviを使ったMP4ファイルからGIFへ無料で簡単に変換するコツ</u></a></li>
-<li><a href="https://win-help.techidaily.com/conversion-mp4-en-flv-gratuite-sur-internet-methodes-efficaces-utilisant-movavi/"><u>Conversion MP4 en FLV Gratuite Sur Internet : Méthodes Efficaces Utilisant Movavi</u></a></li>
-<li><a href="https://win-help.techidaily.com/excellent-methods-for-moving-songs-from-ipad-to-pc-effortlessly/"><u>Excellent Methods for Moving Songs From iPad to PC Effortlessly</u></a></li>
-<li><a href="https://win-help.techidaily.com/iphone-x-custom-ringtones-available-at-no-cost-download-now/"><u>IPhone X Custom Ringtones Available at No Cost - Download Now!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-beginner-to-pro-best-mac-video-editing-software/"><u>New 2024 Approved From Beginner to Pro Best Mac Video Editing Software</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-up-youtube-your-first-gear-list-for-2024/"><u>Starting Up YouTube - Your First Gear List for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/loggers-guide-to-optimal-lens-performance/"><u>The Vlogger's Guide to Optimal Lens Performance</u></a></li>
-<li><a href="https://win-help.techidaily.com/top-5-tools-for-efficient-management-of-android-data-without-using-samsung-kies/"><u>Top 5 Tools for Efficient Management of Android Data Without Using Samsung Kies</u></a></li>
-<li><a href="https://win-help.techidaily.com/tre-latta-steg-for-att-omvandla-wma-till-mp3-i-windowsmac-expertinsikt/"><u>Tre Lätta Steg För Att Omvandla WMA Till MP3 I Windows/Mac - Expertinsikt</u></a></li>
-<li><a href="https://win-help.techidaily.com/jpg-png/"><u>온라인 JPG에서 PNG로의 부드러운 자유성 변환 - 모바비</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-discover-affordable-premium-asmr-audio-equipment/"><u>[New] 2024 Approved Discover Affordable Premium ASMR Audio Equipment</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unleashing-vrecorders-capabilities-download-and-setup-guide-for-2024/"><u>[New] Unleashing VRecorder's Capabilities – Download & Setup Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-step-up-your-game-expert-tips-on-producing-compelling-slow-motion-photos-and-videos-for-instagram/"><u>2024 Approved Step Up Your Game Expert Tips on Producing Compelling Slow Motion Photos and Videos for Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-acoustic-bridge-to-captivating-trailers/"><u>2024 Approved The Acoustic Bridge to Captivating Trailers</u></a></li>
+<li><a href="https://win-help.techidaily.com/access-gratis-tutorials-and-lectures-downloading-resources-from-learnerstv/"><u>Access Gratis Tutorials & Lectures - Downloading Resources From LearnersTV</u></a></li>
+<li><a href="https://win-help.techidaily.com/free-movie-previews-downloads-from-movieclips-watch-top-trailers/"><u>Free Movie Previews Downloads From MovieClips - Watch Top Trailers</u></a></li>
+<li><a href="https://win-help.techidaily.com/guide-converting-and-downloading-your-favorite-vrv-show-episodes-in-multiple-formats/"><u>Guide: Converting and Downloading Your Favorite VRV Show Episodes in Multiple Formats</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-12r-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus 12R Phone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-lava-blaze-2-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Lava Blaze 2 Pro FRP</u></a></li>
+<li><a href="https://win-help.techidaily.com/spotify-vs-pandora-a-comprehensive-showdown-for-avid-music-enthusiasts/"><u>Spotify Vs. Pandora: A Comprehensive Showdown for Avid Music Enthusiasts</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/transforma-tus-videos-3g2-en-archivo-wmv-de-alta-calidad-de-gratis-utilizando-movavi/"><u>Transforma Tus Videos 3G2 en Archivo WMV De Alta Calidad De Gratis Utilizando Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/ultimate-tutorial-downloading-editing-and-saving-youtube-content-as-a-dvd-on-macos-and-windows-systems/"><u>Ultimate Tutorial: Downloading, Editing, and Saving YouTube Content as a DVD on macOS & Windows Systems</u></a></li>
 </ul></div>
 

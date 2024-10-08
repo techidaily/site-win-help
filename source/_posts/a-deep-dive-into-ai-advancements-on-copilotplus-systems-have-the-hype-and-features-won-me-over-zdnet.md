@@ -1,7 +1,7 @@
 ---
 title: "A Deep Dive Into AI Advancements on Copilot+ Systems: Have the Hype and Features Won Me Over? | ZDNET"
-date: 2024-10-01T17:37:29.817Z
-updated: 2024-10-03T06:35:56.173Z
+date: 2024-10-02T16:54:37.301Z
+updated: 2024-10-08T17:37:21.829Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,19 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -95,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,15 +135,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,24 +202,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-constructing-coherent-youtube-video-sequences/"><u>[New] 2024 Approved Constructing Coherent YouTube Video Sequences</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-step-by-step-methods-for-easy-instagram-video-uploads-from-desktop/"><u>[New] 2024 Approved Step-by-Step Methods for Easy Instagram Video Uploads From Desktop</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-exhilarating-freeness-of-screen-pairing-games-for-2024/"><u>[New] Exhilarating Freeness of Screen Pairing Games for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transform-instagram-notifications-diy-sound-design/"><u>[New] Transform Instagram Notifications DIY Sound Design</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-mastering-the-art-of-preventing-vr-sickness/"><u>[Updated] Mastering the Art of Preventing VR Sickness</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-system-requirements-guide-for-the-latest-mac-os-release/"><u>2024 Approved System Requirements Guide for the Latest Mac OS Release</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-secret-handbook-to-instagrams-exclusive-club-elevating-your-profile-with-six-tips/"><u>2024 Approved The Secret Handbook to Instagram's Exclusive Club Elevating Your Profile with Six Tips</u></a></li>
-<li><a href="https://win-help.techidaily.com/free-conversion-tool-transform-swf-files-into-mp4-format-with-ease-movavi/"><u>Free Conversion Tool: Transform SWF Files Into MP4 Format with Ease - Movavi</u></a></li>
-<li><a href="https://win-help.techidaily.com/free-online-converter-transform-mpeg-files-into-3g2-format-with-ease-movavi/"><u>Free Online Converter: Transform MPEG Files Into 3G2 Format with Ease - Movavi</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/from-disjointed-to-harmonious-the-logic-pro-x-transition-tale/"><u>From Disjointed to Harmonious The Logic Pro X Transition Tale</u></a></li>
-<li><a href="https://win-help.techidaily.com/gratuito-conversor-online-de-dpx-para-tiff-moviavi/"><u>Gratuito Conversor Online De DPX Para TIFF - MoviAVI</u></a></li>
-<li><a href="https://win-help.techidaily.com/guide-complet-convertissez-facilement-mp4-vers-wma-sans-frais-sur-la-plateforme-de-conversion-movavi/"><u>Guide Complet : Convertissez Facilement MP4 Vers WMA Sans Frais Sur La Plateforme De Conversion Movavi</u></a></li>
-<li><a href="https://win-help.techidaily.com/movavi-media-player-a-secure-software-solution-for-multimedia-playback/"><u>Movavi Media Player: A Secure Software Solution for Multimedia Playback</u></a></li>
-<li><a href="https://win-help.techidaily.com/movavis-top-pick-seamless-wma-to-3gp-conversion-without-charge/"><u>Movavi's Top Pick: Seamless WMA to ^3GP Conversion Without Charge</u></a></li>
-<li><a href="https://win-help.techidaily.com/online-gratuito-per-la-conversione-di-mp3-in-formato-m4b-audiobook-utilizzo-di-movavi/"><u>Online Gratuito per La Conversione Di MP3 in Formato M4B Audiobook - Utilizzo Di Movavi</u></a></li>
-<li><a href="https://win-help.techidaily.com/software-alternati-al-programma-movie-maker-opzioni-e-suggerimenti/"><u>Software Alternati Al Programma Movie Maker: Opzioni E Suggerimenti</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-stop-discord-initial-launch-and-searching-at-boot/"><u>Techniques: Stop Discord Initial Launch & Searching at Boot</u></a></li>
-<li><a href="https://some-tips.techidaily.com/wireguard-integration-available-in-proton-vpns-new-release-improved-privacy-and-speed-for-linux-users/"><u>WireGuard Integration Available in Proton VPN's New Release – Improved Privacy and Speed for Linux Users</u></a></li>
-<li><a href="https://win-help.techidaily.com/1726227639385-avi-mp4/"><u>무료 AVI 영상을 MP4로 바꾸기: 온라인 도구를 사용한 단계별 가이드</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-reality-altered-by-virtual-sight/"><u>[New] Reality Altered by Virtual Sight</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-streamlining-obs-studio-edits-top-5-proven-productivity-hacks/"><u>[Updated] 2024 Approved Streamlining OBS Studio Edits Top 5 Proven Productivity Hacks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-on-screen-recording-assistant/"><u>2024 Approved On-Screen Recording Assistant</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-audiophile-selection/"><u>Android's Audiophile Selection</u></a></li>
+<li><a href="https://win-help.techidaily.com/get-cinematic-views-with-zumvo-easy-access-to-free-movie-downloads-and-trailer-sneak-peeks/"><u>Get Cinematic Views with Zumvo: Easy Access to Free Movie Downloads and Trailer Sneak Peeks</u></a></li>
+<li><a href="https://win-help.techidaily.com/guide-how-to-convert-and-save-tom-and-jerry-episodes-in-popular-video-formats-like-mp4-avi/"><u>Guide: How to Convert and Save Tom & Jerry Episodes in Popular Video Formats Like MP4, AVI</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-to-download-films-from-nosvideo-in-various-formats-like-mp4-wmv-and-avi/"><u>How to Download Films From Nosvideo in Various Formats Like MP4, WMV & AVI</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-to-effortlessly-convert-youtube-videos-to-m4a-format-on-your-computer-or-laptop/"><u>How to Effortlessly Convert YouTube Videos to M4A Format on Your Computer or Laptop</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-to-save-and-download-linkedin-tutorials-as-popular-video-formats-for-pc-and-mac-enthusiasts/"><u>How to Save and Download LinkedIn Tutorials as Popular Video Formats for PC and MAC Enthusiasts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/low-hassle-chromebook-sound-recording-a-step-by-step-approach-for-2024/"><u>Low-Hassle Chromebook Sound Recording A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/making-every-sound-count-mac-audio-mastery-in-audacity-for-2024/"><u>Making Every Sound Count Mac Audio Mastery in Audacity for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-video-editor-winx-hd-converter-pro-effortlessly-transform-and-optimize-your-movies-using-cutting-edge-gpu-power/"><u>Ultimate Video Editor: WinX HD Converter Pro - Effortlessly Transform and Optimize Your Movies Using Cutting-Edge GPU Power</u></a></li>
 </ul></div>
 

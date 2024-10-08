@@ -1,7 +1,7 @@
 ---
 title: Future of Free Updates Ending? Microsoft Plans to Introduce Charges for Windows Amo! Updates - Estimated Costs Revealed
-date: 2024-10-01T05:16:32.609Z
-updated: 2024-10-03T06:06:11.989Z
+date: 2024-10-03T17:34:15.368Z
+updated: 2024-10-08T17:58:30.053Z
 tags:
   - windows
 categories:
@@ -39,13 +39,6 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -61,24 +54,37 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -92,10 +98,16 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -104,18 +116,18 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,18 +168,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-iphone-photography-101-simple-strategies/"><u>[New] 2024 Approved IPhone Photography 101 Simple Strategies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-softening-the-end-effective-methods-for-reducing-volume-in-premiere-pro/"><u>[New] Softening the End Effective Methods for Reducing Volume in Premiere Pro</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/airborne-tenacity-top-10-longest-flying-drones/"><u>Airborne Tenacity Top 10 Longest-Flying Drones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-solution-for-dealing-with-binkw32dll-file-not-found-errors/"><u>Complete Solution for Dealing with Binkw32.DLL File Not Found Errors</u></a></li>
-<li><a href="https://win-help.techidaily.com/easy-guide-how-to-successfully-download-videos-from-any-site-step-by-step-instructions/"><u>Easy Guide: How To Successfully Download Videos From Any Site – Step-by-Step Instructions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/masterful-photography-budget-friendly-fz80-review/"><u>Masterful Photography, Budget-Friendly - FZ80 Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sharpening-attention-utilizing-leading-lines-on-iphone-for-2024/"><u>Sharpening Attention Utilizing Leading Lines on iPhone for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/the-ultimate-guide-to-top-5-highest-ranked-video-downloading-tools-for-macos-and-windows-users/"><u>The Ultimate Guide to Top 5 Highest-Ranked Video Downloading Tools for macOS & Windows Users</u></a></li>
-<li><a href="https://win-help.techidaily.com/top-spotify-visualizer-plugins-essential-picks/"><u>Top Spotify Visualizer Plugins: Essential Picks</u></a></li>
-<li><a href="https://win-help.techidaily.com/top-ranking-mp3-converter-software-compared-allavsoft-vs-others/"><u>Top-Ranking MP3 Converter Software Compared: Allavsoft vs Others</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successfully-resolving-loadlibrary-error-code-87/"><u>Troubleshooting Guide: Successfully Resolving LoadLibrary Error Code 87</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-to-the-budget-champion-unveiling-the-strengths-of-acer-aspire-e-15/"><u>Ultimate Guide to the Budget Champion: Unveiling the Strengths of Acer Aspire E 15</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-video-editing-essentials-import-edit-and-export-in-adobe-premiere-2023-for-2024/"><u>Updated Video Editing Essentials Import, Edit, and Export in Adobe Premiere 2023 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-aural-alchemy-transforming-imovie-videos-with-music/"><u>[New] Aural Alchemy Transforming iMovie Videos with Music</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlock-youtube-potential-with-tubebuddy-strategies/"><u>[Updated] 2024 Approved Unlock YouTube Potential with TubeBuddy Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhance-mobile-viewing-fb-videos-on-android/"><u>[Updated] Enhance Mobile Viewing FB Videos on Android</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-essential-first-timer-props-for-gopros/"><u>[Updated] In 2024, Essential First-Timer Props for GoPros</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-optimal-video-chat-on-windows-1-8-for-2024/"><u>[Updated] Optimal Video Chat on Windows #1-8 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/fy-impact-strategies-for-growing-youtube-fans/"><u>Amplify Impact Strategies for Growing YouTube Fans</u></a></li>
+<li><a href="https://win-help.techidaily.com/complete-guide-mastering-the-apowermanager-in-android-sdk-version-30/"><u>Complete Guide: Mastering the ApowerManager in Android SDK Version 3.0</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2s-ultimate-fix-the-2024-broccoli-crisis-resolution/"><u>Destiny 2'S Ultimate Fix: The 2024 Broccoli Crisis Resolution</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/introducing-microsofts-tech-pants-at-150-the-latest-wearable-technology-reviewed-by-zdnet/"><u>Introducing Microsoft's Tech Pants at $150 – The Latest Wearable Technology Reviewed by ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-90-lite-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor 90 Lite – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/the-pitfalls-of-debloating-windows-os-better-alternatives-explored-techinsights/"><u>The Pitfalls of Debloating Windows OS - Better Alternatives Explored | TechInsights</u></a></li>
+<li><a href="https://win-help.techidaily.com/understanding-ai-pcs-and-their-value-is-it-time-to-upgrade-your-system/"><u>Understanding AI PCs and Their Value - Is It Time to Upgrade Your System?</u></a></li>
+<li><a href="https://win-help.techidaily.com/understanding-ip-changes-reasons-and-timing-tips-from-zdnet/"><u>Understanding IP Changes: Reasons & Timing – Tips From ZDNet</u></a></li>
+<li><a href="https://win-help.techidaily.com/understanding-the-role-of-tpm-in-windows-11-a-guide-by-zdnet/"><u>Understanding the Role of TPM in Windows 11: A Guide by ZDNet</u></a></li>
+<li><a href="https://win-help.techidaily.com/unveiling-the-mystery-how-did-crowdstrike-trigger-windows-historic-meltdnought-a-detailed-historical-analysis-techworld/"><u>Unveiling the Mystery: How Did CrowdStrike Trigger Windows' Historic Meltdnought ? A Detailed Historical Analysis | TechWorld</u></a></li>
+<li><a href="https://win-help.techidaily.com/what-you-need-to-know-microsoft-announces-paid-pricing-plan-for-windows-11-updates-cost-breakdown/"><u>What You Need To Know: Microsoft Announces Paid Pricing Plan For Windows 11 Updates - Cost Breakdown</u></a></li>
+<li><a href="https://win-help.techidaily.com/windows-11-update-could-limit-user-personalizations-with-microsofts-new-restrictions-latest-from-zdnet/"><u>Windows 11 Update Could Limit User Personalizations with Microsoft's New Restrictions - Latest From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725285768651-winxvideo-ai/"><u>WinxVideo AI助您改善影像質素，获得超凡之作</u></a></li>
 </ul></div>
 

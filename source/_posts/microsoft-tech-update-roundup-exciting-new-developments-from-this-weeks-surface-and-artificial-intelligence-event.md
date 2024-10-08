@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Tech Update Roundup: Exciting New Developments From This Week's Surface and Artificial Intelligence Event"
-date: 2024-09-28T02:41:05.951Z
-updated: 2024-10-03T11:20:14.385Z
+date: 2024-10-02T18:12:35.187Z
+updated: 2024-10-08T18:01:40.654Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-10-gratis-video-call-tools-for-virtual-gatherings/"><u>[Updated] 2024 Approved Top 10 Gratis Video Call Tools for Virtual Gatherings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-best-cloud-storage-deals-prices-to-watch-for-2024/"><u>[Updated] Best Cloud Storage Deals – Prices to Watch for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-cyclings-apex-titles-for-gamers/"><u>[Updated] In 2024, Cycling's Apex Titles for Gamers</u></a></li>
-<li><a href="https://win-help.techidaily.com/can-you-design-and-create-your-custom-book-cover-using-flipbuildercoms-tools/"><u>Can You Design and Create Your Custom Book Cover Using FlipBuilder.com's Tools?</u></a></li>
-<li><a href="https://win-help.techidaily.com/create-interactive-slide-shows-with-ease-master-the-art-of-seamless-image-transitions-using-our-flipbuilder-tool/"><u>Create Interactive Slide Shows with Ease - Master the Art of Seamless Image Transitions Using Our FlipBuilder Tool</u></a></li>
-<li><a href="https://win-help.techidaily.com/creating-your-own-handmade-flip-book-album-with-printed-images-on-flipbuilder/"><u>Creating Your Own Handmade Flip Book Album with Printed Images on FlipBuilder</u></a></li>
-<li><a href="https://win-help.techidaily.com/effortlessly-transform-docx-into-editable-pdfs-for-free-discover-our-user-friendly-conversion-service/"><u>Effortlessly Transform DOCX Into Editable PDFs for Free - Discover Our User-Friendly Conversion Service!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-restrictions-of-chatgpt-seven-unanswerable-topics/"><u>Exploring the Restrictions of ChatGPT: Seven Unanswerable Topics</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/infinix-note-30-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Infinix Note 30 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-logitech-c615-a-detailed-analysis-of-its-value-and-functionality/"><u>Unveiling the Logitech C615: A Detailed Analysis of Its Value & Functionality</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1726029152602-dvd/"><u>ダビング可能なDVDを簡単に切り取れる無料アプリ３本記事</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2023s-comprehensive-guide-to-ios-device-screen-capture-for-2024/"><u>[New] 2023'S Comprehensive Guide to iOS Device Screen Capture for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-channel-alchemy-turning-viewers-into-believers-for-2024/"><u>[New] Channel Alchemy Turning Viewers Into Believers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vlogs-to-virality-jake-paul-the-online-phenomenon/"><u>[New] In 2024, From Vlogs to Virality Jake Paul, the Online Phenomenon</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-accelerating-your-tiktok-video-repository/"><u>[Updated] Accelerating Your TikTok Video Repository</u></a></li>
+<li><a href="https://win-help.techidaily.com/honoring-freedom-day-a-look-at-how-leading-technology-companies-mark-juneteenth-insights-by-zdnet/"><u>Honoring Freedom Day: A Look at How Leading Technology Companies Mark Juneteenth - Insights by ZDNET</u></a></li>
+<li><a href="https://win-help.techidaily.com/in-depth-analysis-how-windows-11-sets-a-new-standard-for-pre-installed-security-with-microsofts-latest-updates-zdnet/"><u>In-Depth Analysis: How Windows 11 Sets a New Standard for Pre-Installed Security with Microsoft's Latest Updates | ZDNet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/innovators-designing-online-marvel-experiences-for-2024/"><u>Innovators Designing Online Marvel Experiences for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-iphone-x-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and iPhone X iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-help.techidaily.com/microsoft-investigates-shifts-in-professional-landscape-with-31000plus-respondents-astonishing-discovery-unveiled-zdnet/"><u>Microsoft Investigates Shifts in Professional Landscape with 31,000+ Respondents; Astonishing Discovery Unveiled | ZDNET</u></a></li>
+<li><a href="https://win-help.techidaily.com/microsoft-surface-unveiling-our-desires-and-anticipations-an-insightful-perspective-from-zdnet/"><u>Microsoft Surface: Unveiling Our Desires & Anticipations - An Insightful Perspective From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-vivo-y02t-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo Y02T? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-cards-of-2024-ultimate-guide-to-value-packed-gaming-gpus/"><u>Top Rated Graphics Cards of 2024: Ultimate Guide to Value-Packed Gaming GPUs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-online-face-creator-no-registration-needed/"><u>Updated Free Online Face Creator No Registration Needed</u></a></li>
 </ul></div>
 

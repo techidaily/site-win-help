@@ -1,7 +1,7 @@
 ---
 title: "Get Your Hands on Affordable Microsoft Office 2019: Purchase for Windows & macOS at Just $25 - Expert Tips From ZDNet"
-date: 2024-09-27T09:22:22.621Z
-updated: 2024-10-02T16:14:14.310Z
+date: 2024-10-04T16:27:21.864Z
+updated: 2024-10-08T17:32:50.299Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,21 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,22 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-expert-techniques-for-swift-mac-screenshotting-using-shortcuts/"><u>[Updated] 2024 Approved Expert Techniques for Swift Mac Screenshotting Using Shortcuts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-crafting-unique-snapchat-experiences-with-120plus-innovative-ideas-for-personal-stories-for-2024/"><u>[Updated] Crafting Unique Snapchat Experiences with 120+ Innovative Ideas for Personal Stories for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-the-ultimate-selection-top-10-vimeo-download-tools-unveiled-for-2024/"><u>[Updated] The Ultimate Selection Top 10 Vimeo Download Tools Unveiled for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/affordable-microsoft-office-access-secure-your-windowsmac-license-at-just-25-through-our-exclusive-deal-by-zdnet/"><u>Affordable Microsoft Office Access! Secure Your Windows/Mac License at Just $25 Through Our Exclusive Deal by ZDNet.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/evaluating-the-value-proposition-of-chatgpt-vs-chatgpt-plus-navigating-the-benefits-of-paid-ai-language-models/"><u>Evaluating the Value Proposition of ChatGPT Vs. ChatGPT Plus: Navigating the Benefits of Paid AI Language Models</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/fast-track-your-tunes-transfer-best-3-audio-cd-burning-programs-reviewed/"><u>Fast-Track Your Tunes Transfer: Best 3 Audio CD Burning Programs Reviewed</u></a></li>
-<li><a href="https://win-help.techidaily.com/guide-to-selecting-the-best-webcams-for-gaming-and-live-streaming-how-to-tips-and-reviews/"><u>Guide to Selecting the Best Webcams for Gaming and Live Streaming: How-To Tips & Reviews</u></a></li>
-<li><a href="https://win-help.techidaily.com/imessage-communication-on-windows-explained-a-comprehensive-walkthrough-by-zdnet/"><u>IMessage Communication on Windows Explained: A Comprehensive Walkthrough by ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-y78plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo Y78+ without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-11-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone 11 Pro Without Previous Owner?</u></a></li>
-<li><a href="https://win-help.techidaily.com/live-streaming-the-microsoft-surface-and-windows-artificial-intelligence-showcase-key-takeaways-you-shouldnt-miss/"><u>Live Streaming the Microsoft Surface & Windows Artificial Intelligence Showcase: Key Takeaways You Shouldn't Miss</u></a></li>
-<li><a href="https://win-help.techidaily.com/mastering-mirillis-the-ultimate-guide/"><u>Mastering MirilliS: The Ultimate Guide</u></a></li>
-<li><a href="https://win-help.techidaily.com/microsoft-stuns-with-futuristic-tech-pants-for-a-steal-at-150-bucks-how-they-work-and-why-you-need-them-as-revealed-by-zdnet/"><u>Microsoft Stuns with Futuristic 'Tech Pants' For a Steal at 150 Bucks | How They Work & Why You Need Them, as Revealed by ZDNet</u></a></li>
-<li><a href="https://win-help.techidaily.com/microsoft-tech-update-roundup-exciting-new-developments-from-this-weeks-surface-and-artificial-intelligence-event/"><u>Microsoft Tech Update Roundup: Exciting New Developments From This Week's Surface and Artificial Intelligence Event</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-hackers-way-fast-uninstall-of-win-system-drivers/"><u>The Hacker's Way: Fast Uninstall of Win System Drivers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/windows-11-compatibility-fixes-for-iphone-sensor-detection-problems-on-iphone-11-devices/"><u>Windows 11 Compatibility Fixes for iPhone Sensor Detection Problems on iPhone 11 Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-leaderboards-best-12-action-recorders-including-satellite-positioning/"><u>[New] 2024 Approved Leaderboard's Best 12 Action Recorders Including Satellite Positioning</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamline-your-video-production-ipad-time-lapse/"><u>[New] Streamline Your Video Production IPad Time-Lapse</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-tickletech-instant-creation-of-laughter-graphics/"><u>[New] TickleTech Instant Creation of Laughter Graphics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-navigating-virtual-board-functions-across-zoom-devices/"><u>[Updated] In 2024, Navigating Virtual Board Functions Across Zoom Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-millisecond-metrics-for-a-20mb-digital-creation/"><u>2024 Approved Millisecond Metrics for a 20MB Digital Creation</u></a></li>
+<li><a href="https://win-help.techidaily.com/complete-guide-mastering-the-apowermanager-in-android-sdk-version-30/"><u>Complete Guide: Mastering the ApowerManager in Android SDK Version 3.0</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-personalizing-console-lighting-on-microsoft-devices/"><u>Guide to Personalizing Console Lighting on Microsoft Devices</u></a></li>
+<li><a href="https://win-help.techidaily.com/introducing-microsofts-tech-pants-at-150-the-latest-wearable-technology-reviewed-by-zdnet/"><u>Introducing Microsoft's Tech Pants at $150 – The Latest Wearable Technology Reviewed by ZDNet</u></a></li>
+<li><a href="https://win-help.techidaily.com/maximizing-engagement-top-techniques-for-crafting-successful-fb-videos/"><u>Maximizing Engagement: Top Techniques for Crafting Successful FB Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-touchpad-scrolling-difficulties-under-windows-10-operating-system/"><u>Overcome Touchpad Scrolling Difficulties Under Windows 10 Operating System</u></a></li>
+<li><a href="https://win-help.techidaily.com/the-pitfalls-of-debloating-windows-os-better-alternatives-explored-techinsights/"><u>The Pitfalls of Debloating Windows OS - Better Alternatives Explored | TechInsights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-rectifying-non-operational-pc-keys/"><u>Tips for Rectifying Non-Operational PC Keys</u></a></li>
+<li><a href="https://win-help.techidaily.com/top-tips-for-creating-a-stunning-profile-photo-on-facebook-in-2e22/"><u>Top Tips for Creating a Stunning Profile Photo on Facebook in 2E22</u></a></li>
+<li><a href="https://win-help.techidaily.com/what-you-need-to-know-microsoft-announces-paid-pricing-plan-for-windows-11-updates-cost-breakdown/"><u>What You Need To Know: Microsoft Announces Paid Pricing Plan For Windows 11 Updates - Cost Breakdown</u></a></li>
+<li><a href="https://win-help.techidaily.com/windows-11-update-could-limit-user-personalizations-with-microsofts-new-restrictions-latest-from-zdnet/"><u>Windows 11 Update Could Limit User Personalizations with Microsoft's New Restrictions - Latest From ZDNet</u></a></li>
 </ul></div>
 
