@@ -1,7 +1,7 @@
 ---
 title: "Master Bing Chat with Dark Mode: Activation Steps Unveiled - ZDNet"
-date: 2024-10-02T18:00:17.675Z
-updated: 2024-10-08T17:37:42.677Z
+date: 2024-10-08T17:15:12.564Z
+updated: 2024-10-14T17:07:25.858Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +95,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +128,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-speed-boost-for-vimeo-videos/"><u>[New] Ultimate Speed Boost for Vimeo Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-navigating-the-obscured-realm-of-youtube-a-methodical-approach/"><u>[Updated] In 2024, Navigating the Obscured Realm of YouTube A Methodical Approach</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhancing-clicks-youtube-thumbnail-sizes-explored/"><u>2024 Approved Enhancing Clicks YouTube Thumbnail Sizes Explored</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/diymp4dvd/"><u>DIY！MP4ファイルをDVDビデオ形式に転換するプログラムと手順ガイド - お使い上手く！</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/easy-techniques-for-transforming-webm-files-into-compatible-avi-video-files/"><u>Easy Techniques for Transforming WebM Files Into Compatible AVI Video Files</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-digital-detailing-expert-tips-for-attaching-dates-in-photography/"><u>[New] 2024 Approved Digital Detailing Expert Tips for Attaching Dates in Photography</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-comparing-reels-and-stories-whats-your-preference/"><u>[New] In 2024, Comparing Reels & Stories What's Your Preference?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-elevating-social-media-stardom-with-dji-drones-livestreams/"><u>[Updated] Elevating Social Media Stardom with DJI Drones' Livestreams</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlocking-the-secrets-of-success-top-strategies-for-fb-video-growth/"><u>[Updated] In 2024, Unlocking the Secrets of Success Top Strategies for FB Video Growth</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-comparing-av1-and-vp9-which-is-more-advanced/"><u>2024 Approved Comparing AV1 & VP9 Which Is More Advanced?</u></a></li>
+<li><a href="https://win-help.techidaily.com/create-interactive-slide-shows-with-ease-master-the-art-of-seamless-image-transitions-using-our-flipbuilder-tool/"><u>Create Interactive Slide Shows with Ease - Master the Art of Seamless Image Transitions Using Our FlipBuilder Tool</u></a></li>
+<li><a href="https://win-help.techidaily.com/creating-your-own-handmade-flip-book-album-with-printed-images-on-flipbuilder/"><u>Creating Your Own Handmade Flip Book Album with Printed Images on FlipBuilder</u></a></li>
+<li><a href="https://win-help.techidaily.com/effortlessly-transform-docx-into-editable-pdfs-for-free-discover-our-user-friendly-conversion-service/"><u>Effortlessly Transform DOCX Into Editable PDFs for Free - Discover Our User-Friendly Conversion Service!</u></a></li>
+<li><a href="https://win-help.techidaily.com/enhance-your-ebook-navigation-by-adding-actions-to-each-page-discover-tips-at-flipbuildercom/"><u>Enhance Your eBook Navigation by Adding Actions to Each Page - Discover Tips at FlipBuilder.com</u></a></li>
 <li><a href="https://win-help.techidaily.com/enhance-your-flipbooks-aesthetics-tips-to-customize-text-style-and-color-on-flipbuildercom/"><u>Enhance Your Flipbook's Aesthetics: Tips to Customize Text Style and Color on FlipBuilder.com</u></a></li>
 <li><a href="https://win-help.techidaily.com/flipimagepro-craft-stunning-3d-graphics-and-media-rich-albums-explore-at-flipbuilder/"><u>FlipImagePro - Craft Stunning 3D Graphics & Media-Rich Albums | Explore at FlipBuilder</u></a></li>
-<li><a href="https://win-blog.techidaily.com/hogwarts-legacy-wont-load-comprehensive-fixes-for-a-smooth-gaming-experience-updated-guide/"><u>Hogwarts Legacy Won't Load: Comprehensive Fixes for a Smooth Gaming Experience - Updated Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-htc-u23-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a HTC U23 Pro Phone that is Locked?</u></a></li>
-<li><a href="https://win-help.techidaily.com/incorporating-audio-tracks-into-your-flipbook-projects/"><u>Incorporating Audio Tracks Into Your FlipBook Projects</u></a></li>
-<li><a href="https://win-help.techidaily.com/mastering-image-transformation-in-flipbuilder-tips-for-efficacious-image-rotation/"><u>Mastering Image Transformation in FlipBuilder - Tips for Efficacious Image Rotation</u></a></li>
-<li><a href="https://win-help.techidaily.com/maximizing-your-workspace-expert-guide-to-creating-full-screen-exe-flipbooks-with-flipbuilder/"><u>Maximizing Your Workspace: Expert Guide to Creating Full-Screen EXE Flipbooks with FlipBuilder</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-streamlining-sound-creation-the-6-most-user-friendly-free-online-auditory-editing-tools/"><u>New Streamlining Sound Creation The 6 Most User-Friendly, Free Online Auditory Editing Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/overcoming-challenges-in-periscope-livestreams-for-2024/"><u>Overcoming Challenges in Periscope Livestreams for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/rotate-your-iphone-screen-back-to-landscape-easy-solutions/"><u>Rotate Your iPhone Screen Back to Landscape - Easy Solutions</u></a></li>
-<li><a href="https://win-help.techidaily.com/rotating-your-chosen-photos-with-flipbuilder-a-comprehensive-guide/"><u>Rotating Your Chosen Photos with FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-help.techidaily.com/setting-up-direct-file-retrieval-saving-and-downloading-flipbooks-from-flipbuilder/"><u>Setting Up Direct File Retrieval: Saving & Downloading Flipbooks From FlipBuilder</u></a></li>
-<li><a href="https://win-help.techidaily.com/the-ultimate-tutorial-on-preparing-epub-files-for-seamless-viewing-using-flippingbook/"><u>The Ultimate Tutorial on Preparing ePub Files for Seamless Viewing Using FlippingBook</u></a></li>
-<li><a href="https://win-help.techidaily.com/transform-static-chm-documents-into-interactive-ebooks-with-tables-of-contents-using-flipbuilder/"><u>Transform Static CHM Documents Into Interactive Ebooks with Tables of Contents Using FlipBuilder</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/se-viewing-crafts-creative-youtube-video-methods/"><u>Reverse Viewing Crafts Creative Youtube Video Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-sharing-your-printer-across-multiple-devices/"><u>Step-by-Step Guide: Sharing Your Printer Across Multiple Devices</u></a></li>
 </ul></div>
 

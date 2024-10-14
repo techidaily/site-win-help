@@ -1,7 +1,7 @@
 ---
 title: "Honoring Freedom Day: A Look at How Leading Technology Companies Mark Juneteenth - Insights by ZDNET"
-date: 2024-10-06T17:26:50.169Z
-updated: 2024-10-08T17:51:42.239Z
+date: 2024-10-08T16:36:55.675Z
+updated: 2024-10-14T16:11:37.287Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-device-guide-for-google-meet-access/"><u>[New] 2024 Approved Device Guide for Google Meet Access</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-the-filmmakers-ally-unlocking-youtube-studio-editor-secrets/"><u>[New] 2024 Approved The Filmmaker's Ally Unlocking YouTube Studio Editor Secrets</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-harness-your-screen-with-screencastify-recorder/"><u>[Updated] 2024 Approved Harness Your Screen with Screencastify Recorder</u></a></li>
-<li><a href="https://win-help.techidaily.com/comprehensive-guide-and-visual-aid-mastering-crossplay-between-pc-and-android-systems-for-gaming-enthusiasts/"><u>Comprehensive Guide & Visual Aid: Mastering Crossplay Between PC and Android Systems for Gaming Enthusiasts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-g2-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo G2 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-tools-for-effortless-recording-of-desktop-screens-on-windows-10/"><u>In 2024, Top Tools for Effortless Recording of Desktop Screens on Windows 10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/in-depth-testing-results-for-the-chargetech-27000mah-battery-pack-a-large-capacity-solution-unveiled/"><u>In-Depth Testing Results for the ChargeTech 27000mAh Battery Pack: A Large Capacity Solution Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-the-next-gen-macbook-pro-m3-releasing-dates-cost-breakdowns-and-cutting-edge-tech-specs-unveiled/"><u>Inside the Next-Gen MacBook Pro (M3): Releasing Dates, Cost Breakdowns & Cutting-Edge Tech Specs Unveiled</u></a></li>
-<li><a href="https://win-help.techidaily.com/insights-into-windows-media-video-wmv-format-and-its-usage/"><u>Insights Into Windows Media Video (WMV) Format and Its Usage</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/pros-and-cons-of-vsdc-the-ultimate-guide/"><u>Pros & Cons of VSDC The Ultimate Guide</u></a></li>
-<li><a href="https://win-help.techidaily.com/quick-steps-for-building-an-online-signature-thats-crystal-clear-latest-techniques-2022/"><u>Quick Steps for Building an Online Signature That's Crystal Clear - Latest Techniques, 2022</u></a></li>
-<li><a href="https://win-help.techidaily.com/seamless-m4a-to-wma-file-conversion-techniques-for-optimal-audio-quality/"><u>Seamless M4A to WMA File Conversion Techniques for Optimal Audio Quality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-acclaimed-pc-emulators-for-vintage-ps1-titles/"><u>[New] Acclaimed PC Emulators for Vintage PS1 Titles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-2-ways-to-loop-a-youtube-video-on-tv/"><u>[Updated] 2024 Approved 2 Ways to Loop a YouTube Video On TV</u></a></li>
+<li><a href="https://win-help.techidaily.com/best-3-top-ranking-mirror-applications-on-iphone-8-a-comprehensive-guide/"><u>Best 3 Top-Ranking Mirror Applications on iPhone 8: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-help.techidaily.com/capturing-your-macs-display-in-effortless-hd-video-a-step-by-step-tutorial/"><u>Capturing Your Mac's Display in Effortless HD Video - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
+<li><a href="https://win-help.techidaily.com/discover-the-leading-tools-a-guide-to-transforming-your-m4a-tracks-into-mp3-downloads-quickly-and-effortlessly/"><u>Discover the Leading Tools: A Guide to Transforming Your M4A Tracks Into MP3 Downloads Quickly and Effortlessly</u></a></li>
+<li><a href="https://win-help.techidaily.com/effective-ways-to-change-your-pdf-documents-into-perfectly-rendered-png-graphics-on-windows-11/"><u>Effective Ways to Change Your PDF Documents Into Perfectly Rendered PNG Graphics on Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-zte-blade-a73-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your ZTE Blade A73 5G Is Unlocked</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-gt-3-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme GT 3 Unlock Without Password</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-y17s-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo Y17s for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-v-purse-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor V Purse to iPod | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-14-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 14 In Different Conditionsin | Dr.fone</u></a></li>
 <li><a href="https://win-help.techidaily.com/simple-and-effective-methods-mastering-free-music-downloads-on-raaga/"><u>Simple & Effective Methods: Mastering Free Music Downloads on Raaga</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-destination-charger-benefits-get-your-tesla-charged-at-no-cost/"><u>Understanding Destination Charger Benefits: Get Your Tesla Charged at No Cost</u></a></li>
+<li><a href="https://win-help.techidaily.com/streamline-your-music-collection-expert-tips-for-quick-hip-hop-song-downloads/"><u>Streamline Your Music Collection: Expert Tips for Quick Hip-Hop Song Downloads</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/utilize-cookiebot-technology-for-advanced-user-analytics/"><u>Utilize Cookiebot Technology for Advanced User Analytics</u></a></li>
 </ul></div>
 
