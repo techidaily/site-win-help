@@ -1,7 +1,7 @@
 ---
 title: What You Need to Know About HTTP/
-date: 2024-10-07T18:28:22.406Z
-updated: 2024-10-14T16:19:06.552Z
+date: 2024-10-17T03:42:03.610Z
+updated: 2024-10-19T18:00:34.740Z
 tags:
   - product
   - antivirus
@@ -84,6 +84,13 @@ In contrast, QUIC can perform both these actions simultaneously.
 
 [![QUIC Illustration](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html) in this image above, the signals bounce back and forth between your computer and the server, which eats up precious milliseconds. In comparison, QUIC only needs to send one signal to get the job done, without faffing around by transmitting data on multiple occasion.
 
 In short, HTTP/3, powered by QUIC, cuts the number of times computers need to request data from a server, ultimately speeding up the transmissions and connectivity for everyone involved. It also improves security by including the SSL (Secure Sockets Layer) handshake in the setup. Plus, this new technology also reduces overhead in another key area, when multiple substreams are sent over a single connection.
@@ -96,18 +103,18 @@ This independent organization was founded by the US government in 1986, and is m
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
 As of this writing, just 1.3% of the 10 million [most popular websites](https://w3techs.com/technologies/history%5Foverview/site%5Felement/all) in the world use HTTP/3, compared to 31% using the older, HTTP/2 technology. That’s about 130,000 sites that are transmitting data over this new standard right now.
 
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Brower support for HTTP/3
 
@@ -116,10 +123,10 @@ The technology is fine and dandy, but what about software? Well, Google, which h
 [![chrome and opera browser](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome_opera_logos.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome%5Fopera%5Flogos.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As of right now, [Opera](https://www.opera.com/) is the only other browser that supports QUIC. If you use either Chrome or Opera to browse these websites that support HTTP/3, you will notice that they load web pages faster.
@@ -128,25 +135,11 @@ Other browser and software makers will, undoubtedly, add support for this new st
 
 In other words, the adoption of HTTP/3 is expected to be very much similar to that of HTTP/2, in that you will see gradual improvements and rollouts without any major breaks for applications and infrastructure that runs the web.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 HTTP/3, an evolution of the QUIC protocol from Google, is a major departure from traditional HTTP. Designed to work around the limitations of that protocol, HTTP/3 will serve as a combination of SSL and TCP to cut down on initial connection times and speed up the modern web.
 
 And while it changes how users and devices access the Internet a lot, HTTP/3 is all set to take the mantle as the newest and most widespread version of the venerable Hypertext Transfer Protocol.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1 thought on “What is HTTP/3”
 
@@ -157,6 +150,13 @@ While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a 
 In reality, UDP/IP was invented back in 1980 by David P. Reed (<https://en.wikipedia.org/wiki/User%5FDatagram%5FProtocol>; <https://www.deepplum.com/blog-dpr/?page%5Fid=6>) — Page and Brin were roughly 7 years old back then, and a long, long way before they came up with the concept of Google…  
 QUIC (technically, QUIC over IP), by contrast, is a technology developed initially by Google, built on top of UDP/IP, providing a simple mechanism of establishing reliable, encrypted connections, but without the massive overhead required by TCP/IP.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -183,24 +183,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-filmmakers-guide-to-distorting-space-and-time/"><u>[New] The Filmmaker's Guide to Distorting Space & Time</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-uncomplicated-pc-record-functionality-for-2024/"><u>[New] Uncomplicated PC Record Functionality for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-youtube-aesthetics-advanced-video-hue-balancing/"><u>[Updated] 2024 Approved YouTube Aesthetics Advanced Video Hue Balancing</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-massive-viewership-triumphs-youtubes-greatest-hits/"><u>[Updated] In 2024, Massive Viewership Triumphs YouTube's Greatest Hits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-champion-of-chit-chat-gpt-vs-huggingface/"><u>Choosing the Champion of Chit-Chat: GPT Vs. HuggingFace</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/cookiebot-driven-marketing-solutions-enhance-your-seo-strategies/"><u>Cookiebot-Driven Marketing Solutions: Enhance Your SEO Strategies</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-12-mini-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 12 mini With 7 Methods</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-make-memories-count-learn-to-share-photos-right-now/"><u>In 2024, Make Memories Count Learn to Share Photos Right Now</u></a></li>
-<li><a href="https://win-help.techidaily.com/incorporating-audio-tracks-into-your-flipbook-projects/"><u>Incorporating Audio Tracks Into Your FlipBook Projects</u></a></li>
-<li><a href="https://win-help.techidaily.com/mastering-image-transformation-in-flipbuilder-tips-for-efficacious-image-rotation/"><u>Mastering Image Transformation in FlipBuilder - Tips for Efficacious Image Rotation</u></a></li>
-<li><a href="https://win-help.techidaily.com/maximizing-your-workspace-expert-guide-to-creating-full-screen-exe-flipbooks-with-flipbuilder/"><u>Maximizing Your Workspace: Expert Guide to Creating Full-Screen EXE Flipbooks with FlipBuilder</u></a></li>
-<li><a href="https://win-help.techidaily.com/rotating-your-chosen-photos-with-flipbuilder-a-comprehensive-guide/"><u>Rotating Your Chosen Photos with FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ng-youtube-earnings-device-independent-studio-tactics-for-2024/"><u>Scaling YouTube Earnings Device-Independent Studio Tactics for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/setting-up-direct-file-retrieval-saving-and-downloading-flipbooks-from-flipbuilder/"><u>Setting Up Direct File Retrieval: Saving & Downloading Flipbooks From FlipBuilder</u></a></li>
-<li><a href="https://win-help.techidaily.com/the-ultimate-tutorial-on-preparing-epub-files-for-seamless-viewing-using-flippingbook/"><u>The Ultimate Tutorial on Preparing ePub Files for Seamless Viewing Using FlippingBook</u></a></li>
-<li><a href="https://win-help.techidaily.com/transform-static-chm-documents-into-interactive-ebooks-with-tables-of-contents-using-flipbuilder/"><u>Transform Static CHM Documents Into Interactive Ebooks with Tables of Contents Using FlipBuilder</u></a></li>
-<li><a href="https://win-help.techidaily.com/transform-your-pdfs-and-images-into-interactive-android-books-using-flipbuilder/"><u>Transform Your PDFs & Images Into Interactive Android Books Using FlipBuilder</u></a></li>
-<li><a href="https://win-help.techidaily.com/transform-your-physical-library-into-digital-flipbooks-replicate-actual-page-flipping-feature-with-easeflipbuildercom/"><u>Transform Your Physical Library Into Digital FlipBooks - Replicate Actual Page-Flipping Feature with Ease![FlipBuilder.com]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726223266891-mkv-mp3-movavi/"><u>スピーディなオンラインMKV MP3変更ツール - 無料で使えるMovavi</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-exceptional-freefire-content-on-youtube-platforms/"><u>[Updated] Crafting Exceptional FreeFire Content on YouTube Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-change-screenshot-file-formats-on-a-mac-for-2024/"><u>[Updated] How to Change Screenshot File Formats on a Mac for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-embrace-authenticity-your-style-journey-begins-here/"><u>[Updated] In 2024, Embrace Authenticity Your Style Journey Begins Here</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-7-cost-effective-user-friendly-movie-software/"><u>[Updated] In 2024, Top 7 Cost-Effective, User-Friendly Movie Software</u></a></li>
+<li><a href="https://win-help.techidaily.com/1-free-ways-to-restore-accidentally-deleted-pdfs-on-your-pc/"><u>1. Free Ways to Restore Accidentally Deleted PDFs on Your PC</u></a></li>
+<li><a href="https://win-help.techidaily.com/efi-windows-11/"><u>创建并保存EFI区分的简单指南：针对 Windows 11用户</u></a></li>
+<li><a href="https://win-help.techidaily.com/aomei-backup-scopri-chi-siamo-e-come-possiamo-proteggere-i-tuoi-dati/"><u>AOMEI Backup: Scopri Chi Siamo E Come Possiamo Proteggere I Tuoi Dati</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-futures-best-on-display-premium-video-cameras-in-2-written-by-michael-a-risley/"><u>In 2024, Future's Best on Display Premium Video Cameras in 2 Written by Michael A. Risley</u></a></li>
+<li><a href="https://win-help.techidaily.com/problemlosungen-warum-outlook-keine-e-mails-empfangt-und-wie-man-das-problem-behebt/"><u>Problemlösungen: Warum Outlook Keine E-Mails Empfängt Und Wie Man Das Problem Behebt</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/protect-privacy-with-fast-facial-masking-on-piscart/"><u>Protect Privacy with Fast Facial Masking on PiscArt</u></a></li>
+<li><a href="https://win-help.techidaily.com/quick-fix-for-windows-11-issues-with-command-line-techniques/"><u>Quick Fix for Windows 11 Issues with Command Line Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-network-attached-storage-nas-units/"><u>Top-Ranked Network Attached Storage (NAS) Units</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-redmi-12-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Redmi 12</u></a></li>
+<li><a href="https://win-help.techidaily.com/upgrade-your-pc-sanctuary-the-ultimate-guide-to-adding-a-new-hard-drive-in-windows-11/"><u>Upgrade Your PC Sanctuary: The Ultimate Guide to Adding a New Hard Drive in Windows 11</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728488991648-windows-11/"><u>Windows 11での復元プロセスと代替オプションを知る</u></a></li>
+<li><a href="https://win-help.techidaily.com/althsyn-albtyaa-fsaaada-akthr-mn-2000-pbs-khlal-hgra-hdd-il-ssd-aaam-2024/"><u>التحسين البطيء فصاعدا - أكثر من 2000 PB/S خلال هجرة HDD إلى SSD | عام 2024</u></a></li>
 </ul></div>
 
