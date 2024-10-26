@@ -1,7 +1,7 @@
 ---
 title: What You Need to Know About HTTP/
-date: 2024-10-17T03:42:03.610Z
-updated: 2024-10-19T18:00:34.740Z
+date: 2024-10-18T21:40:32.600Z
+updated: 2024-10-26T08:43:52.292Z
 tags:
   - product
   - antivirus
@@ -84,16 +84,16 @@ In contrast, QUIC can perform both these actions simultaneously.
 
 [![QUIC Illustration](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html) in this image above, the signals bounce back and forth between your computer and the server, which eats up precious milliseconds. In comparison, QUIC only needs to send one signal to get the job done, without faffing around by transmitting data on multiple occasion.
 
 In short, HTTP/3, powered by QUIC, cuts the number of times computers need to request data from a server, ultimately speeding up the transmissions and connectivity for everyone involved. It also improves security by including the SSL (Secure Sockets Layer) handshake in the setup. Plus, this new technology also reduces overhead in another key area, when multiple substreams are sent over a single connection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will HTTP/3 be used?
 
@@ -103,18 +103,18 @@ This independent organization was founded by the US government in 1986, and is m
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
 As of this writing, just 1.3% of the 10 million [most popular websites](https://w3techs.com/technologies/history%5Foverview/site%5Felement/all) in the world use HTTP/3, compared to 31% using the older, HTTP/2 technology. That’s about 130,000 sites that are transmitting data over this new standard right now.
 
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Brower support for HTTP/3
 
@@ -122,18 +122,24 @@ The technology is fine and dandy, but what about software? Well, Google, which h
 
 [![chrome and opera browser](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome_opera_logos.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome%5Fopera%5Flogos.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As of right now, [Opera](https://www.opera.com/) is the only other browser that supports QUIC. If you use either Chrome or Opera to browse these websites that support HTTP/3, you will notice that they load web pages faster.
 
 Other browser and software makers will, undoubtedly, add support for this new standard in due time. Particularly those based on the Chromium source code, like the newer versions of [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge). Other platforms like [Caddy](https://caddyserver.com/) web server and [Lite Speed](https://www.litespeedtech.com/) products have also integrated this new technology.
 
 In other words, the adoption of HTTP/3 is expected to be very much similar to that of HTTP/2, in that you will see gradual improvements and rollouts without any major breaks for applications and infrastructure that runs the web.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -152,10 +158,10 @@ QUIC (technically, QUIC over IP), by contrast, is a technology developed initial
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -183,22 +189,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-exceptional-freefire-content-on-youtube-platforms/"><u>[Updated] Crafting Exceptional FreeFire Content on YouTube Platforms</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-change-screenshot-file-formats-on-a-mac-for-2024/"><u>[Updated] How to Change Screenshot File Formats on a Mac for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-embrace-authenticity-your-style-journey-begins-here/"><u>[Updated] In 2024, Embrace Authenticity Your Style Journey Begins Here</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-7-cost-effective-user-friendly-movie-software/"><u>[Updated] In 2024, Top 7 Cost-Effective, User-Friendly Movie Software</u></a></li>
-<li><a href="https://win-help.techidaily.com/1-free-ways-to-restore-accidentally-deleted-pdfs-on-your-pc/"><u>1. Free Ways to Restore Accidentally Deleted PDFs on Your PC</u></a></li>
-<li><a href="https://win-help.techidaily.com/efi-windows-11/"><u>创建并保存EFI区分的简单指南：针对 Windows 11用户</u></a></li>
-<li><a href="https://win-help.techidaily.com/aomei-backup-scopri-chi-siamo-e-come-possiamo-proteggere-i-tuoi-dati/"><u>AOMEI Backup: Scopri Chi Siamo E Come Possiamo Proteggere I Tuoi Dati</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-futures-best-on-display-premium-video-cameras-in-2-written-by-michael-a-risley/"><u>In 2024, Future's Best on Display Premium Video Cameras in 2 Written by Michael A. Risley</u></a></li>
-<li><a href="https://win-help.techidaily.com/problemlosungen-warum-outlook-keine-e-mails-empfangt-und-wie-man-das-problem-behebt/"><u>Problemlösungen: Warum Outlook Keine E-Mails Empfängt Und Wie Man Das Problem Behebt</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/protect-privacy-with-fast-facial-masking-on-piscart/"><u>Protect Privacy with Fast Facial Masking on PiscArt</u></a></li>
-<li><a href="https://win-help.techidaily.com/quick-fix-for-windows-11-issues-with-command-line-techniques/"><u>Quick Fix for Windows 11 Issues with Command Line Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-network-attached-storage-nas-units/"><u>Top-Ranked Network Attached Storage (NAS) Units</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-redmi-12-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Redmi 12</u></a></li>
-<li><a href="https://win-help.techidaily.com/upgrade-your-pc-sanctuary-the-ultimate-guide-to-adding-a-new-hard-drive-in-windows-11/"><u>Upgrade Your PC Sanctuary: The Ultimate Guide to Adding a New Hard Drive in Windows 11</u></a></li>
-<li><a href="https://win-help.techidaily.com/1728488991648-windows-11/"><u>Windows 11での復元プロセスと代替オプションを知る</u></a></li>
-<li><a href="https://win-help.techidaily.com/althsyn-albtyaa-fsaaada-akthr-mn-2000-pbs-khlal-hgra-hdd-il-ssd-aaam-2024/"><u>التحسين البطيء فصاعدا - أكثر من 2000 PB/S خلال هجرة HDD إلى SSD | عام 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-achieving-professional-quality-with-instagrams-virtual-screens/"><u>[New] Achieving Professional Quality with Instagram's Virtual Screens</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-avoid-youtube-previews-on-all-platforms-and-devices/"><u>[Updated] Avoid YouTube Previews on All Platforms & Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-simplify-your-multitasking-using-shortcut-keys-for-macs-screen-capture/"><u>2024 Approved Simplify Your Multitasking Using Shortcut Keys for Mac's Screen Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-acid-pro-effect-exploring-similar-tools/"><u>2024 Approved The ACID Pro Effect Exploring Similar Tools</u></a></li>
+<li><a href="https://win-help.techidaily.com/desbloqueando-archivos-ocultos-de-windows-11-tres-metodos-expertos/"><u>Desbloqueando Archivos Ocultos De Windows 11: Tres Métodos Expertos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-setup-for-enjoying-high-quality-4k-hdr-video-on-your-pc-with-windows-11/"><u>Effortless Setup for Enjoying High-Quality 4K HDR Video on Your PC with Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-tips-for-iphone-voice-note-making-for-2024/"><u>Essential Tips for iPhone Voice Note Making for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/fixing-error-code-0xc00000e-on-windows-11-step-by-step-guide-and-data-recovery-tips/"><u>Fixing Error Code 0xC00000E on Windows 11 - Step-by-Step Guide & Data Recovery Tips</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-15-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 15 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nikons-1j5-videographer-a-spectacle-in-4k/"><u>In 2024, Nikon's 1J5 Videographer A Spectacle in 4K</u></a></li>
+<li><a href="https://win-help.techidaily.com/recovering-lost-zip-compressed-files-for-free-on-windows-10-and-11-platforms/"><u>Recovering Lost ZIP Compressed Files for Free on Windows 10 and 11 Platforms</u></a></li>
+<li><a href="https://win-help.techidaily.com/resolution-de-probleme-windows/"><u>Résolution De Problème : Windows</u></a></li>
+<li><a href="https://win-help.techidaily.com/solving-the-issue-of-iphones-invisible-on-your-windows-11-8-or-7-computer-a-step-by-step-guide/"><u>Solving the Issue of iPhones Invisible on Your Windows 11, 8 or 7 Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-help.techidaily.com/two-simple-methods-for-automatic-file-backups-on-google-drive/"><u>Two Simple Methods for Automatic File Backups on Google Drive</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-video-venues-clash-youtube-shorts-vs-tiktoks-rapid-rise-for-2024/"><u>Viral Video Venues Clash YouTube Shorts Vs. TikTok's Rapid Rise for 2024</u></a></li>
 </ul></div>
 
