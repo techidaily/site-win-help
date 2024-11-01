@@ -1,7 +1,7 @@
 ---
 title: Wie Man Daten Aus Einer Vireninfizierten Datei Wiederherstellt, Die Mit Einem USB-Stick Übertragen Wurde
-date: 2024-10-23T16:43:28.194Z
-updated: 2024-10-25T20:25:33.201Z
+date: 2024-10-26T19:53:57.669Z
+updated: 2024-11-01T02:39:31.685Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/82b525816e76358af913747ae984d059f5f8a464efd989151aa021dad93dd957.jpg
@@ -49,20 +49,6 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -79,16 +65,16 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -126,6 +112,13 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -158,13 +151,6 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -190,6 +176,13 @@ Esci dal tuo account attuale e accedi al nuovo account utente appena creato.
 Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
@@ -225,13 +218,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -262,6 +248,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -270,13 +263,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -294,22 +294,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ultimate-10-battle-royale-matchups/"><u>[New] In 2024, Ultimate 10 Battle Royale Matchups</u></a></li>
-<li><a href="https://win-help.techidaily.com/1-step-by-step-guide-resetting-your-lenovo-g50-laptop-to-original-factory-conditions/"><u>1. Step-by-Step Guide: Resetting Your Lenovo G50 Laptop to Original Factory Conditions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-urgent-top-10-lost-iphone-x-solutions-revealed/"><u>2024 Approved Urgent Top 10 Lost iPhone X Solutions Revealed</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/aomei-aomei-universal-recovery-faq/"><u>AOMEI ユニバーサル復元について知りたくなる質問 - AOMEI Universal Recovery FAQ</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bypassing-tarkovs-amd-graphic-snags-instantly/"><u>Bypassing Tarkov's AMD Graphic Snags, Instantly</u></a></li>
-<li><a href="https://win-help.techidaily.com/1728490441658-error-404-unable-to-locate-pages/"><u>Error 404: Unable to Locate Pages</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For OnePlus Ace 2? | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-to-resolve-itunes-e-error-0xe8000013-during-iphone-activation-top-6-solutions/"><u>How to Resolve iTunes E-Error 0xE8000013 During iPhone Activation: Top 6 Solutions</u></a></li>
-<li><a href="https://win-help.techidaily.com/iphonepdf/"><u>IPhone備忘錄轉為PDF或文字文件：方法介紹</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mobile-magic-transform-your-snaps-at-zero-cost-for-2024/"><u>Mobile Magic Transform Your Snaps at Zero Cost for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/monthly-guide-to-best-value-verizon-phone-upgrades-and-offers/"><u>Monthly Guide to Best Value Verizon Phone Upgrades & Offers</u></a></li>
-<li><a href="https://win-help.techidaily.com/passaggi-per-eseguire-il-miglioramento-del-sistema-operativo-windows-11-in-modo-transitorio-sulla-tua-nuova-piattaforma-hardware/"><u>Passaggi per Eseguire Il Miglioramento Del Sistema Operativo Windows 11 in Modo Transitorio Sulla Tua Nuova Piattaforma Hardware</u></a></li>
-<li><a href="https://win-help.techidaily.com/reliable-protection-with-nortons-pc-cloud-backup-feature-your-ultimate-guide-to-zero-data-loss-solutions/"><u>Reliable Protection with Norton's PC Cloud Backup Feature: Your Ultimate Guide to Zero Data Loss Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/the-ultimate-guide-to-robust-gpt-emulation-tools-on-windows-os-pick-safely-from-the-best/"><u>The Ultimate Guide to Robust GPT Emulation Tools on Windows OS – Pick Safely From the Best!</u></a></li>
-<li><a href="https://win-help.techidaily.com/unable-to-locate-content-oops-this-site-might-be-under-construction/"><u>Unable to Locate Content: Oops, This Site Might Be Under Construction!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-foundations-first-what-to-invest-in-for-youtubing/"><u>[Updated] 2024 Approved Foundations First What To Invest In for YouTubing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-an-experts-guide-to-accumulating-mass-tiktok-videos-effortlessly-for-2024/"><u>[Updated] An Expert's Guide to Accumulating Mass TikTok Videos Effortlessly for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-industry-standards-prime-gimbals-for-drones-for-2024/"><u>[Updated] Industry Standards Prime Gimbals for Drones for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728469212260-google-3/"><u>「選択的Googleドライブ同期: 目安3方法をご紹介します」</u></a></li>
+<li><a href="https://win-help.techidaily.com/dicas-e-truques-atualizar-com-sucesso-o-aomei-backupper-para-sua-ultima-edicao-disponivel-no-mercado/"><u>Dicas E Truques: Atualizar Com Sucesso O AOMEI Backupper Para Sua Última Edição Disponível No Mercado</u></a></li>
+<li><a href="https://win-help.techidaily.com/exploring-free-disk-imaging-software-beyond-macrium-reflects-latest-changes/"><u>Exploring Free Disk Imaging Software - Beyond Macrium Reflect's Latest Changes</u></a></li>
+<li><a href="https://win-help.techidaily.com/guia-paso-a-paso-transfiere-archivos-de-manera-segura-en-windows-10-8-o-7/"><u>Guía Paso a Paso: Transfiere Archivos De Manera Segura en Windows 10, 8 O 7</u></a></li>
+<li><a href="https://win-help.techidaily.com/guida-rapido-come-clonare-windows-11-in-un-ssd-usb-per-avviare-facilmente-il-sistema/"><u>Guida Rapido: Come Clonare Windows 11 in Un SSD USB per Avviare Facilmente Il Sistema</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro Max to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-infinix-hot-30-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Infinix Hot 30 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-pro-4k-capture-the-definitive-seven-cameras/"><u>In 2024, Pro 4K Capture The Definitive Seven Cameras</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-final-cut-pro-x-compression-made-easy-a-beginners-handbook-for-2024/"><u>New Final Cut Pro X Compression Made Easy A Beginners Handbook for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/schritt-fur-schritt-methoden-zum-schutz-ihrer-dateien-auf-dem-windows-server/"><u>Schritt-Für-Schritt: Methoden Zum Schutz Ihrer Dateien Auf Dem Windows Server</u></a></li>
+<li><a href="https://win-help.techidaily.com/top-gratis-clone-software-fur-windows-7-8-und-10-herausragende-empfehlungen/"><u>Top Gratis Clone Software Für Windows 7, 8 Und 10 – Herausragende Empfehlungen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tier-action-cams-for-sports-enthusiasts/"><u>Top-Tier Action Cams for Sports Enthusiasts</u></a></li>
+<li><a href="https://win-help.techidaily.com/troubleshooting-guide-iphone-data-loss-post-ios-update-restoration-issues/"><u>Troubleshooting Guide: IPhone Data Loss Post-iOS Update Restoration Issues</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-latest-features-of-macos-sonoma-your-ultimate-guide-all-tips-and-insights-from-zdnet/"><u>Unveiling the Latest Features of macOS Sonoma: Your Ultimate Guide - All Tips and Insights From ZDNet</u></a></li>
+<li><a href="https://win-help.techidaily.com/vmware-vcenter-upgrade-error-solved-resolving-invalid-login-credentials/"><u>VMware vCenter Upgrade Error Solved: Resolving Invalid Login Credentials</u></a></li>
+<li><a href="https://win-help.techidaily.com/windows-10boot-uefilegacyfactor-usb/"><u>Windows 10でBoot用 UEFI/LegacyフォームFactor USB作り方 -ステップバイステップガイド</u></a></li>
 </ul></div>
 

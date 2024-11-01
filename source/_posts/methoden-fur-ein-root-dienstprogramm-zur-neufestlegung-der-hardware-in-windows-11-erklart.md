@@ -1,7 +1,7 @@
 ---
 title: Methoden Für Ein Root-Dienstprogramm Zur Neufestlegung Der Hardware in Windows 11 Erklärt
-date: 2024-10-24T21:27:45.770Z
-updated: 2024-10-26T04:58:59.622Z
+date: 2024-10-24T19:05:16.479Z
+updated: 2024-11-01T01:58:37.079Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8f5cadb41c029899508ca6efd6723f50f45c76c5999800100c8f4f1fd518b7be.jpg
@@ -60,13 +60,6 @@ In a word, if you want to make an image back for your computer or want to clone 
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Image Your Computer with Norton Ghost
 
 1\. Install Norton Ghost and open it. It will run a step-by-step wizard the first time you open it. At last, you will see the **Easy Setup** interface where you can create a backup at once. You can also click the **Cancel** option and set the backup task later.
@@ -75,6 +68,13 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
@@ -82,14 +82,14 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4\. Finally, click **OK** to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -111,7 +111,21 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -120,13 +134,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -159,20 +166,33 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 👉 **Notes:**
 
@@ -185,33 +205,12 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * With AOMEI **[Universal Restore](https://tools.techidaily.com/ubackup/products/)** feature, you can restore a backup image, system image in particular, created on one computer to another one that has dissimilar hardware installed. It can also help you reinstall the system if you are planning to change the hardware such as motherboard, CPU, etc. Available in higher editions like [AOMEI Backupper Professional](https://tools.techidaily.com/ubackup/products/).
 * If you don't create a file backup but you want to perform [hard disk image file restore](https://tools.techidaily.com/ubackup/products/) or from other backup types, try the **Explore image** feature. It requires a professional version as well.
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Clone Hard Drive
 
@@ -220,16 +219,23 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 👉 **Notes:** 
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -314,22 +320,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-first-steps-in-the-digital-dollar-youtube-earning-hacks-for-2024/"><u>[New] First Steps in the Digital Dollar - YouTube Earning Hacks for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-harmonizing-marketing-brands-and-youtubes-co-creative-pathways/"><u>[New] In 2024, Harmonizing Marketing Brands & YouTube's Co-Creative Pathways</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-cyber-celebrity-surge-2024/"><u>[Updated] Cyber Celebrity Surge 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essentials-for-effective-free-timer-utilization/"><u>2024 Approved The Essentials for Effective Free Timer Utilization</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/comment-configurer-un-sauvegarde-complete-de-windows-10-avec-facilite/"><u>Comment Configurer Un Sauvegarde Complète De Windows 10 Avec Facilité</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-and-techniques-to-resolve-the-dnssddll-not-found-dilemma/"><u>Expert Tips and Techniques to Resolve the dnssd.dll Not Found Dilemma</u></a></li>
-<li><a href="https://win-help.techidaily.com/fixing-a-non-functional-usb-port-step-by-step-solutions-for-optimal-performance/"><u>Fixing a Non-Functional USB Port: Step-by-Step Solutions for Optimal Performance</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/up-yourself-selecting-prime-lenses-for-successful-vlogging/"><u>Gear Up Yourself Selecting Prime Lenses for Successful Vlogging</u></a></li>
-<li><a href="https://win-help.techidaily.com/guia-simple-para-copiar-un-hd-exterior-sin-costes/"><u>Guía Simple Para Copiar Un HD Exterior Sin Costes</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-honor-magic-v2-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Honor Magic V2 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/ios-gamers-top-5-ps2-emulators-unveiled-for-2024/"><u>IOS Gamers' Top 5 PS2 Emulators Unveiled for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/maximize-your-pcs-potential-with-the-definitive-guide-to-an-asus-bios-restart/"><u>Maximize Your PC's Potential with the Definitive Guide to an ASUS BIOS Restart</u></a></li>
-<li><a href="https://win-help.techidaily.com/przewodnik-technyca-dla-migracji-danych-do-samsung-na-system-windows-10/"><u>Przewodnik Technyca Dla Migracji Danych Do Samsung Na System Windows 10</u></a></li>
-<li><a href="https://win-help.techidaily.com/recover-lost-documents-on-your-pcs-c-and-d-drives-for-free-with-ifind-no-need-for-previous-back-ups/"><u>Recover Lost Documents on Your PC's C and D Drives for Free with iFinD - No Need for Previous Back-Ups!</u></a></li>
-<li><a href="https://win-help.techidaily.com/sandisk-ssdwindows-2/"><u>Sandisk SSDをWindowsで消去するための簡単マニュアル - 2手順</u></a></li>
-<li><a href="https://win-help.techidaily.com/step-by-step-p2v-migration-for-windows-11-users-a-simple-path-from-hardware-to-hosted-systems/"><u>Step-by-Step P2V Migration for Windows 11 Users - A Simple Path From Hardware to Hosted Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-cutting-edge-in-photo-framing-techniques-2023-software-guide/"><u>[New] The Cutting Edge in Photo Framing Techniques, 2023 Software Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-professional-tools-to-elevate-your-video-openings/"><u>2024 Approved Professional Tools to Elevate Your Video Openings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-free-youtube-introend-customization/"><u>2024 Approved Unlock Free YouTube Intro/End Customization</u></a></li>
+<li><a href="https://win-help.techidaily.com/hddcrucial-ssd/"><u>成功將HDD克隆到Crucial SSD的步驟指南：安全、有效地升級存儲裝置</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728478717887-windows-1187/"><u>頂級指南：如何有效地從Windows 11、8及7中進行系統克隆，以轉移到外置硬碟</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728480818746-google/"><u>使い慣れたGoogleドキュメントが見当たらない？失われたファイルの回収方法</u></a></li>
+<li><a href="https://win-help.techidaily.com/best-techniques-for-auto-syncing-your-desktop-with-microsoft-onedrive/"><u>Best Techniques for Auto-Syncing Your Desktop with Microsoft OneDrive</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/crack-the-code-to-crystal-clear-sounds-in-cod-warzone-pc-solutions/"><u>Crack the Code to Crystal Clear Sounds in COD: Warzone - PC Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-realme-c67-4g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme C67 4G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-or-fresh-install-geforce-rtx-3070-drivers-on-windows-1110-systems/"><u>How to Update or Fresh Install GeForce RTX 3070 Drivers on Windows 11/10 Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-y27-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo Y27 5G without App | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonious-handling-of-hues-top-6-mac-video-apps-in-big-sur/"><u>In 2024, Harmonious Handling of Hues Top 6 Mac Video Apps in Big Sur</u></a></li>
+<li><a href="https://win-help.techidaily.com/logiciel-le-mieux-note-pour-la-securisation-des-courriels-gratuitement-gmail-outlook-yahoo-compatibles/"><u>Logiciel Le Mieux Noté Pour La Sécurisation Des Courriels Gratuitement : Gmail, Outlook, Yahoo Compatibles</u></a></li>
+<li><a href="https://win-help.techidaily.com/mastering-the-panda-prompts-effective-strategies-for-finding-and-preserving-black-myth-game-saved-progress/"><u>Mastering the Panda Prompts: Effective Strategies for Finding & Preserving Black Myth Game Saved Progress</u></a></li>
+<li><a href="https://win-help.techidaily.com/resolve-eac3-playback-problems-a-detailed-guide-to-fixing-audio-non-compatibility-concerns/"><u>Resolve EAC3 Playback Problems: A Detailed Guide to Fixing Audio Non-Compatibility Concerns</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What You Need to Know About HTTP/
-date: 2024-10-18T21:40:32.600Z
-updated: 2024-10-26T08:43:52.292Z
+date: 2024-10-27T18:46:42.247Z
+updated: 2024-10-31T19:47:16.042Z
 tags:
   - product
   - antivirus
@@ -84,15 +84,22 @@ In contrast, QUIC can perform both these actions simultaneously.
 
 [![QUIC Illustration](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html) in this image above, the signals bounce back and forth between your computer and the server, which eats up precious milliseconds. In comparison, QUIC only needs to send one signal to get the job done, without faffing around by transmitting data on multiple occasion.
 
 In short, HTTP/3, powered by QUIC, cuts the number of times computers need to request data from a server, ultimately speeding up the transmissions and connectivity for everyone involved. It also improves security by including the SSL (Secure Sockets Layer) handshake in the setup. Plus, this new technology also reduces overhead in another key area, when multiple substreams are sent over a single connection.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will HTTP/3 be used?
@@ -102,13 +109,6 @@ Soon. The transition has already begun, and slowly but surely the entire web wil
 This independent organization was founded by the US government in 1986, and is made up from volunteers from leading technology companies. They have been overseeing the proceedings for Internet technologies since 1993.
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
@@ -128,41 +128,36 @@ Other browser and software makers will, undoubtedly, add support for this new st
 
 In other words, the adoption of HTTP/3 is expected to be very much similar to that of HTTP/2, in that you will see gradual improvements and rollouts without any major breaks for applications and infrastructure that runs the web.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 HTTP/3, an evolution of the QUIC protocol from Google, is a major departure from traditional HTTP. Designed to work around the limitations of that protocol, HTTP/3 will serve as a combination of SSL and TCP to cut down on initial connection times and speed up the modern web.
 
 And while it changes how users and devices access the Internet a lot, HTTP/3 is all set to take the mantle as the newest and most widespread version of the venerable Hypertext Transfer Protocol.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 thought on “What is HTTP/3”
 
 1. ![](https://secure.gravatar.com/avatar/310abc9d873d41cede1258891d6bcaf3?s=50&d=mm&r=g)  
 Gwyneth Llewelyn  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [June 25, 2021 at 6:58 am](https://tools.techidaily.com/malwarefox/products/)  
 While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a misleading statement in the article, implying (perhaps due to a specific choice of words) that UDP/IP is a ‘brand new’ protocol, somehow designed by Google to address the limitations of TCP/IP.  
 In reality, UDP/IP was invented back in 1980 by David P. Reed (<https://en.wikipedia.org/wiki/User%5FDatagram%5FProtocol>; <https://www.deepplum.com/blog-dpr/?page%5Fid=6>) — Page and Brin were roughly 7 years old back then, and a long, long way before they came up with the concept of Google…  
 QUIC (technically, QUIC over IP), by contrast, is a technology developed initially by Google, built on top of UDP/IP, providing a simple mechanism of establishing reliable, encrypted connections, but without the massive overhead required by TCP/IP.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -189,20 +184,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-achieving-professional-quality-with-instagrams-virtual-screens/"><u>[New] Achieving Professional Quality with Instagram's Virtual Screens</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-avoid-youtube-previews-on-all-platforms-and-devices/"><u>[Updated] Avoid YouTube Previews on All Platforms & Devices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-simplify-your-multitasking-using-shortcut-keys-for-macs-screen-capture/"><u>2024 Approved Simplify Your Multitasking Using Shortcut Keys for Mac's Screen Capture</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-acid-pro-effect-exploring-similar-tools/"><u>2024 Approved The ACID Pro Effect Exploring Similar Tools</u></a></li>
-<li><a href="https://win-help.techidaily.com/desbloqueando-archivos-ocultos-de-windows-11-tres-metodos-expertos/"><u>Desbloqueando Archivos Ocultos De Windows 11: Tres Métodos Expertos</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-setup-for-enjoying-high-quality-4k-hdr-video-on-your-pc-with-windows-11/"><u>Effortless Setup for Enjoying High-Quality 4K HDR Video on Your PC with Windows 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/essential-tips-for-iphone-voice-note-making-for-2024/"><u>Essential Tips for iPhone Voice Note Making for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/fixing-error-code-0xc00000e-on-windows-11-step-by-step-guide-and-data-recovery-tips/"><u>Fixing Error Code 0xC00000E on Windows 11 - Step-by-Step Guide & Data Recovery Tips</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-15-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 15 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-nikons-1j5-videographer-a-spectacle-in-4k/"><u>In 2024, Nikon's 1J5 Videographer A Spectacle in 4K</u></a></li>
-<li><a href="https://win-help.techidaily.com/recovering-lost-zip-compressed-files-for-free-on-windows-10-and-11-platforms/"><u>Recovering Lost ZIP Compressed Files for Free on Windows 10 and 11 Platforms</u></a></li>
-<li><a href="https://win-help.techidaily.com/resolution-de-probleme-windows/"><u>Résolution De Problème : Windows</u></a></li>
-<li><a href="https://win-help.techidaily.com/solving-the-issue-of-iphones-invisible-on-your-windows-11-8-or-7-computer-a-step-by-step-guide/"><u>Solving the Issue of iPhones Invisible on Your Windows 11, 8 or 7 Computer: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-help.techidaily.com/two-simple-methods-for-automatic-file-backups-on-google-drive/"><u>Two Simple Methods for Automatic File Backups on Google Drive</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-video-venues-clash-youtube-shorts-vs-tiktoks-rapid-rise-for-2024/"><u>Viral Video Venues Clash YouTube Shorts Vs. TikTok's Rapid Rise for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-video-gear-the-ultimate-12-camera-guide/"><u>[New] 2024 Approved Essential Video Gear The Ultimate 12 Camera Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-of-breed-premium-4k-camera-mounts-for-pros/"><u>[New] Best of Breed Premium 4K Camera Mounts for Pros</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-expert-selections-top-ios-emulators-for-playstation-2-games-for-2024/"><u>[New] Expert Selections Top IOS Emulators for PlayStation 2 Games for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ultimate-beginners-guide-to-convenient-game-edit-software/"><u>[New] Ultimate Beginner's Guide to Convenient Game Edit Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-text-that-talks-back-adding-life-to-vids-on-a-budget/"><u>[Updated] Text that Talks Back Adding Life to Vids on a Budget</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-itel-a60-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Itel A60 PC | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-oppo-a2-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Oppo A2 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/9-strategien-zur-aktualisierungssuche-erfolgloser-versuch/"><u>9 Strategien Zur Aktualisierungssuche - Erfolgloser Versuch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bust-your-headphones-quietness-restoring-sound-to-conexant-smartaudio-hd-on-windows-10-systems/"><u>Bust Your Headphones' Quietness! Restoring Sound to Conexant SmartAudio HD on Windows 10 Systems</u></a></li>
+<li><a href="https://win-help.techidaily.com/effective-methods-to-break-free-from-the-dell-continuous-reboot-cycle-on-windows-10/"><u>Effective Methods to Break Free From the Dell Continuous Reboot Cycle on Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-insights-blending-visual-and-auditory-elements-in-windows-photos-for-2024/"><u>Expert Insights Blending Visual & Auditory Elements in Windows Photos for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-to-safely-back-up-your-iphone-using-an-exterior-ssd-a-guide-for-windows-11-and-10-users/"><u>How to Safely Back Up Your iPhone Using an Exterior SSD: A Guide for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-to-creation-dune-cle-usb-bootable-pour-installer-windows-1011/"><u>How-To: Création D'Une Clé USB Bootable Pour Installer Windows 10/11</u></a></li>
+<li><a href="https://win-help.techidaily.com/procedures-faciles-de-protection-des-fichiers-partages-en-reseau-sous-windows-11/"><u>Procédures Faciles De Protection Des Fichiers Partagés en Réseau Sous Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/revolutionize-digital-diaries-with-complimentary-tools-for-2024/"><u>Revolutionize Digital Diaries with Complimentary Tools for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/schnelle-migration-von-daten-umwandeln-sie-ihre-2tb-festplatte-in-eine-schnellere-sicherere-1tb-ssd/"><u>Schnelle Migration Von Daten: Umwandeln Sie Ihre 2TB Festplatte in Eine Schnellere, Sicherere 1TB SSD</u></a></li>
+<li><a href="https://win-help.techidaily.com/stop-unsolicited-texts-on-android-effective-techniques-using-the-malwarefox-app/"><u>Stop Unsolicited Texts on Android: Effective Techniques Using the MalwareFox App</u></a></li>
+<li><a href="https://win-help.techidaily.com/table-of-contents/"><u>Table of Contents:</u></a></li>
+<li><a href="https://win-help.techidaily.com/understanding-browser-fingerprinting-risks-to-your-privacy-and-effective-strategies-for-defense/"><u>Understanding Browser Fingerprinting: Risks to Your Privacy and Effective Strategies for Defense</u></a></li>
 </ul></div>
 
