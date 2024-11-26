@@ -1,7 +1,7 @@
 ---
 title: Top 5 Essential Steps for Securing Your Profile After a Facebook Compromise
-date: 2024-10-08T16:26:00.732Z
-updated: 2024-10-14T17:17:10.546Z
+date: 2024-11-19T17:03:34.952Z
+updated: 2024-11-26T17:05:30.807Z
 tags:
   - product
   - antivirus
@@ -51,16 +51,7 @@ Remember, it’ll take only one wrong message or post to shatter it. So, what sh
 If nothing visible has changed yet, how can you be sure that your facebook account has been hacked? There’s a reasonably simple method to check that:
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Monitor your Login Sessions
@@ -68,10 +59,7 @@ If nothing visible has changed yet, how can you be sure that your facebook accou
 ![](https://www.malwarefox.com/wp-content/uploads/2022/07/login-password.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Log in to your FB account and click the upside-down triangle (inverted triangle) in the top-right corner of the screen. Now, select Settings. Click Security and Login. Now at the very top, you’ll view a list of most recent devices you’ve logged in from and when they were active.
@@ -93,22 +81,13 @@ Now, also you should check for these things.
 
 Now, once you’re sure your account has been hacked, follow the below steps to secure your FB account.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Things to do When your Facebook Account is Hacked
 
 Below are some of the things to do when your Facebook Account is Hacked
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change your Facebook Account Password
 
@@ -125,28 +104,12 @@ Just in case the hacker has changed your password, don’t panic. We have a solu
 ![](https://www.malwarefox.com/wp-content/uploads/2017/11/Reset-Password.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now, Facebook will help you retrieve your password. If you have access to an email account or phone number associated with your Facebook account, enter it to find your account. Once facebook finds your account, it will provide options to reset your password.
 
 You can select your phone or email for the same. Now, you can also add multiple emails in case the primary email gets hacked as well. This action will help to recover your facebook account faster.
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Report the Compromised Account to Facebook
 
@@ -155,10 +118,7 @@ Facebook takes its security very seriously and would like to know if someone has
 ![](https://www.malwarefox.com/wp-content/uploads/2017/11/Hacked.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The best thing here is to [report your account as compromised](https://www.facebook.com/hacked/). Facebook will even help you recover your account in the best way possible.
@@ -170,6 +130,10 @@ The best thing here is to [report your account as compromised](https://www.faceb
 Once you have access to your facebook account, go to **Settings> Apps**. Now click on **Show All**. Here you’ll be able to see all those apps that have access to your facebook. If you find any suspicious or rogue application, remove it or instead, you can click on the **pencil icon** to change its access settings.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2017/11/Remove-Access-to-Apps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here, you can change the information it can access and the control over your Facebook posts for each app.
 
@@ -193,13 +157,6 @@ Additionally, you should also make sure to install a secure antivirus solution a
 
 Stay Safe & Secure on Your Social Media.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 thoughts on “5 Things to do when your Facebook Account is Hacked”
 
 1. ![](https://secure.gravatar.com/avatar/0898371ba1bf774c026488800f3e89b3?s=50&d=mm&r=g)  
@@ -215,6 +172,10 @@ Pamela
 [March 26, 2023 at 5:39 pm](https://tools.techidaily.com/malwarefox/products/)  
 I was hacked in February. I uploaded my ID to prove that I am the owner of the account. I got no response. I also reported my account as hacked. Facebook sent me an email telling me my account doesn’t violate community standards, so they won’t take it down. The real message I am getting from them is that the hacker, who stole my account of 15 years has the right to do whatever he wants with because he isn’t posting anything offensive to get it taken down, but me, who was the owner of the account, has no rights whatsoever. If I find a solution to your question , I will pass it along.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -241,24 +202,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-sound-transformation-from-youtube-to-wav-format/"><u>[New] 2024 Approved Effortless Sound Transformation From YouTube to WAV Format</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-excellence-in-auditory-theatre-writing/"><u>[New] 2024 Approved Excellence in Auditory Theatre Writing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-a-compreomed-approach-for-making-tiktok-songs-your-ringtone/"><u>[New] A Compreomed Approach for Making TikTok Songs Your Ringtone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-elite-apps-for-secure-android-cloud-vaults/"><u>[New] Elite Apps for Secure Android Cloud Vaults</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-glow-innovations-outshining-videos-through-design-for-2024/"><u>[New] Glow Innovations Outshining Videos Through Design for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-chuckle-champions-twitters-comedy-corner/"><u>[Updated] In 2024, Chuckle-Champions Twitter’s Comedy Corner</u></a></li>
-<li><a href="https://blog-min.techidaily.com/60fpspcapexand/"><u>「60Fps対応」高画質なPCモニターでApexを録画する初歩的ヒント&テクニック</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/backup-your-customized-book-creation-preferences-in-flipbuilder-a-step-by-step-guide/"><u>Backup Your Customized Book Creation Preferences in FlipBuilder: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-help.techidaily.com/discover-the-ultimate-list-of-gamer-thrones-for-202/"><u>Discover the Ultimate List of Gamer Thrones for 202</u></a></li>
-<li><a href="https://win-help.techidaily.com/gardyn-home-kit-30-unveiled-a-thrifty-and-rewarding-journey-into-diy-smart-farming-at-home-zdnet-review/"><u>Gardyn Home Kit 3.0 Unveiled: A Thrifty and Rewarding Journey Into DIY Smart Farming at Home | ZDNET Review</u></a></li>
-<li><a href="https://win-help.techidaily.com/hack-your-surface-pro-to-boost-storage-space-and-slash-costs-in-just-7-steps-expert-advice-from-zdnet/"><u>Hack Your Surface Pro to Boost Storage Space and Slash Costs in Just 7 Steps | Expert Advice From ZDNET</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-beatsaver-recorder-app-review/"><u>In 2024, BeatSaver Recorder App Review</u></a></li>
-<li><a href="https://win-help.techidaily.com/microsoft-faces-tight-deadline-in-resolving-critical-issues-before-windows-11-release-pcworld-insights/"><u>Microsoft Faces Tight Deadline in Resolving Critical Issues Before Windows 11 Release | PCWorld Insights</u></a></li>
-<li><a href="https://win-help.techidaily.com/microsoft-unveils-integrated-teamwork-application-one-stop-solution-for-professional-and-academic-collaboration-zdnet/"><u>Microsoft Unveils Integrated Teamwork Application: One-Stop Solution for Professional & Academic Collaboration - ZDNet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/setting-and-changing-personalized-iphone-tones-for-2024/"><u>Setting & Changing Personalized iPhone Tones for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/top-tech-credentials-for-every-professional-phase-expert-picks-by-zdnet/"><u>Top Tech Credentials for Every Professional Phase: Expert Picks by ZDNet</u></a></li>
-<li><a href="https://win-help.techidaily.com/unlocking-peak-productivity-in-software-engineering-how-microsoft-leads-according-to-zdnet/"><u>Unlocking Peak Productivity in Software Engineering: How Microsoft Leads According to ZDNet</u></a></li>
-<li><a href="https://win-help.techidaily.com/will-microsoft-require-fees-for-future-windows-10-updates-find-out-the-price-tag/"><u>Will Microsoft Require Fees for Future Windows 10 Updates? Find Out the Price Tag!</u></a></li>
-<li><a href="https://win-help.techidaily.com/zdnets-exclusive-list-elite-sound-insulating-curtains-for-a-peaceful-home/"><u>ZDNET's Exclusive List: Elite Sound Insulating Curtains for a Peaceful Home</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers-for-2024/"><u>[New] A Quick Dive Into Video Ratios The Aspect Ratio Essentials for YouTubers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tep-up-your-game-mastering-effective-video-title-and-tag-techniques-for-2024/"><u>[New] Step Up Your Game Mastering Effective Video Title & Tag Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-from-struggle-to-success-a-collection-of-best-practices-for-fb-profiles-for-2024/"><u>[Updated] From Struggle to Success A Collection of Best Practices for FB Profiles for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-pinnacle-graphics-cards-for-4k-entertainment/"><u>2024 Approved Pinnacle Graphics Cards for 4K Entertainment</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728492205241-0x80073712/"><u>解決方法：錯誤代碼 0X80073712 - 修改失效的更新檔</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728505790686-5/"><u>馬基來姆反射克隆術 - 簡單方法5步驟補丁失敗的修正手段</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728501297310-sd/"><u>无成本回收从格式化SD卡中重获图片指南</u></a></li>
+<li><a href="https://win-help.techidaily.com/building-your-own-ghost-bootable-drive-on-windows-11-top-3-methods/"><u>Building Your Own Ghost Bootable Drive on Windows 11: Top 3 Methods</u></a></li>
+<li><a href="https://win-help.techidaily.com/como-clonar-tu-unidad-usb-de-partida-con-excelencia-la-herramienta-gratis-mas-efectiva/"><u>Cómo Clonar Tu Unidad USB De Partida Con Excelencia: La Herramienta Gratis Más Efectiva</u></a></li>
+<li><a href="https://win-help.techidaily.com/como-unir-fotografias-de-respaldo-combinacion-y-consolidacion-en-una-sola-imagen/"><u>Cómo Unir Fotografías De Respaldo: Combinación Y Consolidación en Una Sola Imagen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-black-to-bright-on-lenovo-laptops/"><u>From Black to Bright on Lenovo Laptops</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-s24-ultra-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy S24 Ultra Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/proven-strategies-to-cut-out-distracting-ambient-noise-from-audio-files/"><u>Proven Strategies to Cut Out Distracting Ambient Noise From Audio Files</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/schnelle-und-einfache-losungen-6-methoden-zur-fehlerbehebung-von-windows-10/"><u>Schnelle Und Einfache Lösungen: 6 Methoden Zur Fehlerbehebung Von Windows 10</u></a></li>
+<li><a href="https://win-help.techidaily.com/simple-tutorial-protect-your-data-disk-backup-and-restore-for-windows-881-users/"><u>Simple Tutorial: Protect Your Data - Disk Backup & Restore for Windows 8/8.1 Users</u></a></li>
+<li><a href="https://win-help.techidaily.com/step-by-step-guide-reinstalling-your-favorite-apps-from-an-itunes-backup/"><u>Step-by-Step Guide: Reinstalling Your Favorite Apps From an iTunes Backup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-powershell-workflow-with-script-policy-controls/"><u>Streamline Your PowerShell Workflow with Script Policy Controls</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-24-approaches-to-enhance-your-channels-popularity/"><u>Top 24 Approaches to Enhance Your Channel's Popularity</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Preventing Intrusive Promotions During Web Browsing in Chrome Mobile on Android Phones"
-date: 2024-10-31T19:19:52.296Z
-updated: 2024-11-06T21:19:07.466Z
+date: 2024-11-25T16:29:38.714Z
+updated: 2024-11-26T16:08:47.821Z
 tags:
   - product
   - antivirus
@@ -66,6 +66,10 @@ Google Chrome for Android employs native ad blocking mechanism that will protect
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/4-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. On Site settings, choose **Ads**.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/5-1.png)
@@ -85,6 +89,10 @@ We recommend Total AdBlock which comes for free bundled when you buy TotalAV. It
 [Get TotalAV (with Free Total Adblock)](https://tools.techidaily.com/malwarefox/products/) 
 
 ![](https://www.malwarefox.com/wp-content/uploads/2023/02/Total-AdBlocker.webp "Total-AdBlocker")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -118,6 +126,10 @@ Now, simply toggle the Protection switch and browse the web ad-free.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2023/02/Enable-AdGuard-Protection.webp "Enable-AdGuard-Protection")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ## Fine Tune with DNS66
@@ -127,19 +139,6 @@ Now, simply toggle the Protection switch and browse the web ad-free.
 Download DNS66 on [F-Droid](https://f-droid.org/packages/org.jak%5Flinux.dns66/) which is a trusted app directory for free and open source Android programs. You have to allow your system to install apps from unknown sources. Go to **Settings**. Choose **Security**.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/10-1.png)
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Turn on the dial for **Unknown sources**. If there is any confirmation pop-up window, choose **OK**.
 
@@ -153,13 +152,6 @@ Choose **Yes** on the **Missing hosts file** pop up window.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Them, choose **OK** on the **Connection request** pop-up notification.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/14.png)
@@ -171,6 +163,10 @@ The **Start** tab should indicate that the VPN services is running.
 Then, go to **Hosts** tab. By default, the application lists various host file sources with StevenBlack’s enabled. If you want to block ads from other host file sources, choose them from the list.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, choose **Deny** on the dropdown list on the next page. Touch the check logo on the upper right corner to confirm.
 
@@ -188,13 +184,6 @@ Launch Bromite then open the triple-dot menu on the upper right corner. Check **
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/18.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Install AdBlock Plus
 
 [AdBlock Plus](https://adblockplus.org/android-install) offers an alternative outside Chromium-based browsers. It provides faster browsing by blocking ads natively. Moreover, it protects your data and privacy during browsing by blocking tracking mechanisms.
@@ -206,6 +195,10 @@ The browser does a good job of protecting you by default. However, you can add m
 Under **Settings**, choose **Ad blocking**.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/05/20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 On the next page, choose **More blocking options**.
 
@@ -227,6 +220,10 @@ It is open source and free which also allows you to select your own sources of h
 
 Avoiding annoying ads starts with clean browsing habits. Ensure that you are only visiting secure sites. Also, running an ad-blocking app and anti-malware protection will add layers of security in case any ads get through. Regularly schedule a full system scan as well to remove any hidden adware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 17 thoughts on “How to Block Ads in Android Chrome”
 
 1. ![](https://secure.gravatar.com/avatar/9487aad2057839cf3724af04e8b3d617?s=50&d=mm&r=g)  
@@ -236,13 +233,6 @@ Nice PH bookmark there, guys
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/907dc9c535431cd9dfd144bed3daee3d?s=50&d=mm&r=g)  
    69420  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    [July 13, 2021 at 2:10 pm](https://tools.techidaily.com/malwarefox/products/)  
    Bruh good catch  
@@ -256,13 +246,6 @@ It doesn’t block much (only ads known to Google to be “intrusive or misleadi
    * ![](https://secure.gravatar.com/avatar/a71d687ca242329061b552ce4f402c97?s=50&d=mm&r=g)  
    Thomas Motley  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    [May 12, 2020 at 2:18 pm](https://tools.techidaily.com/malwarefox/products/)  
    No, it’s \*not\* backwards. Leaving it on allows all ads. Turning it off blocks “intrusive and misleading ads.” Because it’s not intuitive, most probably leave it on, which Google surely likes.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -274,25 +257,11 @@ It doesn’t block much (only ads known to Google to be “intrusive or misleadi
 3. ![](https://secure.gravatar.com/avatar/cd7af685a7ff714d03a30d3b569b7539?s=50&d=mm&r=g)  
 Midge A Swanson  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [May 22, 2020 at 2:12 am](https://tools.techidaily.com/malwarefox/products/)  
 Your listing states Ad Blocker for android Chrome phones, but I can’t find anything that applies to that topic. I’ve downloaded Ad Blocker onto my Samsung android phone, but it’s not blocking the ads. The phone came with game apps and the constant ads are driving me nuts! Do you have any suggestions? FYI, I’m a disabled senior who relies on the games to keep mind occupied since I don’t care for daytime TV so I’d appreciate any help you can give me. Thank you in advance.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/6a8c63141902d83e7a1dfa2c29548295?s=50&d=mm&r=g)  
    Drew  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    [April 27, 2021 at 3:24 am](https://tools.techidaily.com/malwarefox/products/)  
    I use BlockThis. It blocks everything. <https://block-this.en.uptodown.com/android>  
@@ -325,11 +294,21 @@ My God, ist’s so simple to hide ads with the original Chrome for Android: Chan
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/61e2c054559da82ee780ca2b4bc6b3a5?s=50&d=mm&r=g)  
    K  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    [January 28, 2024 at 2:51 am](https://tools.techidaily.com/malwarefox/products/)  
    You are a life saver!  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 7. ![](https://secure.gravatar.com/avatar/76d2ed45325fbf6dcc49dfb1fda6688c?s=50&d=mm&r=g)  
 install adblock plus free  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [May 10, 2021 at 2:55 pm](https://tools.techidaily.com/malwarefox/products/)  
 Me das tu consentimiento de comentarlo en mi sitio. Muchas gracias, Un saludo  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -337,10 +316,7 @@ Me das tu consentimiento de comentarlo en mi sitio. Muchas gracias, Un saludo
 A  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [May 20, 2021 at 2:13 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -356,6 +332,10 @@ Nikos
 [March 5, 2023 at 3:24 pm](https://tools.techidaily.com/malwarefox/products/)  
 Brave browser, you can make the interface identical to Chrome, and underneath its engine is Chromium. So you have a chrome like browser without any ads.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -382,20 +362,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-impact-of-luts-on-professional-photography/"><u>[New] 2024 Approved The Impact of LUTs on Professional Photography</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-precision-and-vividness-with-the-benq-sw320-4k-monitor/"><u>[New] In 2024, Precision & Vividness with the BenQ SW320 4K Monitor</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-optimizing-social-media-interaction-with-automatic-youtube-video-playback/"><u>[Updated] 2024 Approved Optimizing Social Media Interaction with Automatic Youtube Video Playback</u></a></li>
-<li><a href="https://win-help.techidaily.com/1-zweigleisige-anleitung-zum-erzeugen-eines-windows-server-startsticks/"><u>1. Zweigleisige Anleitung Zum Erzeugen Eines Windows Server Startsticks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-picture-editor-tutorial/"><u>2024 Approved The Ultimate Picture Editor Tutorial</u></a></li>
-<li><a href="https://win-help.techidaily.com/5-estrategias-essenciais-para-habilitar-uma-particao-ripado-em-windows-1110/"><u>5 Estratégias Essenciais Para Habilitar Uma Partição Ripado Em Windows 11/10</u></a></li>
-<li><a href="https://win-help.techidaily.com/1728480818746-google/"><u>使い慣れたGoogleドキュメントが見当たらない？失われたファイルの回収方法</u></a></li>
-<li><a href="https://win-help.techidaily.com/comprendre-la-sauvegarde-incrustee-et-derivationnelle-sous-windows-11-guide-complet/"><u>Comprendre La Sauvegarde Incrustée Et Dérivationnelle Sous Windows 11 : Guide Complet</u></a></li>
-<li><a href="https://win-help.techidaily.com/ejecucion-y-configuracion-de-aomei-backupper-como-hacerlo-correctamente/"><u>Ejecución Y Configuración De AOMEI Backupper: Cómo Hacerlo Correctamente</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-f14-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy F14 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-alarm-tones-optimal-websites-list/"><u>In 2024, Ultimate Alarm Tones Optimal Websites List</u></a></li>
-<li><a href="https://win-help.techidaily.com/logiciel-le-mieux-note-pour-la-securisation-des-courriels-gratuitement-gmail-outlook-yahoo-compatibles/"><u>Logiciel Le Mieux Noté Pour La Sécurisation Des Courriels Gratuitement : Gmail, Outlook, Yahoo Compatibles</u></a></li>
-<li><a href="https://win-help.techidaily.com/resolve-eac3-playback-problems-a-detailed-guide-to-fixing-audio-non-compatibility-concerns/"><u>Resolve EAC3 Playback Problems: A Detailed Guide to Fixing Audio Non-Compatibility Concerns</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/step-by-step-process-of-transforming-epub-ebooks-to-plain-text-without-cost/"><u>Step-by-Step Process of Transforming EPUB eBooks to Plain Text Without Cost</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-apple-watch-accessories-the-ultimate-selection/"><u>Top Rated Apple Watch Accessories: The Ultimate Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-podcasts-incorporating-audio-in-powerpoint-slides/"><u>[New] Mastering Podcasts Incorporating Audio in PowerPoint Slides</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tailored-content-personalizing-facebook-ad-videos-effectively/"><u>[New] Tailored Content Personalizing Facebook Ad Videos Effectively</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leveraging-edit-tools-for-youtube-videos-post-publishment/"><u>[Updated] Leveraging Edit Tools for YouTube Videos Post-Publishment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/are-you-prepared-for-ads-on-the-lockscreen-of-future-android-phones/"><u>Are You Prepared for Ads on the Lockscreen of Future Android Phones?</u></a></li>
+<li><a href="https://win-help.techidaily.com/best-methods-to-repair-damaged-windows-10-partitions-a-step-by-step-guide/"><u>Best Methods to Repair Damaged Windows 10 Partitions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/clonezilla-fur-windows-nutzer-professionelles-klonen-von-systemen-auf-ssdshdds-erklart/"><u>Clonezilla Für Windows Nutzer: Professionelles Klonen Von Systemen Auf SSDs/HDDs Erklärt</u></a></li>
+<li><a href="https://win-help.techidaily.com/effortless-transition-6-tips-for-shifting-contacts-from-your-galaxy-device-to-the-iphone/"><u>Effortless Transition: 6 Tips for Shifting Contacts From Your Galaxy Device to the iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-coding-speed-with-non-chatgpt-ai-alternatives/"><u>Elevating Coding Speed with Non-ChatGPT AI Alternatives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/fast-windows-file-check-up-tips-and-tricks/"><u>Fast Windows File Check-Up Tips and Tricks</u></a></li>
+<li><a href="https://win-help.techidaily.com/four-effective-techniques-to-start-windows-server-2019-in-safe-mode-a-comprehensive-guide/"><u>Four Effective Techniques to Start Windows Server 2019 in Safe Mode: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-help.techidaily.com/losungen-zur-behebung-von-problemen-mit-nicht-sichtbarer-aufnahmefunktion-bei-zoom/"><u>Lösungen Zur Behebung Von Problemen Mit Nicht Sichtbarer Aufnahmefunktion Bei Zoom</u></a></li>
+<li><a href="https://win-help.techidaily.com/top-migration-software-swift-and-efficient-conversion-from-ssd-and-sata-iii/"><u>Top Migration Software: Swift & Efficient Conversion From SSD and SATA III</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-capture-your-best-self-10-top-rated-webcam-software-for-windows-10-for-2024/"><u>Updated Capture Your Best Self 10 Top-Rated Webcam Software for Windows 10 for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/wiederherstellung-geloschter-daten-auf-einem-usb-stick-unter-windows-11-schnelllosungen/"><u>Wiederherstellung Gelöschter Daten Auf Einem USB-Stick Unter Windows 11 - Schnelllösungen</u></a></li>
+<li><a href="https://win-help.techidaily.com/bhara-harada-dasaka-sa-data-shathhana-usa-lpata-hana-val-janakara-ka-pana-parapata-kasa-kaya-jae/"><u>बाहरी हार्ड डिस्क से डेटा शोधन: उसे लुप्त होने वाले जानकारी को पुनः प्राप्त कैसे किया जाए</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 進入 Windows 10/11裡的 Sysprep - 完全解決方案系統初始化演示
-date: 2024-10-31T19:03:48.065Z
-updated: 2024-11-06T16:14:37.624Z
+date: 2024-11-24T17:05:41.493Z
+updated: 2024-11-26T16:53:01.761Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2a98528d0cbb835531035bed.jpg
@@ -38,6 +38,10 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Ist es sicher, den Papierkorb zu löschen?
 
 Kann ich den Ordner „Papierkorb“ von meiner D-Festplatte löschen, da er 9 GB Speicherplatz belegt? Wenn ich ihn öffne, ist nichts darin enthalten. Und es gibt einen anderen Ordner mit demselben Namen auf meiner C-Festplatte, der ebenfalls Platz beansprucht. Ist es also sicher, den Papierkorb zu löschen?
@@ -54,13 +58,6 @@ Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist e
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Teil 1\. Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
 Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass keine wichtigen Dateien darin enthalten sind. Hier sind die Schritte, um das Papierkorbsymbol vom Desktop zu entfernen:
@@ -70,10 +67,7 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
@@ -88,6 +82,10 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
 Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möchten, folgen Sie diesen klaren Schritten:
@@ -97,10 +95,7 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
@@ -108,10 +103,7 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
@@ -135,10 +127,7 @@ Sicherer Download
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
@@ -148,13 +137,6 @@ Sicherer Download
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -179,16 +161,13 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
@@ -227,6 +206,10 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -267,10 +250,7 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -288,20 +268,21 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-innovating-industries-with-immersive-virtual-reality/"><u>[New] Innovating Industries with Immersive Virtual Reality</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-transform-your-pictures-the-leaderboard-of-phone-sticker-enhancers/"><u>[Updated] In 2024, Transform Your Pictures - The Leaderboard of Phone Sticker-Enhancers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-web-warriors-championing-screen-recording-tools-for-2024/"><u>[Updated] Web Warriors Championing Screen Recording Tools for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/1728505207924-aomei-image-deploy/"><u>AOMEI Image Deploy與鏡像部署啟動安全指南解決方案</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/budget-friendly-powerhouse-comparing-the-apple-ipad-air-4-with-ipad-pro/"><u>Budget-Friendly Powerhouse: Comparing the Apple iPad Air 4 with iPad Pro</u></a></li>
-<li><a href="https://win-help.techidaily.com/deaktivierung-von-automatischen-windows-10-updates-uber-die-systemregistrierung-schritt-fur-schritt-anleitung/"><u>Deaktivierung Von Automatischen Windows 10-Updates Über Die Systemregistrierung: Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://win-help.techidaily.com/fast-losungen-fur-das-problem-synctoy-kopiert-nicht-alle-dateien-unter-windows-10-oder-7/"><u>Fast Lösungen Für Das Problem: SyncToy Kopiert Nicht Alle Dateien Unter Windows 10 Oder 7</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/introduction-to-lexiedit-a-starters-guide-for-novice-editors/"><u>Introduction to LexiEdit A Starters Guide for Novice Editors</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-x-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone X Properly</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/roku-vs-amazon-fire-tv-stick-choosing-the-best-streaming-device/"><u>Roku vs Amazon Fire TV Stick: Choosing the Best Streaming Device</u></a></li>
-<li><a href="https://win-help.techidaily.com/solving-windows-10-boot-volume-damage-a-step-by-step-guide/"><u>Solving Windows 10 Boot Volume Damage: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-help.techidaily.com/tutochef-comment-recouvrer-vos-images-jpeg-sans-cout/"><u>Tutochef: Comment Recouvrer Vos Images JPEG Sans Coût</u></a></li>
-<li><a href="https://win-help.techidaily.com/upgrade-your-pc-sanctuary-the-ultimate-guide-to-adding-a-new-hard-drive-in-windows-11/"><u>Upgrade Your PC Sanctuary: The Ultimate Guide to Adding a New Hard Drive in Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-hp-printer-setup-manual/"><u>Win HP Printer Setup Manual</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-techniques-recording-live-tv-online-for-2024/"><u>[Updated] Essential Techniques Recording Live TV Online for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-focusing-on-content-reach-sharing-igtv-across-platforms-for-2024/"><u>[Updated] Focusing on Content Reach Sharing IGTV Across Platforms for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inside-the-metaverse-discovering-6-in-depth-models/"><u>[Updated] Inside the Metaverse Discovering 6 In-Depth Models</u></a></li>
+<li><a href="https://win-help.techidaily.com/4-effektive-strategien-zum-abloschen-von-usb-datentragern-unter-windows-11/"><u>4 Effektive Strategien Zum Ablöschen Von USB-Datenträgern Unter Windows 11</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728504866564-found000/"><u>必讀教程：如何挽回Found.000夾中的丟失文件</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expertise-unlocked-comprehensively-scan-qr-codes-on-windows/"><u>Expertise Unlocked: Comprehensively Scan QR Codes on Windows</u></a></li>
+<li><a href="https://win-help.techidaily.com/gmail-backup-schnelles-und-einfaches-handbuch-fur-die-sicherung-ihrer-e-mails/"><u>Gmail-Backup: Schnelles Und Einfaches Handbuch Für Die Sicherung Ihrer E-Mails</u></a></li>
+<li><a href="https://win-help.techidaily.com/il-prodottore-di-clonazione-ssd-piu-affidabile-e-gratuito/"><u>Il Prodottore Di Clonazione SSD Più Affidabile E Gratuito</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-fortnite-on-mac-watch-out-for-exceptions/"><u>Playing Fortnite on Mac? Watch Out for Exceptions!</u></a></li>
+<li><a href="https://win-help.techidaily.com/resolved-understanding-the-causes-behind-recurrently-vanishing-drives-on-windows-10-systems/"><u>Resolved: Understanding the Causes Behind Recurrently Vanishing Drives on Windows 10 Systems</u></a></li>
+<li><a href="https://win-help.techidaily.com/resolvez-le-dilemme-du-disque-lacie-non-identifie-sur-windows-10-solutions-pratiques-et-efficaces/"><u>Résolvez Le Dilemme Du Disque LaCie Non Identifié Sur Windows 10 : Solutions Pratiques Et Efficaces</u></a></li>
+<li><a href="https://windows11.techidaily.com/revealing-the-make-of-your-windows-machine-in-six-steps/"><u>Revealing the Make of Your Windows Machine in Six Steps</u></a></li>
+<li><a href="https://win-help.techidaily.com/step-by-step-guide-a-visual-approach-to-simple-pc-startup-procedure/"><u>Step-by-Step Guide: A Visual Approach to Simple PC Startup Procedure</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/tips-for-uploading-external-urls-to-ig/"><u>Tips for Uploading External URLs to IG</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/ultimate-guide-cost-effective-youtube-video-shrinkage-techniques/"><u>Ultimate Guide: Cost-Effective YouTube Video Shrinkage Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-through-toms-critiques/"><u>Unveiling the Latest in Hardware Through Tom's Critiques</u></a></li>
 </ul></div>
 

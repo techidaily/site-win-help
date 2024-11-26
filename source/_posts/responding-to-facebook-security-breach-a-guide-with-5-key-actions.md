@@ -1,7 +1,7 @@
 ---
 title: "Responding to Facebook Security Breach: A Guide with 5 Key Actions"
-date: 2024-10-12T17:05:28.084Z
-updated: 2024-10-14T16:09:34.134Z
+date: 2024-11-21T16:35:34.190Z
+updated: 2024-11-26T16:50:37.844Z
 tags:
   - product
   - antivirus
@@ -50,22 +50,13 @@ Remember, it’ll take only one wrong message or post to shatter it. So, what sh
 
 If nothing visible has changed yet, how can you be sure that your facebook account has been hacked? There’s a reasonably simple method to check that:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Monitor your Login Sessions
 
 ![](https://www.malwarefox.com/wp-content/uploads/2022/07/login-password.webp)
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Log in to your FB account and click the upside-down triangle (inverted triangle) in the top-right corner of the screen. Now, select Settings. Click Security and Login. Now at the very top, you’ll view a list of most recent devices you’ve logged in from and when they were active.
 
@@ -77,13 +68,6 @@ Now, also you should check for these things.
 
 [Facebook Messenger Virus: How to Stay Safe](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Check for these Suspicious Activities on Facebook
 
 * Check your inbox to see if any suspicious messages or ads the hacker sent to your friends or unknown people.
@@ -92,6 +76,10 @@ Now, also you should check for these things.
 * You may also check your info like Birthday date, email address, name and more to see if the hacker changes them.
 
 Now, once you’re sure your account has been hacked, follow the below steps to secure your FB account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Things to do When your Facebook Account is Hacked
 
@@ -104,19 +92,24 @@ If the hacker has not changed your password yet, you’re in luck. Just log in t
 ![](https://www.malwarefox.com/wp-content/uploads/2017/11/Change-Password.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 I highly recommend using a secure password manager to avoid recurrences of the incident.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset your Facebook Account Password
 
 Just in case the hacker has changed your password, don’t panic. We have a solution. Try to regain access to your account by visiting the facebook login page. Here, click **Forgot Your Password**?
 
 ![](https://www.malwarefox.com/wp-content/uploads/2017/11/Reset-Password.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, Facebook will help you retrieve your password. If you have access to an email account or phone number associated with your Facebook account, enter it to find your account. Once facebook finds your account, it will provide options to reset your password.
 
@@ -132,40 +125,13 @@ The best thing here is to [report your account as compromised](https://www.faceb
 
 [How to Remove Facebook from your Life](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Remove Rogue Application and Browser Add-ons
 
 Once you have access to your facebook account, go to **Settings> Apps**. Now click on **Show All**. Here you’ll be able to see all those apps that have access to your facebook. If you find any suspicious or rogue application, remove it or instead, you can click on the **pencil icon** to change its access settings.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2017/11/Remove-Access-to-Apps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Here, you can change the information it can access and the control over your Facebook posts for each app.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Caution your Friends and Family
 
@@ -187,16 +153,17 @@ Additionally, you should also make sure to install a secure antivirus solution a
 
 Stay Safe & Secure on Your Social Media.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 thoughts on “5 Things to do when your Facebook Account is Hacked”
 
 1. ![](https://secure.gravatar.com/avatar/0898371ba1bf774c026488800f3e89b3?s=50&d=mm&r=g)  
 Janet O'Dea  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [September 11, 2022 at 9:13 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -236,18 +203,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-clicks-to-cash-how-jake-paul-leveraged-youtube-for-2024/"><u>[New] From Clicks to Cash How Jake Paul Leveraged YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unraveling-video-opposites-a-comprehensible-guide-for-instavids/"><u>[Updated] In 2024, Unraveling Video Opposites A Comprehensible Guide for InstaVids</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-create-a-3d-text-art-effect-in-adobe-illustrator/"><u>2024 Approved How to Create a 3D Text Art Effect in Adobe Illustrator</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-pro-photos-master-the-art-of-adding-motion-blur-effects/"><u>2024 Approved Pro Photos Master the Art of Adding Motion Blur Effects</u></a></li>
-<li><a href="https://article-posts.techidaily.com/5-high-quality-displays-for-unparalleled-games-for-2024/"><u>5 High-Quality Displays for Unparalleled Games for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/comment-resoudre-un-probleme-de-demarrage-sous-windows-11/"><u>Comment Résoudre Un Problème De Démarrage Sous Windows 11 ?</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-14-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 14 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-artistic-ventures-on-ios-the-bestiary-of-the-top-8-drawing-apps/"><u>In 2024, Artistic Ventures on iOS The Bestiary of the Top 8 Drawing Apps</u></a></li>
-<li><a href="https://win-help.techidaily.com/incorporating-audio-tracks-into-your-flipbook-projects/"><u>Incorporating Audio Tracks Into Your FlipBook Projects</u></a></li>
-<li><a href="https://win-help.techidaily.com/mastering-image-transformation-in-flipbuilder-tips-for-efficacious-image-rotation/"><u>Mastering Image Transformation in FlipBuilder - Tips for Efficacious Image Rotation</u></a></li>
-<li><a href="https://win-help.techidaily.com/maximizing-your-workspace-expert-guide-to-creating-full-screen-exe-flipbooks-with-flipbuilder/"><u>Maximizing Your Workspace: Expert Guide to Creating Full-Screen EXE Flipbooks with FlipBuilder</u></a></li>
-<li><a href="https://win-help.techidaily.com/rotating-your-chosen-photos-with-flipbuilder-a-comprehensive-guide/"><u>Rotating Your Chosen Photos with FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/streamline-your-transactions-the-ultimate-fix-for-apple-pays-most-frequent-hiccups/"><u>Streamline Your Transactions: The Ultimate Fix for Apple Pay's Most Frequent Hiccups</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-maximizing-productivity-activatingdeactivating-pip-on-ios/"><u>[New] In 2024, Maximizing Productivity Activating/Deactivating PIP on iOS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-realistic-movement-rendering-for-images/"><u>[Updated] Realistic Movement Rendering for Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-humor-at-your-fingertips-complimentary-toolset/"><u>2024 Approved Humor at Your Fingertips - Complimentary Toolset</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comprehensive-evaluation-of-the-leading-free-decision-trees-in-2e-choose-wisely/"><u>Comprehensive Evaluation of the Leading Free Decision Trees in 2E - Choose Wisely!</u></a></li>
+<li><a href="https://win-help.techidaily.com/conecta-tus-docs-pdf-gratis-la-solucion-mas-facil-y-rapida-para-administrar-documentos-con-eficiencia/"><u>Conecta Tus Docs PDF Gratis: La Solución Más Fácil Y Rápida Para Administrar Documentos Con Eficiencia</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oneplus-ace-2-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your OnePlus Ace 2 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/fixing-error-code-0xc00000e-on-windows-11-step-by-step-guide-and-data-recovery-tips/"><u>Fixing Error Code 0xC00000E on Windows 11 - Step-by-Step Guide & Data Recovery Tips</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-to-install-and-back-up-your-system-with-windows-11-23h2-support-bundle/"><u>How to Install and Back Up Your System with Windows 11 23H2 Support Bundle</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y78plus-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y78+</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unlock-new-dimensions-with-these-vr-videos/"><u>In 2024, Unlock New Dimensions with These VR Videos</u></a></li>
+<li><a href="https://win-help.techidaily.com/probleme-de-migration-des-donnees-intels-resolution-impossible/"><u>Probleme De Migration Des Données Intels - Résolution Impossible</u></a></li>
+<li><a href="https://win-help.techidaily.com/reset-lenovo-laptops-auf-die-originalen-einstellungen-einfache-tipps-und-tricks-fur-windows-11-benutzer/"><u>Reset Lenovo Laptops Auf Die Originalen Einstellungen: Einfache Tipps Und Tricks Für Windows 11 Benutzer</u></a></li>
+<li><a href="https://win-help.techidaily.com/resolved-recovered-all-lost-documents-from-pc-after-onedrive-glitch/"><u>Resolved: Recovered All Lost Documents From PC After OneDrive Glitch</u></a></li>
+<li><a href="https://win-help.techidaily.com/secure-your-iphone-contacts-on-a-pc-with-these-4-simple-windows-methods/"><u>Secure Your iPhone Contacts on a PC with These 4 Simple Windows Methods</u></a></li>
+<li><a href="https://win-help.techidaily.com/simple-steps-successfully-duplicating-your-hard-drive-on-a-new-one/"><u>Simple Steps: Successfully Duplicating Your Hard Drive on a New One</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-improper-image-error-on-your-pc-running-windows-11-or-10/"><u>Troubleshooting Improper Image Error on Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-security-expanding-context-menu-with-firewall-restrictions/"><u>Windows 11 Security: Expanding Context Menu with Firewall Restrictions</u></a></li>
 </ul></div>
 
