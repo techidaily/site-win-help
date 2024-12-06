@@ -1,7 +1,7 @@
 ---
 title: Kickstart Your DJing Journey with the Freshly Released Public Beta of DEX 3 Pro and Its Amazing Karaoke Mode!
-date: 2024-11-25T17:01:17.563Z
-updated: 2024-11-26T16:22:36.123Z
+date: 2024-11-29T07:45:09.036Z
+updated: 2024-12-06T06:58:08.817Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ Please be sure to check your email and/or keep a tab on this blog for more news 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in DEX 3 Pro Version 3.10
@@ -67,7 +67,7 @@ _**IMPORTANT NOTES:** With your existing version of DEX 3 Pro closed, download a
 _Have questions about the **new version of DEX 3 Pro** or the new **karaoke features**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -89,21 +89,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/02/dex310-coverimage.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fearless-filming-mastering-your-first-10-clips/"><u>[Updated] 2024 Approved Fearless Filming Mastering Your First 10 Clips</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-drafting-a-compelling-closing-statement-for-tiktok/"><u>[Updated] Drafting a Compelling Closing Statement for TikTok</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-mastering-facebook-live-broadcasting-recorded-videos/"><u>[Updated] In 2024, Mastering Facebook Live Broadcasting Recorded Videos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-a14-4g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy A14 4G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-haul-video-manual-from-shopping-to-screen-time/"><u>2024 Approved The Complete Haul Video Manual From Shopping to Screen Time</u></a></li>
-<li><a href="https://win-help.techidaily.com/windows-1011-sysprep/"><u>進入 Windows 10/11裡的 Sysprep - 完全解決方案系統初始化演示</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/best-5-compatible-screen-mirroring-solutions-for-your-huawei-p30/"><u>Best 5 Compatible Screen Mirroring Solutions for Your Huawei P30</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-memories-best-apps-to-enhance-photos/"><u>Capture Memories Best Apps to Enhance Photos</u></a></li>
-<li><a href="https://win-help.techidaily.com/comment-remplacer-avec-elegance-le-logiciel-wd-smartware-sur-windows-solutions-de-haut-vol-pour-10-et-11-os/"><u>Comment Remplacer Avec Élégance Le Logiciel WD Smartware Sur Windows: Solutions De Haut Vol Pour 10 Et 11 OS</u></a></li>
-<li><a href="https://win-help.techidaily.com/effortless-transfer-of-your-windows-11-user-account-to-another-pc/"><u>Effortless Transfer of Your Windows 11 User Account to Another PC</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/full-restoration-of-your-iphone-master-the-reset-process-with-stellar-across-windowsmac/"><u>Full Restoration of Your iPhone: Master the Reset Process with Stellar Across Windows/Mac</u></a></li>
-<li><a href="https://win-help.techidaily.com/gestion-integrale-des-systemes-de-fichiers-compatibles/"><u>Gestion Intégrale Des Systèmes De Fichiers Compatibles</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-12-pro-max-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 12 Pro Max by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/mempersiapkan-diri-sebab-cara-cukup-sederhana-untuk-mudahiwirikan-data-dari-hard-drive-yang-malfunctioning-dan-gratis/"><u>Mempersiapkan Diri Sebab! Cara Cukup Sederhana Untuk Mudahiwirikan Data Dari Hard Drive Yang Malfunctioning Dan Gratis!</u></a></li>
-<li><a href="https://win-help.techidaily.com/optimized-approach-to-prevent-persistent-backups-on-windows-servers-detailed-guide/"><u>Optimized Approach to Prevent Persistent Backups on Windows Servers – Detailed Guide</u></a></li>
-<li><a href="https://win-help.techidaily.com/1728510352746-windows-11/"><u>あなたのデータが安全 - Windows 11でオフ時に自動的にバックアップ</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-res-aerial-showdown-dji-vs-gopro-capture/"><u>[New] High-Res Aerial Showdown DJi vs GoPro Capture</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-producers-playbook-for-mixing-audio-and-visuals-on-fb-platform/"><u>[New] The Producer's Playbook for Mixing Audio and Visuals on FB Platform</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-first-time-furnishings-minimalist-house-plans-in-mc/"><u>[Updated] In 2024, First-Time Furnishings Minimalist House Plans in MC</u></a></li>
+<li><a href="https://win-help.techidaily.com/can-you-trust-windows-defender-alone-for-complete-malware-security-on-your-pc-insights-by-yl-computing/"><u>Can You Trust Windows Defender Alone for Complete Malware Security on Your PC? - Insights by YL Computing</u></a></li>
+<li><a href="https://win-help.techidaily.com/download-free-ford-kaplus-backgrounds-by-yl-computing-exclusive-high-quality-imagery/"><u>Download Free Ford Ka+ Backgrounds by YL Computing: Exclusive High-Quality Imagery</u></a></li>
+<li><a href="https://win-help.techidaily.com/elevate-your-pc-speed-a-comprehensive-tutorial-on-defragmenting-the-windows-registry-by-yl-software/"><u>Elevate Your PC Speed: A Comprehensive Tutorial on Defragmenting the Windows Registry by YL Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro Max to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/identifying-common-causes-for-your-screen-going-dark-yl-software-solutions-explained/"><u>Identifying Common Causes for Your Screen Going Dark - YL Software Solutions Explained</u></a></li>
+<li><a href="https://win-help.techidaily.com/identifying-standard-signs-of-graphics-card-malfunctions-a-guide-by-yl-computing/"><u>Identifying Standard Signs of Graphics Card Malfunctions: A Guide by YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-y100i-power-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo Y100i Power 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-note-50-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme Note 50 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/is-your-graphics-card-malfunctioning-find-out-if-windows-10-offers-built-in-diagnostics-tools/"><u>Is Your Graphics Card Malfunctioning? Find Out If Windows 10 Offers Built-In Diagnostics Tools!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-update-seamless-installation-of-the-scansnap-s1100-software/"><u>Latest Update: Seamless Installation of the Scansnap S1100 Software</u></a></li>
+<li><a href="https://win-help.techidaily.com/protecting-your-virtual-money-expert-tips-from-yl-computings-digital-security-guide/"><u>Protecting Your Virtual Money: Expert Tips From YL Computing's Digital Security Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/secrets-to-selecting-a-premier-cinematographer-for-2024/"><u>Secrets to Selecting a Premier Cinematographer for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-unforeseen-kernel-trapping-and-blue-screen-of-death-in-windows-10/"><u>Troubleshooting Guide for Unforeseen Kernel Trapping and Blue Screen of Death in Windows 10</u></a></li>
+<li><a href="https://win-help.techidaily.com/understanding-frequent-scanner-problems-with-yl-softwares-expert-insights/"><u>Understanding Frequent Scanner Problems with YL Software's Expert Insights</u></a></li>
 </ul></div>
 

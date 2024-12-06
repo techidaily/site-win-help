@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Tracks Every Disc Jockey Should Play on Saint Patrick's Day - PC DJ
-date: 2024-11-22T16:38:37.807Z
-updated: 2024-11-26T16:04:58.641Z
+date: 2024-11-30T02:47:02.288Z
+updated: 2024-12-06T03:39:38.339Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ We hope this list of **10 Must-Play St Patrick’s Day songs for DJs** helps jum
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 10 Must-Play St Patrick’s Day Songs For DJs
@@ -63,7 +63,7 @@ Across the Broad Atlantic (Live On Paddy’s Day – New York & Dublin)
 _I know we missed some! What songs can you add to the **top 10 St Patrick’s Day Songs For DJs** list? Please leave your suggestions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,22 +85,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/stpatricksdaysongsfordjs-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cloaking-in-content-an-introduction-to-video-smoothing/"><u>[New] 2024 Approved Cloaking in Content An Introduction to Video Smoothing</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-techniques-for-downloading-vimeo-media-as-mp3/"><u>[Updated] Techniques for Downloading Vimeo Media as MP3</u></a></li>
-<li><a href="https://win-help.techidaily.com/1728491452589-windows-111087/"><u>新しいドライブにオペレーティングシステムを移行するための手順：Windows 11/10/8/7【詳細解析】</u></a></li>
-<li><a href="https://win-help.techidaily.com/clone-your-storage-devices-efficiently-how-to/"><u>Clone Your Storage Devices Efficiently: How To</u></a></li>
-<li><a href="https://win-help.techidaily.com/dell-pcuefiusb/"><u>Dell PC起動指南：UEFIモードにてUSBメモリからのブート手順</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-input-device-failures-in-windows-7-for-usb-mice-and-keyboards/"><u>Diagnosing and Repairing Input Device Failures in Windows 7 for USB Mice & Keyboards</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-lenovo-ideapad-100-drivers-step-by-step-guide-for-windows-11/"><u>Download & Install Lenovo IdeaPad 100 Drivers: Step-by-Step Guide for Windows 11</u></a></li>
-<li><a href="https://win-help.techidaily.com/guia-de-resolucion-de-errores-al-iniciar-tu-ordenador-metodos-faciles-y-efectivos/"><u>Guía De Resolución De Errores Al Iniciar Tu Ordenador: Métodos Fáciles Y Efectivos</u></a></li>
-<li><a href="https://win-help.techidaily.com/how-to-resolve-windows-update-issue-decoding-the-causes-of-error-code-0xc8000641/"><u>How to Resolve Windows Update Issue: Decoding the Causes of Error Code 0xC8000641</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-5-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 5 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-tinder-profiles-top-tricks-for-instant-love-interest/"><u>In 2024, Mastering the Art of Tinder Profiles Top Tricks for Instant Love Interest</u></a></li>
-<li><a href="https://win-help.techidaily.com/methode-de-sauvegarde-selective-seulement-les-fichiers-modifies-sur-un-disque-dur-externe/"><u>Méthode De Sauvegarde Sélective : Seulement Les Fichiers Modifiés Sur Un Disque Dur Externe</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-the-8-most-common-mistakes-for-beginners-to-skip/"><u>Navigating Windows 11: The 8 Most Common Mistakes for Beginners to Skip</u></a></li>
-<li><a href="https://win-help.techidaily.com/solutions-provenantes-pour-resoudre-le-probleme-de-demarrage-du-menu-start-sur-windows-11-9-methodes/"><u>Solutions Provenantes Pour Résoudre Le Problème De Démarrage Du Menu Start Sur Windows 11 (9 Méthodes)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tie-speeches-and-music-to-slide-contents-in-ppt/"><u>Tie Speeches and Music to Slide Contents in PPT</u></a></li>
-<li><a href="https://win-help.techidaily.com/unsicher-der-ipod-support-auf-windows-10-nicht-aktiviert/"><u>Unsicher: Der iPod-Support Auf Windows 10 Nicht Aktiviert</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-14-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 14 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unveiling-facebooks-forgotten-archive-easy-guide-for-devices/"><u>[New] 2024 Approved Unveiling Facebook's Forgotten Archive Easy Guide for Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-commerce-codex-for-instagram-creators-securing-profitable-alignments/"><u>[Updated] In 2024, The Commerce Codex for Instagram Creators Securing Profitable Alignments</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-freeze-frame-fun-the-complete-guide-to-xbox-one-snapshots/"><u>2024 Approved Freeze Frame Fun The Complete Guide to Xbox One Snapshots</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ditor-how-to-make-animated-gif-images-online-from-youtube-video-for-2024/"><u>GIF Editor How to Make Animated GIF Images Online From YouTube Video for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-to-ensure-your-graphics-card-works-with-windows-11-tips-from-yl-computing/"><u>How to Ensure Your Graphics Card Works With Windows 11 - Tips From YL Computing</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-to-fix-a-printer-displaying-as-offline-a-comprehensive-guide-by-yl-computing/"><u>How to Fix a Printer Displaying as Offline: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-meizu-21-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Meizu 21 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/making-the-right-call-monitor-maintenance-to-fix-or-replace-expert-advice-from-yl-computing/"><u>Making the Right Call: Monitor Maintenance - To Fix or Replace? Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-help.techidaily.com/mastering-crypto-market-analysis-a-comprehensive-guide-by-yl-computing/"><u>Mastering Crypto Market Analysis: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-3gp-file-trimmer-learn-how-to-cut-and-split-videos-for-2024/"><u>New 3GP File Trimmer Learn How to Cut and Split Videos for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/regular-pc-upkeep-essentials-ensuring-seamless-operation-insights-from-yl-computing-and-yl-software/"><u>Regular PC Upkeep Essentials: Ensuring Seamless Operation - Insights From YL Computing & YL Software</u></a></li>
 </ul></div>
 
