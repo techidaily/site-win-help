@@ -1,7 +1,7 @@
 ---
 title: Kickstart Your DJing Journey with the Freshly Released Public Beta of DEX 3 Pro and Its Amazing Karaoke Mode!
-date: 2024-11-29T07:45:09.036Z
-updated: 2024-12-06T06:58:08.817Z
+date: 2024-12-11T02:01:36.290Z
+updated: 2024-12-11T21:01:45.185Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ Please be sure to check your email and/or keep a tab on this blog for more news 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in DEX 3 Pro Version 3.10
@@ -67,7 +67,7 @@ _**IMPORTANT NOTES:** With your existing version of DEX 3 Pro closed, download a
 _Have questions about the **new version of DEX 3 Pro** or the new **karaoke features**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -89,22 +89,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/02/dex310-coverimage.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-high-res-aerial-showdown-dji-vs-gopro-capture/"><u>[New] High-Res Aerial Showdown DJi vs GoPro Capture</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-producers-playbook-for-mixing-audio-and-visuals-on-fb-platform/"><u>[New] The Producer's Playbook for Mixing Audio and Visuals on FB Platform</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-first-time-furnishings-minimalist-house-plans-in-mc/"><u>[Updated] In 2024, First-Time Furnishings Minimalist House Plans in MC</u></a></li>
-<li><a href="https://win-help.techidaily.com/can-you-trust-windows-defender-alone-for-complete-malware-security-on-your-pc-insights-by-yl-computing/"><u>Can You Trust Windows Defender Alone for Complete Malware Security on Your PC? - Insights by YL Computing</u></a></li>
-<li><a href="https://win-help.techidaily.com/download-free-ford-kaplus-backgrounds-by-yl-computing-exclusive-high-quality-imagery/"><u>Download Free Ford Ka+ Backgrounds by YL Computing: Exclusive High-Quality Imagery</u></a></li>
-<li><a href="https://win-help.techidaily.com/elevate-your-pc-speed-a-comprehensive-tutorial-on-defragmenting-the-windows-registry-by-yl-software/"><u>Elevate Your PC Speed: A Comprehensive Tutorial on Defragmenting the Windows Registry by YL Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro Max to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/identifying-common-causes-for-your-screen-going-dark-yl-software-solutions-explained/"><u>Identifying Common Causes for Your Screen Going Dark - YL Software Solutions Explained</u></a></li>
-<li><a href="https://win-help.techidaily.com/identifying-standard-signs-of-graphics-card-malfunctions-a-guide-by-yl-computing/"><u>Identifying Standard Signs of Graphics Card Malfunctions: A Guide by YL Computing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-y100i-power-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo Y100i Power 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-note-50-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme Note 50 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/is-your-graphics-card-malfunctioning-find-out-if-windows-10-offers-built-in-diagnostics-tools/"><u>Is Your Graphics Card Malfunctioning? Find Out If Windows 10 Offers Built-In Diagnostics Tools!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-update-seamless-installation-of-the-scansnap-s1100-software/"><u>Latest Update: Seamless Installation of the Scansnap S1100 Software</u></a></li>
-<li><a href="https://win-help.techidaily.com/protecting-your-virtual-money-expert-tips-from-yl-computings-digital-security-guide/"><u>Protecting Your Virtual Money: Expert Tips From YL Computing's Digital Security Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/secrets-to-selecting-a-premier-cinematographer-for-2024/"><u>Secrets to Selecting a Premier Cinematographer for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-unforeseen-kernel-trapping-and-blue-screen-of-death-in-windows-10/"><u>Troubleshooting Guide for Unforeseen Kernel Trapping and Blue Screen of Death in Windows 10</u></a></li>
-<li><a href="https://win-help.techidaily.com/understanding-frequent-scanner-problems-with-yl-softwares-expert-insights/"><u>Understanding Frequent Scanner Problems with YL Software's Expert Insights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhance-video-aesthetics-instagram-border-techniques/"><u>[Updated] 2024 Approved Enhance Video Aesthetics Instagram Border Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-skys-dynamic-range-masterpieces-website-roundup/"><u>[Updated] Sky's Dynamic Range Masterpieces - Website Roundup</u></a></li>
+<li><a href="https://win-help.techidaily.com/boost-your-pcs-efficiency-top-rated-programs-by-yl-computing/"><u>Boost Your PC's Efficiency: Top-Rated Programs by YL Computing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-strategies-to-correct-and-prevent-kernel-pages-readwritten-exceptions/"><u>Expert Strategies to Correct and Prevent Kernel Pages Read/Written Exceptions</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-can-you-tell-if-your-laptop-needs-a-display-replacement-insights-by-yl-software-experts/"><u>How Can You Tell If Your Laptop Needs a Display Replacement? Insights by YL Software Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-srt-integration-in-mp4s-a-complete-blueprint/"><u>Mastering SRT Integration in MP4s A Complete Blueprint</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-pros-and-cons-of-diy-vs-pre-built-pc-systems/"><u>Navigating the Pros and Cons of DIY vs Pre-Built PC Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-potential-data-security-issues-the-hidden-dangers-of-chatbots/"><u>Navigating Through Potential Data Security Issues: The Hidden Dangers of Chatbots</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-avastar-ac-driver-on-intel-nuc-system/"><u>Setup Avastar-AC Driver on Intel NUC System</u></a></li>
+<li><a href="https://win-help.techidaily.com/stunning-deathstroke-vs-deadpool-wallpapers-and-background-graphics-by-yl-computing-unleash-your-geeky-side/"><u>Stunning Deathstroke Vs. Deadpool Wallpapers & Background Graphics by YL Computing: Unleash Your Geeky Side!</u></a></li>
+<li><a href="https://win-help.techidaily.com/stunning-mount-everest-backgrounds-by-yl-computing-premier-software-solutions/"><u>Stunning Mount Everest Backgrounds by YL Computing: Premier Software Solutions</u></a></li>
 </ul></div>
 

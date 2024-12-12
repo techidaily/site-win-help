@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Tracks Every Disc Jockey Should Play on Saint Patrick's Day - PC DJ
-date: 2024-11-30T02:47:02.288Z
-updated: 2024-12-06T03:39:38.339Z
+date: 2024-12-09T23:10:45.923Z
+updated: 2024-12-11T16:44:54.011Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ We hope this list of **10 Must-Play St Patrick’s Day songs for DJs** helps jum
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 10 Must-Play St Patrick’s Day Songs For DJs
@@ -63,7 +63,7 @@ Across the Broad Atlantic (Live On Paddy’s Day – New York & Dublin)
 _I know we missed some! What songs can you add to the **top 10 St Patrick’s Day Songs For DJs** list? Please leave your suggestions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,17 +85,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/stpatricksdaysongsfordjs-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unveiling-facebooks-forgotten-archive-easy-guide-for-devices/"><u>[New] 2024 Approved Unveiling Facebook's Forgotten Archive Easy Guide for Devices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-commerce-codex-for-instagram-creators-securing-profitable-alignments/"><u>[Updated] In 2024, The Commerce Codex for Instagram Creators Securing Profitable Alignments</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-freeze-frame-fun-the-complete-guide-to-xbox-one-snapshots/"><u>2024 Approved Freeze Frame Fun The Complete Guide to Xbox One Snapshots</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ditor-how-to-make-animated-gif-images-online-from-youtube-video-for-2024/"><u>GIF Editor How to Make Animated GIF Images Online From YouTube Video for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/how-to-ensure-your-graphics-card-works-with-windows-11-tips-from-yl-computing/"><u>How to Ensure Your Graphics Card Works With Windows 11 - Tips From YL Computing</u></a></li>
-<li><a href="https://win-help.techidaily.com/how-to-fix-a-printer-displaying-as-offline-a-comprehensive-guide-by-yl-computing/"><u>How to Fix a Printer Displaying as Offline: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-meizu-21-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Meizu 21 Pro to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/making-the-right-call-monitor-maintenance-to-fix-or-replace-expert-advice-from-yl-computing/"><u>Making the Right Call: Monitor Maintenance - To Fix or Replace? Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-help.techidaily.com/mastering-crypto-market-analysis-a-comprehensive-guide-by-yl-computing/"><u>Mastering Crypto Market Analysis: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-3gp-file-trimmer-learn-how-to-cut-and-split-videos-for-2024/"><u>New 3GP File Trimmer Learn How to Cut and Split Videos for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/regular-pc-upkeep-essentials-ensuring-seamless-operation-insights-from-yl-computing-and-yl-software/"><u>Regular PC Upkeep Essentials: Ensuring Seamless Operation - Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/lv-video-unification-techniques-for-2024/"><u>[New] FLV Video Unification Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-install-and-modify-whatsapp-alerts-on-both-platforms/"><u>[New] How to Install & Modify WhatsApp Alerts on Both Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-the-ultimate-guide-choosing-the-perfect-ipad-mini-keyboard-case-after-endless-trials/"><u>1. The Ultimate Guide: Choosing the Perfect iPad Mini Keyboard Case After Endless Trials</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-youtubes-operations-after-video-upload/"><u>2024 Approved Exploring YouTube's Operations After Video Upload</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopros-best-underwater-enhancement-filters/"><u>2024 Approved GoPro's Best Underwater Enhancement Filters</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/australian-vernacular-essentials/"><u>Australian Vernacular Essentials</u></a></li>
+<li><a href="https://win-help.techidaily.com/can-you-set-up-extra-displays-on-a-windows-11-machine-expert-advice-from-yl-software/"><u>Can You Set Up Extra Displays on a Windows 11 Machine? - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-help.techidaily.com/creating-digital-replicas-and-enhancing-data-insights-harnessing-trace-and-bsv-blockchain-through-yl-computings-solutions/"><u>Creating Digital Replicas & Enhancing Data Insights: Harnessing Trace & BSV Blockchain Through YL Computing's Solutions</u></a></li>
+<li><a href="https://win-help.techidaily.com/effective-solutions-for-fixing-printer-spooler-issues-insights-from-yl-computings-expertise/"><u>Effective Solutions for Fixing Printer Spooler Issues: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-help.techidaily.com/effective-techniques-to-eradicate-malware-from-your-pc-insights-by-yl-computing/"><u>Effective Techniques to Eradicate Malware From Your PC - Insights by YL Computing</u></a></li>
+<li><a href="https://win-help.techidaily.com/guide-accessing-device-details-and-system-info-via-windows-control-panel-tips-by-yl-software/"><u>Guide: Accessing Device Details & System Info via Windows Control Panel - Tips by YL Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-xs-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone XS Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-v30-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo V30</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nubia-red-magic-8s-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nubia Red Magic 8S Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-help.techidaily.com/navigating-through-uncertainty-exploring-possible-dangers-of-crypto-asset-investments-with-yl-software-insights/"><u>Navigating Through Uncertainty: Exploring Possible Dangers of Crypto Asset Investments with YL Software Insights</u></a></li>
+<li><a href="https://win-help.techidaily.com/switch-your-primary-internet-exploreredge-to-another-browser-in-windows-nx11-solutions-by-bytecrafters/"><u>Switch Your Primary Internet Explorer/Edge to Another Browser in Windows nX11 - Solutions by ByteCrafters</u></a></li>
+<li><a href="https://win-help.techidaily.com/yl-software-tutorial-customizing-your-sound-configuration-via-windows-control-panel/"><u>YL Software Tutorial: Customizing Your Sound Configuration via Windows Control Panel</u></a></li>
 </ul></div>
 
