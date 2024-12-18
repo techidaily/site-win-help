@@ -1,7 +1,7 @@
 ---
 title: "Revive Deleted Data: Two Methods to Restore Lost Information From Your External HDD"
-date: 2024-12-04T21:06:08.952Z
-updated: 2024-12-06T07:27:47.407Z
+date: 2024-12-12T16:17:25.948Z
+updated: 2024-12-18T17:00:38.791Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6ef60ecb7cca2401b9fc5fadf824084078b845e24ce4184a0282eba3264f61a8.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/6ef60ecb7cca2401b9fc5fadf824084078b845e24
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
 
@@ -54,7 +50,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -95,6 +91,10 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -131,10 +131,6 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -148,10 +144,6 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -180,7 +172,7 @@ Passo 6\. Testa la Barra di Ricerca:
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
@@ -218,7 +210,7 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
@@ -228,6 +220,10 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -242,7 +238,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
@@ -265,6 +261,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -280,18 +280,19 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-explore-and-engage-ifunny-meme-downloads/"><u>[Updated] 2024 Approved Explore & Engage IFunny Meme Downloads</u></a></li>
-<li><a href="https://win-help.techidaily.com/accelerating-your-pc-expert-tips-on-boosting-windows-performance-by-yl-computing/"><u>Accelerating Your PC: Expert Tips on Boosting Windows Performance by YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210004939-9781578597185-hidden-history/"><u>Hidden History | Free Book</u></a></li>
-<li><a href="https://win-help.techidaily.com/historical-analysis-who-reigned-over-the-zhou-empire-discover-more-with-yl-software-solutions/"><u>Historical Analysis: Who Reigned Over the Zhou Empire? Discover More with YL Software Solutions</u></a></li>
-<li><a href="https://win-help.techidaily.com/how-to-diagnose-and-fix-unusual-noises-coming-from-your-computer-fan-insights-by-yl-software/"><u>How to Diagnose and Fix Unusual Noises Coming From Your Computer Fan – Insights by YL Software</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-5-prized-mac-compatible-live-streamers/"><u>In 2024, 5 Prized Mac-Compatible Live Streamers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oneplus-nord-3-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your OnePlus Nord 3 5G</u></a></li>
-<li><a href="https://win-help.techidaily.com/stunning-2018-mclaren-senna-x-2-visuals-and-hd-wallpaper-collections-yl-computing/"><u>Stunning 2018 McLaren Senna X 2 Visuals & HD Wallpaper Collections - YL Computing</u></a></li>
-<li><a href="https://win-help.techidaily.com/verifying-active-status-of-windows-defender-a-step-by-step-guide-tips-from-yl-computing/"><u>Verifying Active Status of Windows Defender: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/yl-software-presents-easily-manage-and-monitor-your-binance-coin-bnb-in-real-time-using-our-no-cost-web-app/"><u>YL Software Presents: Easily Manage and Monitor Your Binance Coin (BNB) in Real Time Using Our No-Cost Web App!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-free-fire-techniques-for-shifting-your-characters-voice-effectively/"><u>[New] Free Fire Techniques for Shifting Your Character's Voice Effectively</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-guide-eluding-educational-videos-effectively/"><u>[New] Quick Guide Eluding Educational Videos Effectively</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-deciphering-the-language-of-youtube-thumbnails-effectiveness/"><u>[Updated] In 2024, Deciphering the Language of YouTube Thumbnails Effectiveness</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-comprehensive-guide-to-metaverse-promotion/"><u>[Updated] The Comprehensive Guide to Metaverse Promotion</u></a></li>
+<li><a href="https://win-help.techidaily.com/1-clear-up-space-on-your-pc-memory-management-tips-yl-computing/"><u>1. Clear Up Space on Your PC: Memory Management Tips - YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-online-bunches-of-premium-quality-vector-icons/"><u>2024 Approved Best Online Bunches of Premium-Quality Vector Icons</u></a></li>
+<li><a href="https://win-help.techidaily.com/fixing-incompatible-sound-cards-after-os-installation-changes-expert-advice-by-yl-software/"><u>Fixing Incompatible Sound Cards After OS Installation Changes - Expert Advice by YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/ftdibussys-and-windows-the-integrity-disruption-scenario/"><u>Ftdibus.sys & Windows: The Integrity Disruption Scenario</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-can-you-protect-your-pc-against-windows-related-hardware-malfunctions-insights-by-yl-software-professionals/"><u>How Can You Protect Your PC Against Windows-Related Hardware Malfunctions? Insights by YL Software Professionals</u></a></li>
+<li><a href="https://win-help.techidaily.com/step-by-step-guide-to-addingremoving-fonts-on-your-pc-yl-computing-tutorial/"><u>Step-by-Step Guide to Adding/Removing Fonts on Your PC - YL Computing Tutorial</u></a></li>
+<li><a href="https://win-help.techidaily.com/step-by-step-guide-updating-your-motherboards-bios-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Motherboard's BIOS - Tips From YL Computing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-jackery-energy-station-evaluating-its-integrated-ac-receptacle-functionality/"><u>The Ultimate Guide to the Jackery Energy Station - Evaluating Its Integrated AC Receptacle Functionality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-innovation-with-freeform-idea-generation-the-ultimate-creative-tool-for-successful-brainstorming-zdnet/"><u>Unlock Innovation with Freeform Idea Generation – The Ultimate Creative Tool for Successful Brainstorming | ZDNET</u></a></li>
+<li><a href="https://win-help.techidaily.com/unveiling-consequences-the-transformation-of-china-post-tiananmen-protest-era-analysis-from-yl-computing-solutions/"><u>Unveiling Consequences: The Transformation of China Post-Tiananmen Protest Era – Analysis From YL Computing Solutions</u></a></li>
 </ul></div>
 

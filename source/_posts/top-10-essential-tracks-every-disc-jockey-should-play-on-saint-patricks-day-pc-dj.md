@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Tracks Every Disc Jockey Should Play on Saint Patrick's Day - PC DJ
-date: 2024-12-09T23:10:45.923Z
-updated: 2024-12-11T16:44:54.011Z
+date: 2024-12-17T17:54:20.550Z
+updated: 2024-12-18T17:35:04.172Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ We hope this list of **10 Must-Play St Patrick’s Day songs for DJs** helps jum
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 10 Must-Play St Patrick’s Day Songs For DJs
@@ -63,7 +63,7 @@ Across the Broad Atlantic (Live On Paddy’s Day – New York & Dublin)
 _I know we missed some! What songs can you add to the **top 10 St Patrick’s Day Songs For DJs** list? Please leave your suggestions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,22 +85,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/stpatricksdaysongsfordjs-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/lv-video-unification-techniques-for-2024/"><u>[New] FLV Video Unification Techniques for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-install-and-modify-whatsapp-alerts-on-both-platforms/"><u>[New] How to Install & Modify WhatsApp Alerts on Both Platforms</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1-the-ultimate-guide-choosing-the-perfect-ipad-mini-keyboard-case-after-endless-trials/"><u>1. The Ultimate Guide: Choosing the Perfect iPad Mini Keyboard Case After Endless Trials</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-youtubes-operations-after-video-upload/"><u>2024 Approved Exploring YouTube's Operations After Video Upload</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopros-best-underwater-enhancement-filters/"><u>2024 Approved GoPro's Best Underwater Enhancement Filters</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/australian-vernacular-essentials/"><u>Australian Vernacular Essentials</u></a></li>
-<li><a href="https://win-help.techidaily.com/can-you-set-up-extra-displays-on-a-windows-11-machine-expert-advice-from-yl-software/"><u>Can You Set Up Extra Displays on a Windows 11 Machine? - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-help.techidaily.com/creating-digital-replicas-and-enhancing-data-insights-harnessing-trace-and-bsv-blockchain-through-yl-computings-solutions/"><u>Creating Digital Replicas & Enhancing Data Insights: Harnessing Trace & BSV Blockchain Through YL Computing's Solutions</u></a></li>
-<li><a href="https://win-help.techidaily.com/effective-solutions-for-fixing-printer-spooler-issues-insights-from-yl-computings-expertise/"><u>Effective Solutions for Fixing Printer Spooler Issues: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-help.techidaily.com/effective-techniques-to-eradicate-malware-from-your-pc-insights-by-yl-computing/"><u>Effective Techniques to Eradicate Malware From Your PC - Insights by YL Computing</u></a></li>
-<li><a href="https://win-help.techidaily.com/guide-accessing-device-details-and-system-info-via-windows-control-panel-tips-by-yl-software/"><u>Guide: Accessing Device Details & System Info via Windows Control Panel - Tips by YL Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-xs-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone XS Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-v30-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo V30</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nubia-red-magic-8s-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nubia Red Magic 8S Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win-help.techidaily.com/navigating-through-uncertainty-exploring-possible-dangers-of-crypto-asset-investments-with-yl-software-insights/"><u>Navigating Through Uncertainty: Exploring Possible Dangers of Crypto Asset Investments with YL Software Insights</u></a></li>
-<li><a href="https://win-help.techidaily.com/switch-your-primary-internet-exploreredge-to-another-browser-in-windows-nx11-solutions-by-bytecrafters/"><u>Switch Your Primary Internet Explorer/Edge to Another Browser in Windows nX11 - Solutions by ByteCrafters</u></a></li>
-<li><a href="https://win-help.techidaily.com/yl-software-tutorial-customizing-your-sound-configuration-via-windows-control-panel/"><u>YL Software Tutorial: Customizing Your Sound Configuration via Windows Control Panel</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-accelerated-sound-adjustment-apps-overview/"><u>[New] In 2024, Accelerated Sound Adjustment Apps Overview</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-decoding-video-potential-dslr-vs-mirrorless-innovation/"><u>[New] In 2024, Decoding Video Potential DSLR vs Mirrorless Innovation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-from-light-to-shadow-premiere-pro-transitions/"><u>[New] In 2024, From Light to Shadow Premiere Pro Transitions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-beating-the-blues-of-overly-green-a-mac-video-editors-handbook/"><u>[Updated] 2024 Approved Beating the Blues of Overly Green A Mac Video Editor's Handbook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elite-recording-tech-top-10-cam-devices-windows-11-for-2024/"><u>[Updated] Elite Recording Tech Top 10 Cam Devices Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-live-subscriber-count-meters-for-2024/"><u>[Updated] Live Subscriber Count Meters for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/1-step-by-step-guide-navigating-through-your-pcs-settings-control-panel-techsolutions/"><u>1. Step-by-Step Guide: Navigating Through Your PC's Settings (Control Panel) - TechSolutions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-online-streaming-options-for-faith-communities/"><u>2024 Approved Premier Online Streaming Options for Faith Communities</u></a></li>
+<li><a href="https://win-help.techidaily.com/beginners-guide-activating-and-configuring-windows-defender-tips-from-yl-computing/"><u>Beginner's Guide: Activating and Configuring Windows Defender - Tips From YL Computing</u></a></li>
+<li><a href="https://win-help.techidaily.com/effective-strategies-to-minimize-active-background-tasks-in-your-os-insights-from-yl-computing-and-yl-software/"><u>Effective Strategies to Minimize Active Background Tasks in Your OS: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://win-help.techidaily.com/exploring-the-cultural-impact-unveiling-the-history-and-importance-of-the-great-wall-of-china-yl-tech-experts/"><u>Exploring the Cultural Impact: Unveiling the History and Importance of the Great Wall of China – YL Tech Experts</u></a></li>
+<li><a href="https://win-help.techidaily.com/is-it-possible-for-malware-to-trigger-physical-damage-in-your-computer-system-insights-from-yl-computing-and-yl-software/"><u>Is It Possible for Malware to Trigger Physical Damage in Your Computer System? - Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://win-help.techidaily.com/master-the-art-of-file-transfers-on-windows-platform-yl-tech-tips-from-yl-software/"><u>Master the Art of File Transfers on Windows Platform - YL Tech Tips From YL Software</u></a></li>
+<li><a href="https://win-help.techidaily.com/modifying-windows-registry-settings-a-guide-by-yl-software-experts/"><u>Modifying Windows Registry Settings: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfecting-panoramic-videography-with-premiere-pros-tools-for-2024/"><u>Perfecting Panoramic Videography with Premiere Pro's Tools for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/troubleshooting-and-repairing-disconnection-issues-with-your-hard-drive-tips-by-yl-software-experts/"><u>Troubleshooting and Repairing Disconnection Issues with Your Hard Drive, Tips by YL Software Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-techniques-to-flip-videos-backwards-on-snapchat-easily/"><u>Ultimate Techniques to Flip Videos Backwards on Snapchat Easily</u></a></li>
 </ul></div>
 
