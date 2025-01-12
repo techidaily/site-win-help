@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Tracks Every Disc Jockey Should Play on Saint Patrick's Day - PC DJ
-date: 2025-01-03T17:41:22.365Z
-updated: 2025-01-05T16:12:42.921Z
+date: 2025-01-06T16:55:06.065Z
+updated: 2025-01-12T07:21:59.149Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ We hope this list of **10 Must-Play St Patrick’s Day songs for DJs** helps jum
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 10 Must-Play St Patrick’s Day Songs For DJs
@@ -63,7 +63,7 @@ Across the Broad Atlantic (Live On Paddy’s Day – New York & Dublin)
 _I know we missed some! What songs can you add to the **top 10 St Patrick’s Day Songs For DJs** list? Please leave your suggestions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,22 +85,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/stpatricksdaysongsfordjs-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-premium-choices-the-very-best-tripods-for-high-definition-shooting/"><u>[New] Premium Choices The Very Best Tripods for High Definition Shooting</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-skys-biggest-load-carriers-drones-ranked/"><u>[Updated] 2024 Approved Sky's Biggest Load Carriers Drones Ranked</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-byte-sized-hits-the-heart-of-viral-content/"><u>[Updated] Byte-Sized Hits The Heart of Viral Content</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-incorporate-soundscape-into-visual-discussions/"><u>[Updated] Incorporate Soundscape Into Visual Discussions</u></a></li>
-<li><a href="https://win-help.techidaily.com/discover-the-best-free-substitutes-for-chronosync-on-windows-111087-systems/"><u>Discover the Best FREE Substitutes for ChronoSync on Windows 11/10/8/7 Systems</u></a></li>
-<li><a href="https://win-help.techidaily.com/e-possibile-riesumare-i-documenti-dispersi-dopo-il-purgatorio-di-un-cestino-svuotato/"><u>È Possibile Riesumare I Documenti Dispersi Dopo Il Purgatorio Di Un Cestino Svuotato?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-fast-smart-mastering-gpt-4-using-copilot/"><u>Free, Fast, Smart: Mastering GPT-4 Using Copilot</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/has-your-ipad-become-a-relic-of-the-past/"><u>Has Your iPad Become a Relic of the Past?</u></a></li>
-<li><a href="https://win-help.techidaily.com/identifying-smartphone-infections-a-step-by-step-guide-to-detecting-and-removing-mobile-viruses/"><u>Identifying Smartphone Infections: A Step-by-Step Guide to Detecting and Removing Mobile Viruses</u></a></li>
-<li><a href="https://win-help.techidaily.com/ist-der-hp-pavilion-x360-mit-windows-11-aktualisierungsbereit/"><u>Ist Der HP Pavilion X360 Mit Windows 11 Aktualisierungsbereit?</u></a></li>
-<li><a href="https://win-help.techidaily.com/losungsweg-fur-ipods-die-bei-musikladen-mit-itunes-keine-musik-synchronisieren-konnen/"><u>Lösungsweg Für iPods, Die Bei Musikladen Mit iTunes Keine Musik Synchronisieren Können</u></a></li>
-<li><a href="https://article-files.techidaily.com/mastering-angular-video-arrangement-on-android-devices-for-2024/"><u>Mastering Angular Video Arrangement on Android Devices for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-chatgpt-legal-hurdles-insights-into-the-new-google-news-experience-and-ensuring-strong-mobile-internet-signals-abroad/"><u>Overcoming ChatGPT Legal Hurdles: Insights Into the New Google News Experience & Ensuring Strong Mobile Internet Signals Abroad</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-win32ksys-bsod-a-step-by-step-guide/"><u>Resolving Win32K.sys BSOD: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-help.techidaily.com/responding-to-facebook-security-breach-a-guide-with-5-key-actions/"><u>Responding to Facebook Security Breach: A Guide with 5 Key Actions</u></a></li>
-<li><a href="https://win-help.techidaily.com/transfer-contact-information-between-phones-bypassing-icloud-with-6-efficient-techniques/"><u>Transfer Contact Information Between Phones: Bypassing iCloud with 6 Efficient Techniques</u></a></li>
-<li><a href="https://win-help.techidaily.com/ultimate-selection-of-top-10-security-apps-to-protect-your-windowsandroid-systems-from-hacks/"><u>Ultimate Selection of Top 10 Security Apps to Protect Your Windows/Android Systems From Hacks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-free-screen-recording-techniques-for-pc-enthusiasts-for-2024/"><u>[New] Free Screen Recording Techniques for PC Enthusiasts for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-deciding-on-itop-recorder-an-indispensable-tool-for-2024/"><u>[Updated] Deciding on ITop Recorder - An Indispensable Tool for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-11-free-youtube-playlist-downloadersonlinepcandroidios/"><u>[Updated] In 2024, 11 FREE YouTube Playlist Downloaders[Online/PC/Android/iOS)</u></a></li>
+<li><a href="https://win-help.techidaily.com/1-top-5-fixes-when-your-iphones-app-store-stops-functioning-post-ios-upgrade/"><u>1. Top 5 Fixes When Your iPhone's App Store Stops Functioning Post-iOS Upgrade</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-professional-audio-techniques-in-davinci-resolve-the-art-of-normalization/"><u>2024 Approved Professional Audio Techniques in DaVinci Resolve The Art of Normalization</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-speed-watchers-24-hrs-youtube-chart-leaders/"><u>2024 Approved Speed Watchers 24-Hrs YouTube Chart Leaders</u></a></li>
+<li><a href="https://win-help.techidaily.com/easy-guide-replicating-ghost-partitions-on-ssds-with-windows-11-in-two-simple-methods/"><u>Easy Guide: Replicating Ghost Partitions on SSDs with Windows 11 in Two Simple Methods</u></a></li>
+<li><a href="https://win-help.techidaily.com/guia-paso-a-paso-para-cambiarte-del-veterano-disco-duro-a-una-unidad-mayor-en-sistemas-windows/"><u>Guía Paso a Paso Para Cambiarte Del Veterano Disco Duro a Una Unidad Mayor en Sistemas Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-start-menu-in-windows-11/"><u>How To Fix a Non-Responsive Start Menu in Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-revitalizing-a-frozen-obs-video-source-feed/"><u>In 2024, Revitalizing a Frozen OBS Video Source Feed</u></a></li>
+<li><a href="https://win-help.techidaily.com/korrigieren-sie-die-falsch-angezeigte-kapazitat-ihrer-geanderten-festplatte-effiziente-methoden-zur-behebung/"><u>Korrigieren Sie Die Falsch Angezeigte Kapazität Ihrer Geänderten Festplatte - Effiziente Methoden Zur Behebung.</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210358342-9782226468062-les-cles-de-lesoterisme-geometrie-sacree/"><u>Les Clés de l'ésotérisme - Géométrie sacrée | Free Book</u></a></li>
+<li><a href="https://win-help.techidaily.com/mastering-sql-server-backups-learn-the-essentials-of-crafting-an-mssql-copy-only-duplicate/"><u>Mastering SQL Server Backups: Learn the Essentials of Crafting an MSSQL Copy-Only Duplicate</u></a></li>
+<li><a href="https://win-help.techidaily.com/metodo-facil-para-clonar-disco-mbr-para-gpt-no-windows-sem-transicao/"><u>Método Fácil Para Clonar Disco MBR Para GPT No Windows (Sem Transição)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-hues-speaking-in-french-with-precision/"><u>Quick Hues: Speaking in French with Precision</u></a></li>
+<li><a href="https://win-help.techidaily.com/revival-of-previous-powerpoint-presentation-effortless-restoration/"><u>Revival of Previous PowerPoint Presentation - Effortless Restoration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-propsysdll-file-absent-errors/"><u>Solutions for Resolving 'propsys.dll' File Absent Errors</u></a></li>
+<li><a href="https://win-help.techidaily.com/trustworthy-ios-data-restoration-tools-ensuring-the-safety-of-your-valuable-information/"><u>Trustworthy iOS Data Restoration Tools Ensuring the Safety of Your Valuable Information</u></a></li>
+<li><a href="https://win-help.techidaily.com/understanding-pups-identification-and-removal-strategies-a-comprehensive-guide-by-malwarefox/"><u>Understanding PUPs: Identification & Removal Strategies - A Comprehensive Guide by MalwareFox</u></a></li>
 </ul></div>
 
