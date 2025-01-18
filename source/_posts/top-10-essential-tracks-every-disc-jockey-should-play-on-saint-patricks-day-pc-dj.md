@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Tracks Every Disc Jockey Should Play on Saint Patrick's Day - PC DJ
-date: 2025-01-06T16:55:06.065Z
-updated: 2025-01-12T07:21:59.149Z
+date: 2025-01-16T02:21:51.986Z
+updated: 2025-01-17T19:05:32.038Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ We hope this list of **10 Must-Play St Patrick’s Day songs for DJs** helps jum
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 10 Must-Play St Patrick’s Day Songs For DJs
@@ -63,7 +63,7 @@ Across the Broad Atlantic (Live On Paddy’s Day – New York & Dublin)
 _I know we missed some! What songs can you add to the **top 10 St Patrick’s Day Songs For DJs** list? Please leave your suggestions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,24 +85,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/stpatricksdaysongsfordjs-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-free-screen-recording-techniques-for-pc-enthusiasts-for-2024/"><u>[New] Free Screen Recording Techniques for PC Enthusiasts for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-deciding-on-itop-recorder-an-indispensable-tool-for-2024/"><u>[Updated] Deciding on ITop Recorder - An Indispensable Tool for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-11-free-youtube-playlist-downloadersonlinepcandroidios/"><u>[Updated] In 2024, 11 FREE YouTube Playlist Downloaders[Online/PC/Android/iOS)</u></a></li>
-<li><a href="https://win-help.techidaily.com/1-top-5-fixes-when-your-iphones-app-store-stops-functioning-post-ios-upgrade/"><u>1. Top 5 Fixes When Your iPhone's App Store Stops Functioning Post-iOS Upgrade</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-professional-audio-techniques-in-davinci-resolve-the-art-of-normalization/"><u>2024 Approved Professional Audio Techniques in DaVinci Resolve The Art of Normalization</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-speed-watchers-24-hrs-youtube-chart-leaders/"><u>2024 Approved Speed Watchers 24-Hrs YouTube Chart Leaders</u></a></li>
-<li><a href="https://win-help.techidaily.com/easy-guide-replicating-ghost-partitions-on-ssds-with-windows-11-in-two-simple-methods/"><u>Easy Guide: Replicating Ghost Partitions on SSDs with Windows 11 in Two Simple Methods</u></a></li>
-<li><a href="https://win-help.techidaily.com/guia-paso-a-paso-para-cambiarte-del-veterano-disco-duro-a-una-unidad-mayor-en-sistemas-windows/"><u>Guía Paso a Paso Para Cambiarte Del Veterano Disco Duro a Una Unidad Mayor en Sistemas Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-start-menu-in-windows-11/"><u>How To Fix a Non-Responsive Start Menu in Windows 11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-revitalizing-a-frozen-obs-video-source-feed/"><u>In 2024, Revitalizing a Frozen OBS Video Source Feed</u></a></li>
-<li><a href="https://win-help.techidaily.com/korrigieren-sie-die-falsch-angezeigte-kapazitat-ihrer-geanderten-festplatte-effiziente-methoden-zur-behebung/"><u>Korrigieren Sie Die Falsch Angezeigte Kapazität Ihrer Geänderten Festplatte - Effiziente Methoden Zur Behebung.</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210358342-9782226468062-les-cles-de-lesoterisme-geometrie-sacree/"><u>Les Clés de l'ésotérisme - Géométrie sacrée | Free Book</u></a></li>
-<li><a href="https://win-help.techidaily.com/mastering-sql-server-backups-learn-the-essentials-of-crafting-an-mssql-copy-only-duplicate/"><u>Mastering SQL Server Backups: Learn the Essentials of Crafting an MSSQL Copy-Only Duplicate</u></a></li>
-<li><a href="https://win-help.techidaily.com/metodo-facil-para-clonar-disco-mbr-para-gpt-no-windows-sem-transicao/"><u>Método Fácil Para Clonar Disco MBR Para GPT No Windows (Sem Transição)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/quick-hues-speaking-in-french-with-precision/"><u>Quick Hues: Speaking in French with Precision</u></a></li>
-<li><a href="https://win-help.techidaily.com/revival-of-previous-powerpoint-presentation-effortless-restoration/"><u>Revival of Previous PowerPoint Presentation - Effortless Restoration</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-propsysdll-file-absent-errors/"><u>Solutions for Resolving 'propsys.dll' File Absent Errors</u></a></li>
-<li><a href="https://win-help.techidaily.com/trustworthy-ios-data-restoration-tools-ensuring-the-safety-of-your-valuable-information/"><u>Trustworthy iOS Data Restoration Tools Ensuring the Safety of Your Valuable Information</u></a></li>
-<li><a href="https://win-help.techidaily.com/understanding-pups-identification-and-removal-strategies-a-comprehensive-guide-by-malwarefox/"><u>Understanding PUPs: Identification & Removal Strategies - A Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-harnessing-high-dynamic-range-the-future-of-photo-techniques/"><u>[New] Harnessing High Dynamic Range The Future of Photo Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-best-practices-for-measuring-igtv-video-effectiveness/"><u>[Updated] Best Practices for Measuring IGTV Video Effectiveness</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-secrets-attracting-youtube-affiliates-with-minimal-channel-size/"><u>[Updated] Secrets Attracting YouTube Affiliates with Minimal Channel Size</u></a></li>
+<li><a href="https://win-help.techidaily.com/desbloqueando-archivos-ocultos-de-windows-11-tres-metodos-expertos/"><u>Desbloqueando Archivos Ocultos De Windows 11: Tres Métodos Expertos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-an-in-depth-examination-of-samsungs-picture-editing-tech/"><u>In 2024, An In-Depth Examination of Samsung’s Picture Editing Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-10-mobile-apps-for-immediate-sports-action-access/"><u>In 2024, Leading 10 Mobile Apps for Immediate Sports Action Access</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-redmi-note-13-proplus-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi Redmi Note 13 Pro+ 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/recovering-lost-zip-compressed-files-for-free-on-windows-10-and-11-platforms/"><u>Recovering Lost ZIP Compressed Files for Free on Windows 10 and 11 Platforms</u></a></li>
+<li><a href="https://win-help.techidaily.com/resolution-de-probleme-windows/"><u>Résolution De Problème : Windows</u></a></li>
+<li><a href="https://win-help.techidaily.com/solving-the-issue-of-iphones-invisible-on-your-windows-11-8-or-7-computer-a-step-by-step-guide/"><u>Solving the Issue of iPhones Invisible on Your Windows 11, 8 or 7 Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-verdict-on-using-bots-for-economic-planning/"><u>The Verdict on Using Bots for Economic Planning</u></a></li>
+<li><a href="https://win-help.techidaily.com/two-simple-methods-for-automatic-file-backups-on-google-drive/"><u>Two Simple Methods for Automatic File Backups on Google Drive</u></a></li>
 </ul></div>
 
