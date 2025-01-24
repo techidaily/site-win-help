@@ -1,7 +1,7 @@
 ---
 title: Kickstart Your DJing Journey with the Freshly Released Public Beta of DEX 3 Pro and Its Amazing Karaoke Mode!
-date: 2025-01-16T23:14:09.764Z
-updated: 2025-01-17T20:02:46.171Z
+date: 2025-01-20T22:50:32.038Z
+updated: 2025-01-24T01:16:47.376Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ Please be sure to check your email and/or keep a tab on this blog for more news 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in DEX 3 Pro Version 3.10
@@ -67,7 +67,7 @@ _**IMPORTANT NOTES:** With your existing version of DEX 3 Pro closed, download a
 _Have questions about the **new version of DEX 3 Pro** or the new **karaoke features**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -89,21 +89,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/02/dex310-coverimage.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-best-free-and-paid-blu-ray-video-player-software-for-pcandmac/"><u>[Updated] Best Free and Paid Blu-Ray Video Player Software for PC&Mac</u></a></li>
-<li><a href="https://win-help.techidaily.com/aomei-backupper-einfache-spiegelung-und-synchronisierung-ihrer-dateien/"><u>AOMEI Backupper: Einfache Spiegelung Und Synchronisierung Ihrer Dateien</u></a></li>
-<li><a href="https://win-help.techidaily.com/auswahl-zwischen-hyper-v-und-vmware-fur-ihre-virtualisierungsbedurfnisse/"><u>Auswahl Zwischen Hyper-V Und VMware Für Ihre Virtualisierungsbedürfnisse</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovering-distinctive-decor-for-each-monitor-in-windows-11/"><u>Discovering Distinctive Decor for Each Monitor in Windows 11</u></a></li>
-<li><a href="https://win-help.techidaily.com/fast-und-einfach-schnellformatierung-umkehren-lernen-sie-3-bewahrte-methoden-fur-eine-nahtlose-textbearbeitung/"><u>Fast Und Einfach Schnellformatierung Umkehren: Lernen Sie 3 Bewährte Methoden Für Eine Nahtlose Textbearbeitung!</u></a></li>
-<li><a href="https://win-help.techidaily.com/how-to-safely-copy-dells-factory-reset-data-to-your-pc-using-windows-11/"><u>How to Safely Copy Dell's Factory Reset Data to Your PC Using Windows 11</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-echoes-of-unity-combining-tracks-in-digital-performer/"><u>In 2024, Echoes of Unity Combining Tracks in Digital Performer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tom-insights-into-advanced-technology/"><u>Navigating the World of Gadgets with Tom - Insights Into Advanced Technology</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-disabling-lock-screen-feature-in-windows-11/"><u>Quick Fixes for Disabling Lock Screen Feature in Windows 11</u></a></li>
-<li><a href="https://win-help.techidaily.com/respaldo-completo-de-su-disco-de-inicio-con-windows-10-un-metodo-facil-y-efectivo/"><u>Respaldo Completo De Su Disco De Inicio Con Windows 10: Un Método Fácil Y Efectivo</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/sale-alert-save-nearly-half-on-the-4tb-samsung-t5-nvme-ssd-now-available-on-amazon-insights-from-zdnet/"><u>Sale Alert: Save Nearly Half on the 4TB Samsung T5 NVMe SSD - Now Available on Amazon! Insights From ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-winxdvd-tutorial-mastering-dvd-conversion-with-ease/"><u>Ultimate WinXDVD Tutorial: Mastering DVD Conversion with Ease</u></a></li>
-<li><a href="https://win-news.techidaily.com/understanding-crypto-investment-benefits-and-risks-unveiled-with-yls-tech-perspective/"><u>Understanding Crypto Investment: Benefits & Risks Unveiled with YL's Tech Perspective</u></a></li>
-<li><a href="https://win-help.techidaily.com/1728481975618-usb-4/"><u>USB 不良デバイス発見: 「フォーマットできない」エラー対策4コツ</u></a></li>
-<li><a href="https://win-help.techidaily.com/oinalina-ma-databsa-lshhayata-ka-thara-karana-ka-jararata-para-aaiifana-vashashhatao-ma-sathhara/"><u>ऑनलाइन में डेटाबेस-लिष्यता को दूर करने की जरूरतों पर आईफोन विशेषताओं में सुधार</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-leveraging-consumer-reviews-for-youtube-wealth-creation/"><u>[New] Leveraging Consumer Reviews for YouTube Wealth Creation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-determining-facebook-video-orientation-choices-ahead-for-2024/"><u>[Updated] Determining Facebook Video Orientation Choices Ahead for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-tecno-spark-10-4g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Tecno Spark 10 4G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-ios-app-store-vs-androids-google-play-a-comprehensive-comparison/"><u>Apple's IOS App Store Vs. Android's Google Play: A Comprehensive Comparison</u></a></li>
+<li><a href="https://win-help.techidaily.com/comment-resoudre-les-problemes-de-chiffrement-des-emails-dans-microsoft-outlook/"><u>Comment Résoudre Les Problèmes De Chiffrement Des Emails Dans Microsoft Outlook ?</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/diagnosing-and-improving-poor-audio-quality-on-pcs-insights-from-yl-software-expertise/"><u>Diagnosing and Improving Poor Audio Quality on PCs: Insights From YL Software Expertise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-epson-ds-530-printer-drivers-for-windows-10-x64-free/"><u>Download Epson DS-530 Printer Drivers for Windows 10 (X64) - Free</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-5-ways-to-record-league-of-legends-lol-games/"><u>In 2024, 5 Ways to Record League of Legends (LOL) Games</u></a></li>
+<li><a href="https://win-help.techidaily.com/klonung-und-datenwiederherstellung-sektorbezogene-strategien-optimieren/"><u>Klonung Und Datenwiederherstellung - Sektorbezogene Strategien Optimieren</u></a></li>
+<li><a href="https://win-help.techidaily.com/no-te-rendas-sobre-archivos-borrados-accidentalmente-4-metodos-practicos-y-faciles-de-seguir/"><u>No Te Rendas Sobre Archivos Borrados Accidentalmente: 4 Métodos Prácticos Y Fáciles De Seguir</u></a></li>
+<li><a href="https://win-help.techidaily.com/restoring-removed-favoritesbookmarks-in-google-chrome-and-mozilla-firefox-easy-steps-for-data-recovery/"><u>Restoring Removed Favorites/Bookmarks in Google Chrome and Mozilla Firefox - Easy Steps for Data Recovery</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-security-advantage-adding-passcodes-to-your-nintendo-switch-console/"><u>The Security Advantage: Adding Passcodes to Your Nintendo Switch Console</u></a></li>
 </ul></div>
 
