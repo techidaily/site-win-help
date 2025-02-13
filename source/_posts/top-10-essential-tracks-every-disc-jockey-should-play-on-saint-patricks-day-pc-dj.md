@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Tracks Every Disc Jockey Should Play on Saint Patrick's Day - PC DJ
-date: 2025-01-26T16:13:03.870Z
-updated: 2025-01-31T17:37:24.995Z
+date: 2025-02-08T23:09:24.158Z
+updated: 2025-02-13T08:39:03.153Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ We hope this list of **10 Must-Play St Patrick’s Day songs for DJs** helps jum
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 10 Must-Play St Patrick’s Day Songs For DJs
@@ -63,7 +63,7 @@ Across the Broad Atlantic (Live On Paddy’s Day – New York & Dublin)
 _I know we missed some! What songs can you add to the **top 10 St Patrick’s Day Songs For DJs** list? Please leave your suggestions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,22 +85,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/03/stpatricksdaysongsfordjs-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-triumph-over-tiktoks-unseen-ban-barriers/"><u>[New] 2024 Approved Triumph Over TikTok's Unseen Ban Barriers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-ultimate-list-legal-game-music-sources/"><u>[New] In 2024, The Ultimate List Legal Game Music Sources</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-create-a-channel-that-dominates-the-business-world/"><u>[Updated] In 2024, How to Create a Channel that Dominates the Business World</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-core-ideas-behind-mixed-reality/"><u>[Updated] In 2024, The Core Ideas Behind Mixed Reality</u></a></li>
-<li><a href="https://win-help.techidaily.com/5aac5l2v56gu5lplusd5luo5asw5o6l56gs56kf5lik5yig6zmk55qe5qqu5qgi5lin5pyd5ye6546w5zyo6loh5rqq5zue5ps2562s6koh77yf/"><u>如何确保从外接硬碟上删除的檔案不會出现在資源回收筒裡？</u></a></li>
-<li><a href="https://win-help.techidaily.com/aprenda-a-preservar-suas-instalacoes-de-programas-em-sistemas-windows-metodos-facilmente-compreendidos/"><u>Aprenda a Preservar Suas Instalações De Programas Em Sistemas Windows (Métodos Facilmente Compreendidos)</u></a></li>
-<li><a href="https://win-help.techidaily.com/destination-des-fichiers-de-la-corbeille-apres-reprendre-dans-windows-11/"><u>Destination Des Fichiers De La Corbeille Après Reprendre Dans Windows 11</u></a></li>
-<li><a href="https://win-help.techidaily.com/effizientes-clonieren-von-mbr-zu-mbr-der-optimale-ansatz/"><u>Effizientes Clonieren: Von MBR Zu MBR - Der Optimale Ansatz</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-poco-f5-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Poco F5 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oneplus-nord-n30-se-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any OnePlus Nord N30 SE Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://win-help.techidaily.com/losungen-fur-das-beenden-der-dateiubertragung-in-windows-11-problemlosungsguide/"><u>Lösungen Für Das Beenden Der Dateiübertragung in Windows 11: Problemlösungsguide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/no-displayed-video-fixing-camera-issue-with-sony-a6400-for-2024/"><u>No Displayed Video Fixing Camera Issue with Sony A6400 for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/protect-your-digital-life-eradicate-facebooks-malicious-software-with-these-easy-steps/"><u>Protect Your Digital Life: Eradicate Facebook's Malicious Software with These Easy Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-enhancements-required-for-siri-ai-closing-the-gap-with-google-assistant-and-microsofts-cortana/"><u>Top 10 Enhancements Required for Siri AI: Closing the Gap with Google Assistant and Microsoft's Cortana</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-fixing-wpcapsddll-errors-in-windows/"><u>Troubleshooting Steps for Fixing wpcapsd.dll Errors in Windows</u></a></li>
-<li><a href="https://win-help.techidaily.com/unveiling-the-truth-about-identity-theft-shields-are-they-really-helping-or-just-luring-you-into-a-false-sense-of-security/"><u>Unveiling the Truth About Identity Theft Shields: Are They Really Helping or Just Luring You Into a False Sense of Security?</u></a></li>
-<li><a href="https://win-help.techidaily.com/1728502951706-windowscmd/"><u>WindowsでCMDを用いたデータ分解後のパーティション修復法</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-fantasy-forays-a-decades-best-games/"><u>[New] In 2024, Fantasy Forays A Decade’s Best Games</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-comprehensive-youtube-monetization-playbook-2024-edition/"><u>[New] The Comprehensive Youtube Monetization Playbook - 2024 Edition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ncovering-youtubes-top-viewed-comments/"><u>[New] Uncovering YouTube's Top Viewed Comments</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-system-prerequisites-for-running-big-sur-on-macs/"><u>[Updated] System Prerequisites for Running Big Sur on Macs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevating-your-content-game-5-strategic-tactics-for-instagram-success/"><u>Elevating Your Content Game 5 Strategic Tactics for Instagram Success</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-xs-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone XS when Phone is Broken?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/powerpoint-guide-to-adding-youtube-links-with-ease-for-2024/"><u>PowerPoint Guide to Adding YouTube Links with Ease for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/solving-common-printing-problems-understanding-and-fixing-ongoamoing-printer-error-messages-tips-by-yl-software-professionals/"><u>Solving Common Printing Problems: Understanding and Fixing Ongoamoing Printer Error Messages - Tips by YL Software Professionals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/steps-for-hyperlapse-photography-magic/"><u>Steps for Hyperlapse Photography Magic</u></a></li>
+<li><a href="https://win-help.techidaily.com/stunning-minimalist-hd-wallpaper-designs-and-photography-collections-yl-computing/"><u>Stunning Minimalist HD Wallpaper Designs & Photography Collections - YL Computing</u></a></li>
+<li><a href="https://win-help.techidaily.com/troubleshooting-common-issues-why-isnt-your-program-working-as-expected-insights-from-yl-computing/"><u>Troubleshooting Common Issues: Why Isn't Your Program Working As Expected? - Insights From YL Computing</u></a></li>
+<li><a href="https://win-help.techidaily.com/troubleshooting-scanners-reasons-for-lack-of-power-yl-computing-solutions/"><u>Troubleshooting Scanners: Reasons for Lack of Power (YL Computing Solutions)</u></a></li>
+<li><a href="https://win-help.techidaily.com/troubleshooting-your-graphics-cards-drivers-effective-solutions-by-yl-tech-experts-yl-software-support/"><u>Troubleshooting Your Graphics Card's Drivers: Effective Solutions by YL Tech Experts | YL Software Support</u></a></li>
+<li><a href="https://win-help.techidaily.com/unresponsive-keyboard-understanding-the-silent-keys-a-guide-by-yl-computing/"><u>Unresponsive Keyboard: Understanding the Silent Keys - A Guide by YL Computing</u></a></li>
+<li><a href="https://win-help.techidaily.com/yl-softwares-comprehensive-tutorial-for-fixing-sound-malfunctions-in-windows-systems/"><u>YL Software's Comprehensive Tutorial for Fixing Sound Malfunctions in Windows Systems</u></a></li>
+<li><a href="https://win-help.techidaily.com/yl-softwares-quick-how-to-easily-find-and-open-your-windows-control-panel/"><u>YL Software's Quick How-To: Easily Find and Open Your Windows Control Panel</u></a></li>
 </ul></div>
 
