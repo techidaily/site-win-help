@@ -1,7 +1,7 @@
 ---
 title: Verlorener Ordner in Windows 11 Wiederfinden - Schritt-Für-Schritt-Lösung
-date: 2025-02-10T04:09:06.657Z
-updated: 2025-02-13T01:41:30.957Z
+date: 2025-02-24T16:52:41.832Z
+updated: 2025-03-03T21:28:36.368Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546bbd2035bab816a7494c0bab9.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
@@ -59,10 +51,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -106,10 +94,6 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -134,10 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -148,35 +128,19 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -190,10 +154,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Don't click on emails and connections sent by strangers.
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -256,18 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-seamless-techniques-to-share-your-screen-on-google-meet/"><u>[New] 2024 Approved Seamless Techniques to Share Your Screen on Google Meet</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-demystifying-facebooks-blue-image-symbol/"><u>[New] Demystifying Facebook's Blue Image Symbol</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-professional-techniques-to-streamline-video-capture-on-computers-and-phones-for-2024/"><u>[New] Professional Techniques to Streamline Video Capture on Computers & Phones for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-free-best-youtube-video-editor-apps-for-android/"><u>[Updated] In 2024, FREE Best YouTube Video Editor Apps for Android</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-mac-capturing-screens-with-record-feature-for-2024/"><u>[Updated] Mastering Mac Capturing Screens with Record Feature for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/1728501297310-sd/"><u>无成本回收从格式化SD卡中重获图片指南</u></a></li>
-<li><a href="https://win-help.techidaily.com/acronis-true-image-vs-crucial2/"><u>Acronis True Image Vs. Crucial克隆：簡單解決2種錯誤方式</u></a></li>
-<li><a href="https://win-help.techidaily.com/easy-ways-to-integrate-customized-zedge-ringtones-for-each-contact-in-your-smartphone/"><u>Easy Ways to Integrate Customized Zedge Ringtones for Each Contact in Your Smartphone</u></a></li>
-<li><a href="https://windows11.techidaily.com/exiting-others-user-sessions-on-win-11/"><u>Exiting Others' User Sessions on Win 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-what-every-independent-youtuber-should-know-about-mcns/"><u>In 2024, What Every Independent YouTuber Should Know About MCNs</u></a></li>
-<li><a href="https://win-help.techidaily.com/probleme-mit-ihrem-laufwerk-c-gelost-eine-umfassende-uberprufung-und-reparatur-die-sie-schnell-zuruck-ins-geschaft-bringt/"><u>Probleme Mit Ihrem Laufwerk C Gelöst: Eine Umfassende Überprüfung Und Reparatur, Die Sie Schnell Zurück Ins Geschäft Bringt</u></a></li>
-<li><a href="https://win-help.techidaily.com/schnelle-und-einfache-losungen-6-methoden-zur-fehlerbehebung-von-windows-10/"><u>Schnelle Und Einfache Lösungen: 6 Methoden Zur Fehlerbehebung Von Windows 10</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ltimate-guide-finalcut-pro-for-youtube-editing-for-2024/"><u>[New] Ultimate Guide FinalCut Pro for YouTube Editing for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-time-manipulation-for-professional-videos/"><u>2024 Approved Seamless Time Manipulation for Professional Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-oceans-archive-best-practices-in-capturing-professional-underwater-footage/"><u>2024 Approved The Ocean’s Archive Best Practices in Capturing Professional Underwater Footage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-s23-ultra-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy S23 Ultra is off? | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/comprehensive-guide-to-different-software-installation-methods/"><u>Comprehensive Guide to Different Software Installation Methods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-transformation-with-digiarty-software-dvd-to-videofromat-converter/"><u>Effortless Transformation with Digiarty Software - DVD to Videofromat Converter</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-the-right-ricoh-printer-drivers-on-your-windows-pc/"><u>Find and Install the Right Ricoh Printer Drivers on Your Windows PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-windows-10-performance-issues-and-improve-speed-expert-solutions/"><u>Fix Windows 10 Performance Issues & Improve Speed: Expert Solutions</u></a></li>
+<li><a href="https://win-help.techidaily.com/free-conversion-tool-transform-swf-files-into-mp4-format-with-ease-movavi/"><u>Free Conversion Tool: Transform SWF Files Into MP4 Format with Ease - Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/free-online-converter-transform-mpeg-files-into-3g2-format-with-ease-movavi/"><u>Free Online Converter: Transform MPEG Files Into 3G2 Format with Ease - Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/gratuito-conversor-online-de-dpx-para-tiff-moviavi/"><u>Gratuito Conversor Online De DPX Para TIFF - MoviAVI</u></a></li>
+<li><a href="https://win-help.techidaily.com/guide-complet-convertissez-facilement-mp4-vers-wma-sans-frais-sur-la-plateforme-de-conversion-movavi/"><u>Guide Complet : Convertissez Facilement MP4 Vers WMA Sans Frais Sur La Plateforme De Conversion Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/movavi-media-player-a-secure-software-solution-for-multimedia-playback/"><u>Movavi Media Player: A Secure Software Solution for Multimedia Playback</u></a></li>
+<li><a href="https://win-help.techidaily.com/movavi-mp4mpeg-2-h264/"><u>Movavi: 원활한 웹 검색을 사용하여 MP4/MPEG-2를 H.264로 무료 변환 기능</u></a></li>
+<li><a href="https://win-help.techidaily.com/movavis-top-pick-seamless-wma-to-3gp-conversion-without-charge/"><u>Movavi's Top Pick: Seamless WMA to ^3GP Conversion Without Charge</u></a></li>
+<li><a href="https://win-help.techidaily.com/online-gratuito-per-la-conversione-di-mp3-in-formato-m4b-audiobook-utilizzo-di-movavi/"><u>Online Gratuito per La Conversione Di MP3 in Formato M4B Audiobook - Utilizzo Di Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/1726227639385-avi-mp4/"><u>무료 AVI 영상을 MP4로 바꾸기: 온라인 도구를 사용한 단계별 가이드</u></a></li>
 </ul></div>
 

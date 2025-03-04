@@ -1,7 +1,7 @@
 ---
 title: Comment Résoudre Les Problèmes De Chiffrement Des Emails Dans Microsoft Outlook ?
-date: 2025-02-07T04:20:34.949Z
-updated: 2025-02-13T02:43:20.169Z
+date: 2025-03-03T02:07:48.942Z
+updated: 2025-03-03T18:51:36.588Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf653453a52ec177581ebd538d.jpg
@@ -28,20 +28,12 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -73,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -84,10 +72,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -97,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -108,10 +88,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,20 +170,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-essential-route-for-finding-visual-gold-on-pexels/"><u>[New] The Essential Route for Finding Visual Gold on Pexels</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-must-know-leaders-in-virtual-reality-realm-for-2024/"><u>[Updated] Must-Know Leaders in Virtual Reality Realm for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-talking-head-techniques-diy-filming-made-simple/"><u>[Updated] Talking Head Techniques DIY Filming Made Simple</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-27-significant-metaverse-demonstrations-unveiled/"><u>2024 Approved 27 Significant Metaverse Demonstrations Unveiled</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-redmi-note-12-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Redmi Note 12 4G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/5-most-effective-techniques-for-fixing-windows-issues-with-command-prompt/"><u>5 Most Effective Techniques for Fixing Windows Issues with Command Prompt</u></a></li>
-<li><a href="https://win-help.techidaily.com/1728483484251-aomei-backupper/"><u>AOMEI Backupper中的映像兼容性檢查方法與技巧</u></a></li>
-<li><a href="https://win-help.techidaily.com/comment-supprimer-le-formatage-sur-une-carte-sd-sous-windows/"><u>Comment Supprimer Le Formatage Sur Une Carte SD Sous Windows?</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/decouvrez-les-cles-de-la-comprehension-des-architectures-32-bit-et-64-bit/"><u>Découvrez Les Clés De La Compréhension Des Architectures 32-Bit Et 64-Bit</u></a></li>
-<li><a href="https://win-help.techidaily.com/easy-steps-para-cambiar-la-hdd-por-un-ssd-en-windows-11-8-y-7/"><u>Easy Steps Para Cambiar La HDD Por Un SSD en Windows 11, 8 Y 7</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-voice-over-recording-made-easy-fcp-tips-for-beginners-and-pros-for-2024/"><u>New Voice Over Recording Made Easy FCP Tips for Beginners and Pros for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/przewodnik-technyca-dla-migracji-danych-do-samsung-na-system-windows-10/"><u>Przewodnik Technyca Dla Migracji Danych Do Samsung Na System Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-deactivating-the-built-in-sound-effects-for-better-audio-on-windows-e/"><u>Step-by-Step Guide: Deactivating the Built-In Sound Effects for Better Audio on Windows E</u></a></li>
-<li><a href="https://win-help.techidaily.com/step-by-step-guide-seamlessly-moving-your-live-photos-from-iphone-to-windowsmac-computer/"><u>Step-by-Step Guide: Seamlessly Moving Your Live Photos From iPhone to Windows/Mac Computer</u></a></li>
-<li><a href="https://win-help.techidaily.com/unable-to-locate-webpage-encountered-a-page-doesnt-exist-error/"><u>Unable to Locate Webpage: Encountered a 'Page Doesn't Exist' Error</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-going-back-in-time-your-android-movie-method/"><u>[New] In 2024, Going Back in Time Your Android Movie Method</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-upscaling-preferred-platforms-for-tapping-snapalert-rhythms/"><u>[New] Ultimate Upscaling Preferred Platforms for Tapping SnapAlert Rhythms</u></a></li>
+<li><a href="https://win-help.techidaily.com/acer-erecover/"><u>ACER eRecover ドライブをオリジナル工場梱包状態に完全修復</u></a></li>
+<li><a href="https://win-help.techidaily.com/comprehensive-walkthrough-for-implementing-backuprestore-in-windows-server-2012-using-wbadmin/"><u>Comprehensive Walkthrough for Implementing Backup/Restore in Windows Server 2012 Using WBadmin</u></a></li>
+<li><a href="https://win-help.techidaily.com/datenwiederherstellung-nach-loschen-von-benutzerdateien-in-windows-11-effiziente-methoden-und-tipps/"><u>Datenwiederherstellung Nach Löschen Von Benutzerdateien in Windows 11 – Effiziente Methoden Und Tipps</u></a></li>
+<li><a href="https://win-help.techidaily.com/die-fuhrenden-techniken-zum-schutz-ihrer-windows-server-2016-dateiinhalte-top-2-wege-erklart/"><u>Die Führenden Techniken Zum Schutz Ihrer Windows Server 2016-Dateiinhalte | Top 2 Wege Erklärt</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-move-your-files-from-hdd-to-ssd-efficiently-in-windows-10-or-11-with-dual-techniques/"><u>How to Move Your Files From HDD to SSD Efficiently in Windows 10 or 11 with Dual Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-virtual-odyssey-navigating-sci-fi-metaverse-adventures-in-film/"><u>In 2024, Virtual Odyssey Navigating Sci-Fi Metaverse Adventures in Film</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-dells-all-in-one-solution-a-gamechanger-ultraportable-gaming-laptop-ideal-for-work-and-play-zdnet-insights/"><u>Introducing Dell's All-in-One Solution: A GameChanger Ultraportable Gaming Laptop Ideal for Work and Play | ZDNet Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-instagram-reels-a-ninjas-guide-for-2024/"><u>Mastering Instagram Reels A Ninja's Guide for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-take-your-video-editing-to-the-next-level-on-mac-with-adobe-premiere-pro/"><u>New In 2024, Take Your Video Editing to the Next Level on Mac with Adobe Premiere Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/reducing-recording-ambiance-free-methods-and-pros-for-2024/"><u>Reducing Recording Ambiance Free Methods and Pros for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/rescuing-information-from-disaster-a-step-by-step-guide-to-repairing-your-malfunctioning-seagate-portable-hard-drive/"><u>Rescuing Information From Disaster: A Step-by-Step Guide to Repairing Your Malfunctioning Seagate Portable Hard Drive</u></a></li>
+<li><a href="https://win-help.techidaily.com/restore-unassigned-partitions-on-windows-7-using-myrecover/"><u>Restore Unassigned Partitions on Windows 7 Using MyRecover</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/transforming-images-with-the-best-color-adjustment-guides/"><u>Transforming Images with the Best Color Adjustment Guides</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-stop-rocket-league-from-freezing-tips-and-solutions/"><u>Ultimate Guide: Stop Rocket League From Freezing (Tips & Solutions)</u></a></li>
+<li><a href="https://win-help.techidaily.com/understanding-the-risks-how-do-hackers-spread-infections-through-websites-and-is-simply-browsing-enough-to-compromise-your-security/"><u>Understanding the Risks: How Do Hackers Spread Infections Through Websites, and Is Simply Browsing Enough To Compromise Your Security?</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728461054603-windows-server/"><u>Windows Server最適のバックアップツール一覧</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728491072639-windows10/"><u>Windows10基础设置重置手册：一步到位的系统回复流程</u></a></li>
 </ul></div>
 

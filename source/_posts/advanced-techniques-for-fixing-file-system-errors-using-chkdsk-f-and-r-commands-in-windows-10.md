@@ -1,7 +1,7 @@
 ---
 title: Advanced Techniques for Fixing File System Errors Using CHKDSK /F and /R Commands in Windows 10
-date: 2025-02-06T22:32:13.593Z
-updated: 2025-02-12T19:14:32.805Z
+date: 2025-03-01T05:00:27.940Z
+updated: 2025-03-04T01:54:44.985Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cece118b77c428c885565f6981.jpg
@@ -35,10 +35,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -69,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -89,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -108,10 +92,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -124,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,20 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-help.techidaily.com/1728492205241-0x80073712/"><u>解決方法：錯誤代碼 0X80073712 - 修改失效的更新檔</u></a></li>
-<li><a href="https://win-help.techidaily.com/accelerate-your-deleted-files-comeback-in-windows-11-without-spending-a-dime-mastering-5-exceptional-methods-via-ifind-software-solutions/"><u>Accelerate Your Deleted Files' Comeback in Windows 11 without Spending a Dime: Mastering 5 Exceptional Methods via iFinD Software Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-honor-magic-v2-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Honor Magic V2?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/este-articulo-te-ensena-como-recuperar-mensajes-eliminados-de-wechat-tanto-en-dispositivos-ios-como-android/"><u>Este Artículo Te Enseña Cómo Recuperar Mensajes Eliminados De WeChat Tanto en Dispositivos iOS Como Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-guide-downloading-and-setting-up-auto-gpt-with-ease/"><u>Expert Guide: Downloading and Setting Up Auto-GPT with Ease</u></a></li>
-<li><a href="https://win-help.techidaily.com/how-to-eliminate-computer-viruses-effectively-without-relying-on-traditional-antivirus-software/"><u>How to Eliminate Computer Viruses Effectively without Relying on Traditional Antivirus Software</u></a></li>
-<li><a href="https://win-help.techidaily.com/hp-pavilion-x360-ssd/"><u>HP Pavilion X360 SSDアップグレード手順：データ安全に保つ方法</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-overcoming-common-windows-10-photos-display-problems/"><u>In 2024, Overcoming Common Windows 10 Photos Display Problems</u></a></li>
-<li><a href="https://win-help.techidaily.com/managing-multiple-computers-can-one-windows-11-login-serve-both-systems/"><u>Managing Multiple Computers – Can One Windows 11 Login Serve Both Systems?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/offline-entertainment-how-to-load-youtube-video-onto-your-apple-gear-for-2024/"><u>Offline Entertainment How to Load YouTube Video Onto Your Apple Gear for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/quick-and-simple-facial-masking-in-photos/"><u>Quick & Simple Facial Masking in Photos</u></a></li>
-<li><a href="https://win-help.techidaily.com/step-by-step-guide-reinstalling-your-favorite-apps-from-an-itunes-backup/"><u>Step-by-Step Guide: Reinstalling Your Favorite Apps From an iTunes Backup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-detailed-breakdown-of-iphone-15-pro-max-and-galaxy-s24-ultra-who-wins/"><u>The Detailed Breakdown of iPhone 15 Pro Max and Galaxy S24 Ultra – Who Wins?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-modern-warfare-3-from-crashing-on-your-pc/"><u>Troubleshooting Guide: How to Stop Modern Warfare 3 From Crashing on Your PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ultimate-guide-to-action-film-snapshotting/"><u>Ultimate Guide to Action Film Snapshotting</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-zoom-efficiency-top-three-strategies-for-format-finesse/"><u>[New] 2024 Approved Zoom Efficiency Top Three Strategies for Format Finesse</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-increase-photo-resolution-unaltered-image-for-2024/"><u>[New] Increase Photo Resolution - Unaltered Image for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-simplify-tech-sharing-effective-use-of-the-ezvide-toolkit/"><u>[Updated] Simplify Tech Sharing Effective Use of the Ezvide Toolkit</u></a></li>
+<li><a href="https://win-help.techidaily.com/1726226049659-movavimp4gif/"><u>安価なオンラインツール: Movaviを使ったMP4ファイルからGIFへ無料で簡単に変換するコツ</u></a></li>
+<li><a href="https://win-help.techidaily.com/accelerating-your-pc-expert-tips-on-boosting-windows-performance-by-yl-computing/"><u>Accelerating Your PC: Expert Tips on Boosting Windows Performance by YL Computing</u></a></li>
+<li><a href="https://win-help.techidaily.com/conversion-mp4-en-flv-gratuite-sur-internet-methodes-efficaces-utilisant-movavi/"><u>Conversion MP4 en FLV Gratuite Sur Internet : Méthodes Efficaces Utilisant Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-meizu-21-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Meizu 21</u></a></li>
+<li><a href="https://win-help.techidaily.com/gratuitamente-converti-i-file-ogv-in-mp4-online-utilizzo-di-movavi-per-la-conversione-video-facile-e-veloce/"><u>Gratuitamente Converti I File OGV in MP4 Online - Utilizzo Di Movavi per La Conversione Video Facile E Veloce</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-complete-look-at-color-correction-for-gopro-videos/"><u>In 2024, A Complete Look at Color Correction for GoPro Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplifying-the-complex-an-in-depth-review-of-vida-app-for-2024/"><u>Simplifying the Complex An In-Depth Review of Vida App for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/tre-latta-steg-for-att-omvandla-wma-till-mp3-i-windowsmac-expertinsikt/"><u>Tre Lätta Steg För Att Omvandla WMA Till MP3 I Windows/Mac - Expertinsikt</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-kodi-network-errors-failed-directory-access/"><u>Troubleshooting and Solving Kodi Network Errors: Failed Directory Access</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-fixing-issues-with-ieframedll-errors-swiftly/"><u>Troubleshooting Techniques: Fixing Issues with Ieframe.Dll Errors Swiftly</u></a></li>
+<li><a href="https://win-help.techidaily.com/verifying-active-status-of-windows-defender-a-step-by-step-guide-tips-from-yl-computing/"><u>Verifying Active Status of Windows Defender: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-help.techidaily.com/jpg-png/"><u>온라인 JPG에서 PNG로의 부드러운 자유성 변환 - 모바비</u></a></li>
 </ul></div>
 

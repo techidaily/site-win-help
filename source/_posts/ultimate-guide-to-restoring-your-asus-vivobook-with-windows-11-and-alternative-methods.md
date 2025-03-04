@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Restoring Your ASUS VivoBook with Windows 11 & Alternative Methods
-date: 2025-02-09T23:21:26.168Z
-updated: 2025-02-12T17:42:26.832Z
+date: 2025-02-28T03:27:39.622Z
+updated: 2025-03-03T23:57:03.575Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb100b93a3444f92f9f5d3614.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -47,15 +43,7 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -73,10 +61,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -89,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -104,10 +84,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -148,10 +124,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,22 +170,17 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-best-bargain-scene-for-no-cost-video-capturing-on-chromebooks-for-2024/"><u>[New] Best Bargain Scene for No-Cost Video Capturing on Chromebooks for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-step-into-the-world-of-modified-snapchat-speeches-two-simple-steps/"><u>[New] Step Into the World of Modified Snapchat Speeches Two Simple Steps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-lightning-fast-windows-photo-inspector/"><u>2024 Approved Lightning-Fast Windows Photo Inspector</u></a></li>
-<li><a href="https://win-help.techidaily.com/windows-1011-sysprep/"><u>進入 Windows 10/11裡的 Sysprep - 完全解決方案系統初始化演示</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210965518-9781088214138-el-sonambulo/"><u>El Sonámbulo | Free Book</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-13-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 13 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-infinix-note-30i-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Infinix Note 30i Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-unveiling-social-media-stars-your-niches-influencers-guide/"><u>In 2024, Unveiling Social Media Stars Your Niche’s Influencers Guide</u></a></li>
-<li><a href="https://win-help.techidaily.com/lost-video-daten-auf-microsd-wiederfinden-und-retten-tipps-and-tricks/"><u>Lost Video Daten Auf MicroSD Wiederfinden Und Retten - Tipps & Tricks</u></a></li>
-<li><a href="https://win-help.techidaily.com/mempersiapkan-diri-sebab-cara-cukup-sederhana-untuk-mudahiwirikan-data-dari-hard-drive-yang-malfunctioning-dan-gratis/"><u>Mempersiapkan Diri Sebab! Cara Cukup Sederhana Untuk Mudahiwirikan Data Dari Hard Drive Yang Malfunctioning Dan Gratis!</u></a></li>
-<li><a href="https://win-help.techidaily.com/optimized-approach-to-prevent-persistent-backups-on-windows-servers-detailed-guide/"><u>Optimized Approach to Prevent Persistent Backups on Windows Servers – Detailed Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/samsung-ru7300-55-inch-curved-tv-in-4k-is-it-the-best-smart-television-of-its-class-find-out-here/"><u>Samsung RU7300 55-Inch Curved TV in 4K - Is It the Best Smart Television of Its Class? Find Out Here!</u></a></li>
-<li><a href="https://win-help.techidaily.com/speedy-guide-the-simplest-methods-for-swiftly-retrieving-and-printing-sms-from-your-iphone/"><u>Speedy Guide: The Simplest Methods for Swiftly Retrieving and Printing SMS From Your iPhone</u></a></li>
-<li><a href="https://win-help.techidaily.com/successful-troubleshooting-steps-to-resolve-windows-server-201n9-setup-issues/"><u>Successful Troubleshooting Steps to Resolve Windows Server 201N9 Setup Issues</u></a></li>
-<li><a href="https://win-help.techidaily.com/troubleshooting-guide-for-persistent-startup-problems-in-windows-11/"><u>Troubleshooting Guide for Persistent Startup Problems in Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y100-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/1728510352746-windows-11/"><u>あなたのデータが安全 - Windows 11でオフ時に自動的にバックアップ</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/affordable-microsoft-office-access-secure-your-windowsmac-license-at-just-25-through-our-exclusive-deal-by-zdnet/"><u>Affordable Microsoft Office Access! Secure Your Windows/Mac License at Just $25 Through Our Exclusive Deal by ZDNet.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cinematic-bliss-at-home-watch-our-picks-for-the-best-15-dolby-atmos-films/"><u>Cinematic Bliss at Home: Watch Our Picks for the Best 15 Dolby Atmos Films</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/download-stunning-yl-software-created-ford-focus-st-walls-for-ultimate-personalization/"><u>Download Stunning YL Software-Created Ford Focus ST Walls for Ultimate Personalization</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-xs-max-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone XS Max</u></a></li>
+<li><a href="https://win-help.techidaily.com/imessage-communication-on-windows-explained-a-comprehensive-walkthrough-by-zdnet/"><u>IMessage Communication on Windows Explained: A Comprehensive Walkthrough by ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-access-your-screen-star-downloadable-rights/"><u>In 2024, Access Your Screen Star Downloadable Rights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-the-transition-moving-your-snapchat-savings-home/"><u>In 2024, Mastering the Transition Moving Your Snapchat Savings Home</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterpieces-unleashed-a-comprehensive-look-at-the-bestiary-of-8-iphone-drawing-apps/"><u>In 2024, Masterpieces Unleashed A Comprehensive Look at the Bestiary of 8 iPhone Drawing Apps</u></a></li>
+<li><a href="https://win-help.techidaily.com/master-bing-chat-with-dark-mode-activation-steps-unveiled-zdnet/"><u>Master Bing Chat with Dark Mode: Activation Steps Unveiled - ZDNet</u></a></li>
+<li><a href="https://win-help.techidaily.com/microsoft-empowers-staff-with-team-upgrades-a-bold-move-by-zdnet/"><u>Microsoft Empowers Staff with Team Upgrades - A Bold Move by ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Huawei Nova Y91 | Dr.fone</u></a></li>
 </ul></div>
 
